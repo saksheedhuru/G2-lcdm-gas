@@ -1,0 +1,1459 @@
+
+Step(*): 0, t: 0.0909091, dt: 0, highest active timebin: 0  (lowest active: 0, highest occupied: 0)
+Nf=    65536  timebin=0  total-Nf=65536
+   work-load balance: 1.14947   part/sec: raw=114993, effective=100040     ia/part: avg=87.1098   (86.5704|0.539337)
+   maximum number of nodes: 880, filled: 0.981048  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0170053  <tree>=0.0142478  <wait>=0.00201056  <fetch>=1.31924e-05  <stack>=1.84261e-05  (lastpm=0.0248312) sec
+   total interaction cost: 5.70883e+06  (imbalance=1.19938)
+Nf=    65536  timebin=0  total-Nf=131072
+   work-load balance: 1.15403   part/sec: raw=108637, effective=94137.1     ia/part: avg=89.5737   (89.5735|0.000137329)
+   maximum number of nodes: 880, filled: 0.981048  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0178768  <tree>=0.0150814  <wait>=0.00233174  <fetch>=1.51373e-06  <stack>=6.77481e-06  (lastpm=0.0248312) sec
+   total interaction cost: 5.8703e+06  (imbalance=1.21083)
+
+Step(*): 1, t: 0.0926282, dt: 0.0017191, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=196608
+   work-load balance: 1.11693   part/sec: raw=105742, effective=94672     ia/part: avg=89.7646   (89.7645|0.00012207)
+   maximum number of nodes: 1021, filled: 0.983622  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0178609  <tree>=0.0154943  <wait>=0.00182201  <fetch>=2.38274e-06  <stack>=8.04868e-06  (lastpm=0.00600037) sec
+   total interaction cost: 5.88281e+06  (imbalance=1.13696)
+
+Step(*): 2, t: 0.0943798, dt: 0.00175161, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=262144
+   work-load balance: 1.12561   part/sec: raw=106745, effective=94833.4     ia/part: avg=89.9553   (89.9552|4.57764e-05)
+   maximum number of nodes: 1058, filled: 0.988785  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.017753  <tree>=0.0153487  <wait>=0.00193856  <fetch>=7.65338e-06  <stack>=4.22743e-05  (lastpm=0.00616939) sec
+   total interaction cost: 5.89531e+06  (imbalance=1.14513)
+
+Step(*): 3, t: 0.0961645, dt: 0.00178473, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=327680
+   work-load balance: 1.12996   part/sec: raw=107692, effective=95305.4     ia/part: avg=90.1461   (90.146|0.00012207)
+   maximum number of nodes: 1065, filled: 0.987941  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0176548  <tree>=0.0152138  <wait>=0.0019851  <fetch>=2.14791e-06  <stack>=7.14916e-06  (lastpm=0.00594847) sec
+   total interaction cost: 5.90781e+06  (imbalance=1.14165)
+
+Step(*): 4, t: 0.097983, dt: 0.00181848, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=393216
+   work-load balance: 1.14005   part/sec: raw=107406, effective=94211.5     ia/part: avg=90.3415   (90.3414|0.000137329)
+   maximum number of nodes: 1066, filled: 0.988868  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0179028  <tree>=0.0152543  <wait>=0.00214583  <fetch>=1.97887e-06  <stack>=6.80168e-06  (lastpm=0.0061697) sec
+   total interaction cost: 5.92062e+06  (imbalance=1.14735)
+
+Step(*): 5, t: 0.0998359, dt: 0.00185287, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=458752
+   work-load balance: 1.16392   part/sec: raw=108296, effective=93044.7     ia/part: avg=90.5466   (90.5465|0.000137329)
+   maximum number of nodes: 1094, filled: 0.999087  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0180962  <tree>=0.0151288  <wait>=0.00249034  <fetch>=2.14474e-06  <stack>=8.21413e-06  (lastpm=0.00571843) sec
+   total interaction cost: 5.93406e+06  (imbalance=1.14817)
+
+Step(*): 6, t: 0.101724, dt: 0.00188791, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=524288
+   work-load balance: 1.1205   part/sec: raw=107505, effective=95944.1     ia/part: avg=90.7517   (90.7515|0.000152588)
+   maximum number of nodes: 1106, filled: 0.982238  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0175408  <tree>=0.0152402  <wait>=0.00184491  <fetch>=2.19853e-06  <stack>=7.1391e-06  (lastpm=0.00693376) sec
+   total interaction cost: 5.9475e+06  (imbalance=1.14718)
+
+Step(*): 7, t: 0.103647, dt: 0.00192361, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=589824
+   work-load balance: 1.1271   part/sec: raw=107420, effective=95306.1     ia/part: avg=90.9614   (90.9614|0)
+   maximum number of nodes: 1116, filled: 0.988485  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0178  <tree>=0.0152523  <wait>=0.0019503  <fetch>=2.15694e-06  <stack>=7.89552e-06  (lastpm=0.00614764) sec
+   total interaction cost: 5.96125e+06  (imbalance=1.13597)
+
+Step(*): 8, t: 0.105607, dt: 0.00195999, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=655360
+   work-load balance: 1.11473   part/sec: raw=107637, effective=96559.1     ia/part: avg=91.1772   (91.1772|0)
+   maximum number of nodes: 1124, filled: 0.991182  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.017477  <tree>=0.0152215  <wait>=0.00175678  <fetch>=1.93468e-06  <stack>=7.30925e-06  (lastpm=0.00597693) sec
+   total interaction cost: 5.97539e+06  (imbalance=1.13949)
+
+Step(*): 9, t: 0.107604, dt: 0.00199705, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=720896
+   work-load balance: 1.13633   part/sec: raw=107237, effective=94371.2     ia/part: avg=91.3967   (91.3967|0)
+   maximum number of nodes: 1143, filled: 0.999126  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0178521  <tree>=0.0152783  <wait>=0.00209442  <fetch>=2.12663e-06  <stack>=7.10106e-06  (lastpm=0.00611124) sec
+   total interaction cost: 5.98977e+06  (imbalance=1.14214)
+
+Step(*): 10, t: 0.109639, dt: 0.00203481, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=786432
+   work-load balance: 1.14884   part/sec: raw=107429, effective=93510.5     ia/part: avg=91.6218   (91.6216|0.000137329)
+   maximum number of nodes: 1188, filled: 0.980198  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0179816  <tree>=0.015251  <wait>=0.0022794  <fetch>=2.11522e-06  <stack>=7.06878e-06  (lastpm=0.00587689) sec
+   total interaction cost: 6.00452e+06  (imbalance=1.13929)
+
+Step(*): 11, t: 0.111713, dt: 0.00207329, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=851968
+   work-load balance: 1.13914   part/sec: raw=106698, effective=93666.2     ia/part: avg=91.8551   (91.8549|0.000137329)
+   maximum number of nodes: 1207, filled: 0.996697  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0179642  <tree>=0.0153554  <wait>=0.00214994  <fetch>=1.95247e-06  <stack>=8.09971e-06  (lastpm=0.00587625) sec
+   total interaction cost: 6.01981e+06  (imbalance=1.14313)
+
+Step(*): 12, t: 0.113825, dt: 0.0021125, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=917504
+   work-load balance: 1.14497   part/sec: raw=107340, effective=93749.4     ia/part: avg=92.0963   (92.0961|0.000213623)
+   maximum number of nodes: 1223, filled: 0.987086  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0179713  <tree>=0.0152637  <wait>=0.00222338  <fetch>=2.0978e-06  <stack>=7.17998e-06  (lastpm=0.00619434) sec
+   total interaction cost: 6.03562e+06  (imbalance=1.1468)
+
+Step(*): 13, t: 0.115978, dt: 0.00215245, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=983040
+   work-load balance: 1.1207   part/sec: raw=106089, effective=94663.7     ia/part: avg=92.3467   (92.3465|0.000198364)
+   maximum number of nodes: 1229, filled: 0.999187  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0178058  <tree>=0.0154436  <wait>=0.00187208  <fetch>=2.03215e-06  <stack>=8.46093e-06  (lastpm=0.00604378) sec
+   total interaction cost: 6.05204e+06  (imbalance=1.14028)
+
+Step(*): 14, t: 0.118171, dt: 0.00219315, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=1048576
+   work-load balance: 1.14458   part/sec: raw=106482, effective=93031.1     ia/part: avg=92.6018   (92.6015|0.000289917)
+   maximum number of nodes: 1246, filled: 0.995208  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0181122  <tree>=0.0153867  <wait>=0.00223468  <fetch>=1.98395e-06  <stack>=7.19843e-06  (lastpm=0.00617542) sec
+   total interaction cost: 6.06875e+06  (imbalance=1.1232)
+
+Step(*): 15, t: 0.120405, dt: 0.00223462, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=1114112
+   work-load balance: 1.12789   part/sec: raw=106145, effective=94109.4     ia/part: avg=92.8605   (92.8603|0.000259399)
+   maximum number of nodes: 1264, filled: 0.99842  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0178617  <tree>=0.0154355  <wait>=0.00198045  <fetch>=2.19443e-06  <stack>=7.1683e-06  (lastpm=0.0059565) sec
+   total interaction cost: 6.08571e+06  (imbalance=1.13353)
+
+Step(*): 16, t: 0.122682, dt: 0.00227688, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=1179648
+   work-load balance: 1.13952   part/sec: raw=106226, effective=93219.7     ia/part: avg=93.1337   (93.133|0.000686646)
+   maximum number of nodes: 1249, filled: 0.992846  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0180197  <tree>=0.0154238  <wait>=0.00216168  <fetch>=1.95471e-06  <stack>=6.90399e-06  (lastpm=0.00606366) sec
+   total interaction cost: 6.10361e+06  (imbalance=1.14267)
+
+Step(*): 17, t: 0.125002, dt: 0.00231994, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=1245184
+   work-load balance: 1.14318   part/sec: raw=106028, effective=92748.3     ia/part: avg=93.403   (93.4023|0.000732422)
+   maximum number of nodes: 1275, filled: 0.990676  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0181095  <tree>=0.0154526  <wait>=0.00222058  <fetch>=1.9487e-06  <stack>=7.01402e-06  (lastpm=0.00604155) sec
+   total interaction cost: 6.12126e+06  (imbalance=1.14921)
+
+Step(*): 18, t: 0.127366, dt: 0.00236381, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=1310720
+   work-load balance: 1.14982   part/sec: raw=106298, effective=92447.4     ia/part: avg=93.6908   (93.6898|0.000991821)
+   maximum number of nodes: 1297, filled: 0.986312  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0181699  <tree>=0.0154133  <wait>=0.00232041  <fetch>=2.09301e-06  <stack>=7.27079e-06  (lastpm=0.00578538) sec
+   total interaction cost: 6.14012e+06  (imbalance=1.14783)
+
+Step(*): 19, t: 0.129774, dt: 0.00240851, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=1376256
+   work-load balance: 1.15052   part/sec: raw=105627, effective=91807.9     ia/part: avg=93.9824   (93.9815|0.000900269)
+   maximum number of nodes: 1311, filled: 0.99093  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0183721  <tree>=0.0155112  <wait>=0.00234322  <fetch>=1.9107e-06  <stack>=8.70903e-06  (lastpm=0.00582016) sec
+   total interaction cost: 6.15923e+06  (imbalance=1.13365)
+
+Step(*): 20, t: 0.132228, dt: 0.00245405, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=1441792
+   work-load balance: 1.18711   part/sec: raw=106440, effective=89663.5     ia/part: avg=94.2764   (94.2754|0.0010376)
+   maximum number of nodes: 1326, filled: 0.993258  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.018741  <tree>=0.0153927  <wait>=0.00288937  <fetch>=2.184e-06  <stack>=7.32993e-06  (lastpm=0.00630122) sec
+   total interaction cost: 6.1785e+06  (imbalance=1.15277)
+
+Step(*): 21, t: 0.134729, dt: 0.00250046, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=1507328
+   work-load balance: 1.14578   part/sec: raw=106117, effective=92615.7     ia/part: avg=94.5761   (94.5751|0.00106812)
+   maximum number of nodes: 1348, filled: 0.986823  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0181579  <tree>=0.0154395  <wait>=0.00226182  <fetch>=2.66968e-06  <stack>=8.37487e-06  (lastpm=0.00626651) sec
+   total interaction cost: 6.19814e+06  (imbalance=1.14254)
+
+Step(*): 22, t: 0.137277, dt: 0.00254774, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=1572864
+   work-load balance: 1.14848   part/sec: raw=105709, effective=92042.5     ia/part: avg=94.8839   (94.8825|0.00137329)
+   maximum number of nodes: 1353, filled: 1  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0182906  <tree>=0.0154992  <wait>=0.00231475  <fetch>=1.9995e-06  <stack>=9.39374e-06  (lastpm=0.0159658) sec
+   total interaction cost: 6.21831e+06  (imbalance=1.12907)
+
+Step(*): 23, t: 0.139873, dt: 0.00259592, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=1638400
+   work-load balance: 1.13302   part/sec: raw=105771, effective=93352.9     ia/part: avg=95.2   (95.1984|0.00154114)
+   maximum number of nodes: 1379, filled: 0.980797  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0180103  <tree>=0.0154901  <wait>=0.00206825  <fetch>=1.02092e-05  <stack>=9.63616e-06  (lastpm=0.00603939) sec
+   total interaction cost: 6.23902e+06  (imbalance=1.13345)
+
+Step(*): 24, t: 0.142518, dt: 0.00264501, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=1703936
+   work-load balance: 1.11909   part/sec: raw=105371, effective=94157.6     ia/part: avg=95.5275   (95.5267|0.000717163)
+   maximum number of nodes: 1385, filled: 0.98717  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0178275  <tree>=0.0155489  <wait>=0.00186187  <fetch>=1.91624e-06  <stack>=7.22185e-06  (lastpm=0.00605625) sec
+   total interaction cost: 6.26049e+06  (imbalance=1.12882)
+
+Step(*): 25, t: 0.145213, dt: 0.00269503, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=1769472
+   work-load balance: 1.14928   part/sec: raw=105708, effective=91977.7     ia/part: avg=95.8626   (95.8612|0.00137329)
+   maximum number of nodes: 1403, filled: 0.986639  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0182229  <tree>=0.0154993  <wait>=0.00232454  <fetch>=1.92174e-06  <stack>=8.47592e-06  (lastpm=0.00599078) sec
+   total interaction cost: 6.28245e+06  (imbalance=1.13323)
+
+Step(*): 26, t: 0.147959, dt: 0.00274599, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=1835008
+   work-load balance: 1.13685   part/sec: raw=105457, effective=92761.7     ia/part: avg=96.2238   (96.2224|0.00134277)
+   maximum number of nodes: 1410, filled: 0.981211  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0181128  <tree>=0.0155363  <wait>=0.00213655  <fetch>=1.89645e-06  <stack>=7.44355e-06  (lastpm=0.00577032) sec
+   total interaction cost: 6.30612e+06  (imbalance=1.14004)
+
+Step(*): 27, t: 0.150757, dt: 0.00279792, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=1900544
+   work-load balance: 1.14076   part/sec: raw=104732, effective=91809     ia/part: avg=96.5952   (96.5939|0.00137329)
+   maximum number of nodes: 1419, filled: 0.983368  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0182684  <tree>=0.0156438  <wait>=0.00221349  <fetch>=1.88667e-06  <stack>=9.08496e-06  (lastpm=0.00597216) sec
+   total interaction cost: 6.33047e+06  (imbalance=1.12362)
+
+Step(*): 28, t: 0.153607, dt: 0.00285083, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=1966080
+   work-load balance: 1.12591   part/sec: raw=105229, effective=93461.2     ia/part: avg=96.9713   (96.9691|0.00221252)
+   maximum number of nodes: 1430, filled: 0.995822  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0180264  <tree>=0.0155699  <wait>=0.00196969  <fetch>=2.12342e-06  <stack>=8.80174e-06  (lastpm=0.00594612) sec
+   total interaction cost: 6.35511e+06  (imbalance=1.13047)
+
+Step(*): 29, t: 0.156512, dt: 0.00290473, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=2031616
+   work-load balance: 1.13394   part/sec: raw=105006, effective=92603.1     ia/part: avg=97.3642   (97.361|0.00314331)
+   maximum number of nodes: 1440, filled: 0.989011  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0181591  <tree>=0.0156029  <wait>=0.00210977  <fetch>=1.9188e-06  <stack>=6.9743e-06  (lastpm=0.00601851) sec
+   total interaction cost: 6.38086e+06  (imbalance=1.11711)
+
+Step(*): 30, t: 0.159472, dt: 0.00295966, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=2097152
+   work-load balance: 1.14063   part/sec: raw=105005, effective=92058.7     ia/part: avg=97.7599   (97.7549|0.00498962)
+   maximum number of nodes: 1468, filled: 0.998639  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0182793  <tree>=0.0156031  <wait>=0.00220564  <fetch>=2.10665e-06  <stack>=8.74214e-06  (lastpm=0.00596557) sec
+   total interaction cost: 6.40679e+06  (imbalance=1.12621)
+
+Step(*): 31, t: 0.162487, dt: 0.00301563, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=2162688
+   work-load balance: 1.11444   part/sec: raw=103605, effective=92966.1     ia/part: avg=98.1672   (98.1606|0.00653076)
+   maximum number of nodes: 1500, filled: 0.982962  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0181141  <tree>=0.0158139  <wait>=0.0018212  <fetch>=2.15531e-06  <stack>=7.45007e-06  (lastpm=0.00589986) sec
+   total interaction cost: 6.43348e+06  (imbalance=1.10468)
+
+Step(*): 32, t: 0.16556, dt: 0.00307266, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=2228224
+   work-load balance: 1.11752   part/sec: raw=104283, effective=93316.2     ia/part: avg=98.5827   (98.5745|0.00816345)
+   maximum number of nodes: 1523, filled: 0.992182  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0180346  <tree>=0.0157111  <wait>=0.00185613  <fetch>=2.27429e-06  <stack>=1.00187e-05  (lastpm=0.00611999) sec
+   total interaction cost: 6.46072e+06  (imbalance=1.11479)
+
+Step(*): 33, t: 0.168691, dt: 0.00313076, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=2293760
+   work-load balance: 1.13904   part/sec: raw=104303, effective=91571.1     ia/part: avg=99.0255   (99.0148|0.0106812)
+   maximum number of nodes: 1544, filled: 0.989744  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0183639  <tree>=0.0157081  <wait>=0.00219272  <fetch>=2.20579e-06  <stack>=8.73669e-06  (lastpm=0.00608116) sec
+   total interaction cost: 6.48973e+06  (imbalance=1.12149)
+
+Step(*): 34, t: 0.171881, dt: 0.00318996, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=2359296
+   work-load balance: 1.15108   part/sec: raw=104126, effective=90459.2     ia/part: avg=99.4897   (99.476|0.0137634)
+   maximum number of nodes: 1533, filled: 0.992876  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.018598  <tree>=0.0157348  <wait>=0.0023893  <fetch>=2.1541e-06  <stack>=7.90316e-06  (lastpm=0.00609367) sec
+   total interaction cost: 6.52016e+06  (imbalance=1.13401)
+
+Step(*): 35, t: 0.175131, dt: 0.00325029, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=2424832
+   work-load balance: 1.09167   part/sec: raw=104144, effective=95399.1     ia/part: avg=99.9467   (99.9278|0.0189209)
+   maximum number of nodes: 1539, filled: 0.999351  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0175759  <tree>=0.015732  <wait>=0.0014527  <fetch>=2.01007e-06  <stack>=7.28136e-06  (lastpm=0.00588108) sec
+   total interaction cost: 6.55011e+06  (imbalance=1.12366)
+
+Step(*): 36, t: 0.178443, dt: 0.00331175, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=2490368
+   work-load balance: 1.09736   part/sec: raw=104248, effective=94998.9     ia/part: avg=100.42   (100.395|0.0250854)
+   maximum number of nodes: 1549, filled: 0.994862  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0177171  <tree>=0.0157163  <wait>=0.00153822  <fetch>=1.91624e-06  <stack>=1.09131e-05  (lastpm=0.00601411) sec
+   total interaction cost: 6.58111e+06  (imbalance=1.12141)
+
+Step(*): 37, t: 0.181817, dt: 0.00337438, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=2555904
+   work-load balance: 1.14321   part/sec: raw=103526, effective=90556.8     ia/part: avg=100.903   (100.866|0.0376129)
+   maximum number of nodes: 1567, filled: 0.993029  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0185034  <tree>=0.015826  <wait>=0.00227586  <fetch>=1.88821e-06  <stack>=7.3466e-06  (lastpm=0.00613631) sec
+   total interaction cost: 6.6128e+06  (imbalance=1.13729)
+
+Step(*): 38, t: 0.185255, dt: 0.00343819, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=2621440
+   work-load balance: 1.1259   part/sec: raw=104637, effective=92936.9     ia/part: avg=101.399   (101.355|0.0440521)
+   maximum number of nodes: 1608, filled: 1  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0180562  <tree>=0.0156579  <wait>=0.00197874  <fetch>=2.11056e-06  <stack>=9.41264e-06  (lastpm=0.00571091) sec
+   total interaction cost: 6.64529e+06  (imbalance=1.13627)
+
+Step(*): 39, t: 0.188759, dt: 0.0035032, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=2686976
+   work-load balance: 1.10778   part/sec: raw=104192, effective=94054.2     ia/part: avg=101.931   (101.881|0.0494385)
+   maximum number of nodes: 1638, filled: 0.990326  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0178749  <tree>=0.0157248  <wait>=0.00170397  <fetch>=2.17496e-06  <stack>=8.94545e-06  (lastpm=0.00598183) sec
+   total interaction cost: 6.68014e+06  (imbalance=1.13535)
+
+Step(*): 40, t: 0.192328, dt: 0.00356945, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=2752512
+   work-load balance: 1.12538   part/sec: raw=104479, effective=92838.7     ia/part: avg=102.456   (102.394|0.0618286)
+   maximum number of nodes: 1660, filled: 0.995801  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0180562  <tree>=0.0156816  <wait>=0.00197518  <fetch>=1.86944e-06  <stack>=8.64528e-06  (lastpm=0.005911) sec
+   total interaction cost: 6.71456e+06  (imbalance=1.13665)
+
+Step(*): 41, t: 0.195965, dt: 0.00363695, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=2818048
+   work-load balance: 1.13637   part/sec: raw=102712, effective=90386.6     ia/part: avg=103.01   (102.936|0.073288)
+   maximum number of nodes: 1667, filled: 0.992853  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0185965  <tree>=0.0159514  <wait>=0.0021854  <fetch>=8.94973e-06  <stack>=4.26312e-05  (lastpm=0.00600732) sec
+   total interaction cost: 6.75084e+06  (imbalance=1.13956)
+
+Step(*): 42, t: 0.199671, dt: 0.00370572, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=2883584
+   work-load balance: 1.12006   part/sec: raw=103738, effective=92618.6     ia/part: avg=103.567   (103.476|0.091156)
+   maximum number of nodes: 1654, filled: 0.991013  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0181468  <tree>=0.0157936  <wait>=0.00190613  <fetch>=1.9901e-06  <stack>=8.97446e-06  (lastpm=0.00610286) sec
+   total interaction cost: 6.78737e+06  (imbalance=1.13059)
+
+Step(*): 43, t: 0.203446, dt: 0.0037758, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=2949120
+   work-load balance: 1.1393   part/sec: raw=104126, effective=91395.2     ia/part: avg=104.125   (104.013|0.112106)
+   maximum number of nodes: 1664, filled: 0.992248  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0183305  <tree>=0.0157347  <wait>=0.00220239  <fetch>=1.91946e-06  <stack>=7.00792e-06  (lastpm=0.00577706) sec
+   total interaction cost: 6.82397e+06  (imbalance=1.14177)
+
+Step(*): 44, t: 0.207294, dt: 0.0038472, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=3014656
+   work-load balance: 1.11665   part/sec: raw=103213, effective=92431.5     ia/part: avg=104.725   (104.593|0.131775)
+   maximum number of nodes: 1683, filled: 0.995269  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0181608  <tree>=0.0158739  <wait>=0.00186179  <fetch>=1.99634e-06  <stack>=8.41166e-06  (lastpm=0.00598794) sec
+   total interaction cost: 6.86327e+06  (imbalance=1.12182)
+
+Step(*): 45, t: 0.211214, dt: 0.00391995, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=3080192
+   work-load balance: 1.14982   part/sec: raw=105544, effective=91791.4     ia/part: avg=105.358   (105.206|0.151932)
+   maximum number of nodes: 1683, filled: 0.994681  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0181832  <tree>=0.0155234  <wait>=0.00233487  <fetch>=1.6191e-06  <stack>=6.86543e-06  (lastpm=0.00592046) sec
+   total interaction cost: 6.90475e+06  (imbalance=1.10952)
+
+Step(*): 46, t: 0.215208, dt: 0.00399408, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=3145728
+   work-load balance: 1.13115   part/sec: raw=109677, effective=96960.5     ia/part: avg=105.952   (105.758|0.194138)
+   maximum number of nodes: 1712, filled: 0.991314  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0172072  <tree>=0.0149384  <wait>=0.00196458  <fetch>=1.2388e-06  <stack>=6.79512e-06  (lastpm=0.00557341) sec
+   total interaction cost: 6.94367e+06  (imbalance=1.13868)
+
+Step(*): 47, t: 0.219277, dt: 0.00406961, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=3211264
+   work-load balance: 1.14155   part/sec: raw=110127, effective=96472.2     ia/part: avg=106.622   (106.408|0.213776)
+   maximum number of nodes: 1720, filled: 0.993645  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0172787  <tree>=0.0148773  <wait>=0.00211216  <fetch>=1.17891e-06  <stack>=6.40387e-06  (lastpm=0.00505803) sec
+   total interaction cost: 6.98755e+06  (imbalance=1.14619)
+
+Step(*): 48, t: 0.223424, dt: 0.00414656, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=3276800
+   work-load balance: 1.12422   part/sec: raw=109950, effective=97801.1     ia/part: avg=107.309   (107.077|0.232742)
+   maximum number of nodes: 1733, filled: 0.995405  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0170657  <tree>=0.0149013  <wait>=0.00185683  <fetch>=1.41291e-06  <stack>=7.11768e-06  (lastpm=0.00507366) sec
+   total interaction cost: 7.03262e+06  (imbalance=1.13291)
+
+Step(*): 49, t: 0.227649, dt: 0.00422497, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=3342336
+   work-load balance: 1.15854   part/sec: raw=109827, effective=94797.9     ia/part: avg=107.983   (107.714|0.268692)
+   maximum number of nodes: 1693, filled: 0.996469  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0175653  <tree>=0.014918  <wait>=0.00237196  <fetch>=1.1696e-06  <stack>=6.50957e-06  (lastpm=0.00512979) sec
+   total interaction cost: 7.07675e+06  (imbalance=1.14091)
+
+Step(*): 50, t: 0.231954, dt: 0.00430487, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=3407872
+   work-load balance: 1.13328   part/sec: raw=110186, effective=97227.6     ia/part: avg=108.675   (108.367|0.30806)
+   maximum number of nodes: 1703, filled: 0.995324  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0171279  <tree>=0.0148694  <wait>=0.00198708  <fetch>=1.19959e-06  <stack>=1.00137e-05  (lastpm=0.00510263) sec
+   total interaction cost: 7.12213e+06  (imbalance=1.11699)
+
+Step(*): 51, t: 0.23634, dt: 0.00438628, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=3473408
+   work-load balance: 1.13123   part/sec: raw=110022, effective=97259.1     ia/part: avg=109.352   (108.997|0.355484)
+   maximum number of nodes: 1734, filled: 1  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.01714  <tree>=0.0148915  <wait>=0.00196107  <fetch>=1.14869e-06  <stack>=6.78059e-06  (lastpm=0.00513284) sec
+   total interaction cost: 7.1665e+06  (imbalance=1.12251)
+
+Step(*): 52, t: 0.240809, dt: 0.00446922, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=3538944
+   work-load balance: 1.12639   part/sec: raw=110081, effective=97728.5     ia/part: avg=110.065   (109.662|0.403122)
+   maximum number of nodes: 1752, filled: 0.983165  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0170592  <tree>=0.0148836  <wait>=0.00188582  <fetch>=1.29212e-06  <stack>=2.46749e-05  (lastpm=0.00507698) sec
+   total interaction cost: 7.21324e+06  (imbalance=1.1289)
+
+Step(*): 53, t: 0.245363, dt: 0.00455373, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=3604480
+   work-load balance: 1.16003   part/sec: raw=110210, effective=95006.1     ia/part: avg=110.832   (110.381|0.451248)
+   maximum number of nodes: 1749, filled: 0.98369  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0175125  <tree>=0.0148662  <wait>=0.0023844  <fetch>=1.16359e-06  <stack>=6.49532e-06  (lastpm=0.0048209) sec
+   total interaction cost: 7.26347e+06  (imbalance=1.14434)
+
+Step(*): 54, t: 0.250003, dt: 0.00463985, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=3670016
+   work-load balance: 1.12699   part/sec: raw=109706, effective=97343.9     ia/part: avg=111.548   (111.027|0.52179)
+   maximum number of nodes: 1776, filled: 0.988314  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0171248  <tree>=0.0149345  <wait>=0.00190087  <fetch>=1.17053e-06  <stack>=6.56391e-06  (lastpm=0.00506561) sec
+   total interaction cost: 7.31044e+06  (imbalance=1.11971)
+
+Step(*): 55, t: 0.25473, dt: 0.00472759, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=3735552
+   work-load balance: 1.15338   part/sec: raw=109897, effective=95283.3     ia/part: avg=112.313   (111.722|0.590775)
+   maximum number of nodes: 1792, filled: 0.989509  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0175017  <tree>=0.0149085  <wait>=0.00229456  <fetch>=1.43126e-06  <stack>=6.59125e-06  (lastpm=0.0053233) sec
+   total interaction cost: 7.36055e+06  (imbalance=1.15042)
+
+Step(*): 56, t: 0.259547, dt: 0.00481698, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=3801088
+   work-load balance: 1.10483   part/sec: raw=109747, effective=99333.8     ia/part: avg=113.108   (112.457|0.651337)
+   maximum number of nodes: 1780, filled: 0.989439  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0167801  <tree>=0.0149289  <wait>=0.00157002  <fetch>=1.15624e-06  <stack>=6.49048e-06  (lastpm=0.00517343) sec
+   total interaction cost: 7.41266e+06  (imbalance=1.14337)
+
+Step(*): 57, t: 0.264455, dt: 0.00490807, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=3866624
+   work-load balance: 1.12062   part/sec: raw=110167, effective=98308.8     ia/part: avg=113.881   (113.146|0.735245)
+   maximum number of nodes: 1777, filled: 0.98558  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0169392  <tree>=0.0148719  <wait>=0.00180003  <fetch>=1.13393e-06  <stack>=6.50631e-06  (lastpm=0.00482782) sec
+   total interaction cost: 7.46333e+06  (imbalance=1.14538)
+
+Step(*): 58, t: 0.269456, dt: 0.00500089, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=3932160
+   work-load balance: 1.11351   part/sec: raw=109762, effective=98573.1     ia/part: avg=114.733   (113.926|0.806931)
+   maximum number of nodes: 1780, filled: 0.985058  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0168977  <tree>=0.0149268  <wait>=0.00169959  <fetch>=1.18818e-06  <stack>=6.43912e-06  (lastpm=0.00507784) sec
+   total interaction cost: 7.51913e+06  (imbalance=1.12466)
+
+Step(*): 59, t: 0.274552, dt: 0.00509545, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=3997696
+   work-load balance: 1.17099   part/sec: raw=110070, effective=93998     ia/part: avg=115.51   (114.591|0.919281)
+   maximum number of nodes: 1792, filled: 0.984075  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.017706  <tree>=0.014885  <wait>=0.00255039  <fetch>=1.19195e-06  <stack>=6.54981e-06  (lastpm=0.00511676) sec
+   total interaction cost: 7.57006e+06  (imbalance=1.135)
+
+Step(*): 60, t: 0.279744, dt: 0.00519181, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=4063232
+   work-load balance: 1.14023   part/sec: raw=109676, effective=96188     ia/part: avg=116.24   (115.198|1.04196)
+   maximum number of nodes: 1817, filled: 0.997803  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0173152  <tree>=0.0149385  <wait>=0.00209989  <fetch>=1.19973e-06  <stack>=6.4861e-06  (lastpm=0.00518738) sec
+   total interaction cost: 7.6179e+06  (imbalance=1.12176)
+
+Step(*): 61, t: 0.285034, dt: 0.00528999, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=4128768
+   work-load balance: 1.13925   part/sec: raw=110059, effective=96607     ia/part: avg=117.149   (116.005|1.14378)
+   maximum number of nodes: 1802, filled: 0.992291  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0172439  <tree>=0.0148865  <wait>=0.00208  <fetch>=1.18217e-06  <stack>=6.58282e-06  (lastpm=0.0052986) sec
+   total interaction cost: 7.67746e+06  (imbalance=1.13191)
+
+Step(*): 62, t: 0.290424, dt: 0.00539002, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=4194304
+   work-load balance: 1.13235   part/sec: raw=110043, effective=97181.5     ia/part: avg=118.056   (116.792|1.26431)
+   maximum number of nodes: 1832, filled: 0.991879  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0171526  <tree>=0.0148887  <wait>=0.00197584  <fetch>=1.29733e-06  <stack>=6.62655e-06  (lastpm=0.00511067) sec
+   total interaction cost: 7.73694e+06  (imbalance=1.12236)
+
+Step(*): 63, t: 0.295916, dt: 0.00549195, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=4259840
+   work-load balance: 1.11754   part/sec: raw=110052, effective=98477.2     ia/part: avg=118.987   (117.618|1.36887)
+   maximum number of nodes: 1827, filled: 0.992935  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0169234  <tree>=0.0148875  <wait>=0.00175619  <fetch>=1.1649e-06  <stack>=6.53695e-06  (lastpm=0.00511096) sec
+   total interaction cost: 7.79791e+06  (imbalance=1.14384)
+
+Step(*): 64, t: 0.301511, dt: 0.0055958, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=4325376
+   work-load balance: 1.12856   part/sec: raw=110061, effective=97523.4     ia/part: avg=119.805   (118.291|1.51414)
+   maximum number of nodes: 1824, filled: 0.996177  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0170763  <tree>=0.0148863  <wait>=0.00191932  <fetch>=1.16518e-06  <stack>=6.49006e-06  (lastpm=0.00529926) sec
+   total interaction cost: 7.85153e+06  (imbalance=1.11961)
+
+Step(*): 65, t: 0.307213, dt: 0.00570162, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=4390912
+   work-load balance: 1.14467   part/sec: raw=110018, effective=96113.7     ia/part: avg=120.786   (119.144|1.64214)
+   maximum number of nodes: 1834, filled: 0.988679  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0173206  <tree>=0.0148921  <wait>=0.00215909  <fetch>=1.31275e-06  <stack>=6.54389e-06  (lastpm=0.00527474) sec
+   total interaction cost: 7.91586e+06  (imbalance=1.13657)
+
+Step(*): 66, t: 0.313022, dt: 0.00580944, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=4456448
+   work-load balance: 1.13907   part/sec: raw=110482, effective=96992.7     ia/part: avg=121.884   (120.147|1.73627)
+   maximum number of nodes: 1845, filled: 0.993003  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0171883  <tree>=0.0148296  <wait>=0.00206768  <fetch>=1.24061e-06  <stack>=6.65821e-06  (lastpm=0.00509372) sec
+   total interaction cost: 7.98777e+06  (imbalance=1.15363)
+
+Step(*): 67, t: 0.318942, dt: 0.00591929, highest active timebin: 22  (lowest active: 22, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=4521984
+   work-load balance: 1.33879   part/sec: raw=108895, effective=81338     ia/part: avg=123.009   (121.151|1.85875)
+   maximum number of nodes: 1841, filled: 0.980298  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0208087  <tree>=0.0150457  <wait>=0.00510731  <fetch>=1.24616e-06  <stack>=2.77802e-05  (lastpm=0.00518042) sec
+   total interaction cost: 8.06154e+06  (imbalance=1.14151)
+
+Step: 68, t: 0.321943, dt: 0.00300149, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+
+Step(*): 69, t: 0.324973, dt: 0.00302974, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=4587520
+   work-load balance: 1.12038   part/sec: raw=110246, effective=98400.8     ia/part: avg=123.948   (121.893|2.05467)
+   maximum number of nodes: 1853, filled: 0.977836  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0169485  <tree>=0.0148613  <wait>=0.00179425  <fetch>=1.39712e-06  <stack>=6.6842e-06  (lastpm=0.00503886) sec
+   total interaction cost: 8.12304e+06  (imbalance=1.09435)
+
+Step: 70, t: 0.328031, dt: 0.00305825, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+
+Step(*): 71, t: 0.331118, dt: 0.00308703, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=4653056
+   work-load balance: 1.13679   part/sec: raw=110505, effective=97207.8     ia/part: avg=125.158   (122.989|2.16885)
+   maximum number of nodes: 1849, filled: 0.979862  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.017153  <tree>=0.0148265  <wait>=0.00203289  <fetch>=1.20797e-06  <stack>=6.57039e-06  (lastpm=0.00477486) sec
+   total interaction cost: 8.20234e+06  (imbalance=1.11115)
+
+Step: 72, t: 0.334234, dt: 0.00311608, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+
+Step(*): 73, t: 0.33738, dt: 0.00314541, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=4718592
+   work-load balance: 1.13197   part/sec: raw=110704, effective=97797.3     ia/part: avg=125.836   (123.37|2.46613)
+   maximum number of nodes: 1858, filled: 0.979958  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0170378  <tree>=0.0147999  <wait>=0.00195868  <fetch>=1.20299e-06  <stack>=6.6536e-06  (lastpm=0.00525894) sec
+   total interaction cost: 8.24678e+06  (imbalance=1.1153)
+
+Step: 74, t: 0.340555, dt: 0.00317501, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+
+Step(*): 75, t: 0.34376, dt: 0.00320489, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=4784128
+   work-load balance: 1.12366   part/sec: raw=110142, effective=98020.5     ia/part: avg=127.035   (124.412|2.62331)
+   maximum number of nodes: 1877, filled: 0.976587  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0170035  <tree>=0.0148754  <wait>=0.00184525  <fetch>=5.74733e-06  <stack>=6.712e-06  (lastpm=0.00531834) sec
+   total interaction cost: 8.32537e+06  (imbalance=1.11314)
+
+Step: 76, t: 0.346995, dt: 0.00323505, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=       10  timebin=21  total-Nf=4784138
+   work-load balance: 32.0576   part/sec: raw=51899.2, effective=1618.93     ia/part: avg=401.4   (350.9|50.5)
+   maximum number of nodes: 1887, filled: 0.98179  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000395885  <tree>=4.81703e-06  <wait>=0.000152701  <fetch>=4.19095e-08  <stack>=1.58143e-06  (lastpm=0.0049116) sec
+   total interaction cost: 4014  (imbalance=35.9043)
+
+Step(*): 77, t: 0.35026, dt: 0.00326549, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=4849674
+   work-load balance: 1.13253   part/sec: raw=110059, effective=97179.6     ia/part: avg=128.03   (124.963|3.06718)
+   maximum number of nodes: 2033, filled: 0.982126  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0171582  <tree>=0.0148865  <wait>=0.00197836  <fetch>=1.32243e-06  <stack>=6.69463e-06  (lastpm=0.0049116) sec
+   total interaction cost: 8.39057e+06  (imbalance=1.10306)
+
+Step: 78, t: 0.353556, dt: 0.00329622, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=       36  timebin=21  total-Nf=4849710
+   work-load balance: 11.963   part/sec: raw=47413.4, effective=3963.35     ia/part: avg=389.778   (299.528|90.25)
+   maximum number of nodes: 2034, filled: 0.982609  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000503199  <tree>=1.8982e-05  <wait>=0.000211716  <fetch>=1.37789e-07  <stack>=1.73077e-06  (lastpm=0.0053269) sec
+   total interaction cost: 14032  (imbalance=13.4664)
+
+Step(*): 79, t: 0.356884, dt: 0.00332724, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=4915246
+   work-load balance: 1.12172   part/sec: raw=110408, effective=98427.1     ia/part: avg=129.069   (125.691|3.37828)
+   maximum number of nodes: 2196, filled: 0.990081  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0169437  <tree>=0.0148396  <wait>=0.00181217  <fetch>=1.34963e-06  <stack>=1.51773e-05  (lastpm=0.0053269) sec
+   total interaction cost: 8.45868e+06  (imbalance=1.11691)
+
+Step: 80, t: 0.360242, dt: 0.00335855, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=       57  timebin=21  total-Nf=4915303
+   work-load balance: 6.48478   part/sec: raw=41081.2, effective=6335.01     ia/part: avg=388.018   (276.561|111.456)
+   maximum number of nodes: 2198, filled: 0.990983  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000483012  <tree>=3.46874e-05  <wait>=0.000193902  <fetch>=6.19236e-07  <stack>=1.94376e-06  (lastpm=0.00517139) sec
+   total interaction cost: 22117  (imbalance=8.03183)
+
+Step(*): 81, t: 0.363632, dt: 0.00339016, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=4980839
+   work-load balance: 1.12479   part/sec: raw=110345, effective=98103.2     ia/part: avg=130.087   (126.398|3.68921)
+   maximum number of nodes: 2202, filled: 0.983475  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0170173  <tree>=0.0148479  <wait>=0.00186066  <fetch>=1.26953e-06  <stack>=6.82999e-06  (lastpm=0.00517139) sec
+   total interaction cost: 8.52541e+06  (imbalance=1.11913)
+
+Step: 82, t: 0.367054, dt: 0.00342207, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=       77  timebin=21  total-Nf=4980916
+   work-load balance: 4.56961   part/sec: raw=34922.4, effective=7642.3     ia/part: avg=390.74   (259.143|131.597)
+   maximum number of nodes: 2207, filled: 0.985708  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000538993  <tree>=5.51223e-05  <wait>=0.000201317  <fetch>=6.18352e-07  <stack>=1.97343e-06  (lastpm=0.00522901) sec
+   total interaction cost: 30087  (imbalance=6.33895)
+
+Step(*): 83, t: 0.370509, dt: 0.00345427, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=5046452
+   work-load balance: 1.10904   part/sec: raw=110244, effective=99404.6     ia/part: avg=131.082   (126.882|4.19997)
+   maximum number of nodes: 2309, filled: 0.983809  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0167852  <tree>=0.0148616  <wait>=0.00162687  <fetch>=4.92972e-06  <stack>=9.63639e-06  (lastpm=0.00522901) sec
+   total interaction cost: 8.59061e+06  (imbalance=1.12041)
+
+Step: 84, t: 0.373995, dt: 0.00348678, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=       99  timebin=21  total-Nf=5046551
+   work-load balance: 3.37352   part/sec: raw=33687.4, effective=9985.84     ia/part: avg=379.444   (223.071|156.374)
+   maximum number of nodes: 2308, filled: 0.983383  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000502778  <tree>=7.34696e-05  <wait>=0.000179016  <fetch>=4.35719e-07  <stack>=2.0389e-06  (lastpm=0.00503428) sec
+   total interaction cost: 37565  (imbalance=4.57873)
+
+Step(*): 85, t: 0.377515, dt: 0.00351959, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=5112087
+   work-load balance: 1.16979   part/sec: raw=110026, effective=94056.3     ia/part: avg=132.316   (127.702|4.61452)
+   maximum number of nodes: 2466, filled: 0.988773  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0177076  <tree>=0.0148911  <wait>=0.00253292  <fetch>=1.23638e-06  <stack>=2.321e-05  (lastpm=0.00503428) sec
+   total interaction cost: 8.67147e+06  (imbalance=1.1221)
+
+Step: 86, t: 0.381068, dt: 0.00355271, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=      114  timebin=21  total-Nf=5112201
+   work-load balance: 2.73386   part/sec: raw=36971.6, effective=13523.6     ia/part: avg=377.456   (200.412|177.044)
+   maximum number of nodes: 2463, filled: 0.98757  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000471206  <tree>=7.70863e-05  <wait>=0.000137542  <fetch>=5.69876e-07  <stack>=2.09836e-06  (lastpm=0.00509515) sec
+   total interaction cost: 43030  (imbalance=3.24983)
+
+Step(*): 87, t: 0.384654, dt: 0.00358615, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=5177737
+   work-load balance: 1.13902   part/sec: raw=110312, effective=96848     ia/part: avg=133.611   (128.703|4.90849)
+   maximum number of nodes: 2548, filled: 0.991054  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0172181  <tree>=0.0148524  <wait>=0.0020703  <fetch>=1.22259e-06  <stack>=6.9255e-06  (lastpm=0.00509515) sec
+   total interaction cost: 8.75635e+06  (imbalance=1.13134)
+
+Step: 88, t: 0.388274, dt: 0.00361989, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=      133  timebin=21  total-Nf=5177870
+   work-load balance: 1.94165   part/sec: raw=22956.8, effective=11823.4     ia/part: avg=398.068   (217.684|180.383)
+   maximum number of nodes: 2553, filled: 0.992999  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000551914  <tree>=0.000144837  <wait>=0.000140201  <fetch>=8.76561e-07  <stack>=2.21631e-06  (lastpm=0.00534935) sec
+   total interaction cost: 52943  (imbalance=3.70814)
+
+Step(*): 89, t: 0.391928, dt: 0.00365396, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=5243406
+   work-load balance: 1.1512   part/sec: raw=110364, effective=95869.1     ia/part: avg=135.026   (129.899|5.12718)
+   maximum number of nodes: 2576, filled: 0.98584  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0174162  <tree>=0.0148454  <wait>=0.00224943  <fetch>=5.62607e-06  <stack>=7.05277e-06  (lastpm=0.00534935) sec
+   total interaction cost: 8.84909e+06  (imbalance=1.12524)
+
+Step: 90, t: 0.395616, dt: 0.00368835, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=      151  timebin=21  total-Nf=5243557
+   work-load balance: 2.01394   part/sec: raw=28317.4, effective=14060.7     ia/part: avg=400.43   (217.179|183.252)
+   maximum number of nodes: 2582, filled: 0.988136  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000540081  <tree>=0.00013331  <wait>=0.000138484  <fetch>=1.05095e-06  <stack>=2.32975e-06  (lastpm=0.00502891) sec
+   total interaction cost: 60465  (imbalance=2.67196)
+
+Step(*): 91, t: 0.399339, dt: 0.00372306, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=5309093
+   work-load balance: 1.17345   part/sec: raw=110211, effective=93920.1     ia/part: avg=136.391   (130.846|5.54483)
+   maximum number of nodes: 2727, filled: 0.98876  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0177569  <tree>=0.0148661  <wait>=0.00258407  <fetch>=1.24108e-06  <stack>=7.06944e-06  (lastpm=0.00502891) sec
+   total interaction cost: 8.93853e+06  (imbalance=1.13131)
+
+Step: 92, t: 0.403097, dt: 0.00375809, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=      167  timebin=21  total-Nf=5309260
+   work-load balance: 2.24546   part/sec: raw=25035.5, effective=11149.4     ia/part: avg=387.898   (176.126|211.772)
+   maximum number of nodes: 2727, filled: 0.98876  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00064801  <tree>=0.000166763  <wait>=0.000211209  <fetch>=7.70343e-07  <stack>=2.51653e-06  (lastpm=0.0053038) sec
+   total interaction cost: 64779  (imbalance=2.90711)
+
+Step(*): 93, t: 0.406891, dt: 0.00379346, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=5374796
+   work-load balance: 1.18408   part/sec: raw=110378, effective=93218.4     ia/part: avg=137.335   (131.337|5.99725)
+   maximum number of nodes: 2773, filled: 0.98508  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0178769  <tree>=0.0148435  <wait>=0.00273824  <fetch>=1.26143e-06  <stack>=7.19684e-06  (lastpm=0.0053038) sec
+   total interaction cost: 9.00036e+06  (imbalance=1.1728)
+
+Step: 94, t: 0.41072, dt: 0.00382916, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=      192  timebin=21  total-Nf=5374988
+   work-load balance: 2.07116   part/sec: raw=24192.5, effective=11680.7     ia/part: avg=390.234   (178.208|212.026)
+   maximum number of nodes: 2777, filled: 0.986501  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000682117  <tree>=0.000198408  <wait>=0.000214973  <fetch>=1.65049e-06  <stack>=2.49734e-06  (lastpm=0.00530972) sec
+   total interaction cost: 74925  (imbalance=2.53854)
+
+Step(*): 95, t: 0.414585, dt: 0.0038652, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=5440524
+   work-load balance: 1.21837   part/sec: raw=110602, effective=90778.5     ia/part: avg=138.917   (132.528|6.3893)
+   maximum number of nodes: 2948, filled: 0.990259  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0183625  <tree>=0.0148135  <wait>=0.00323989  <fetch>=4.37414e-06  <stack>=1.32517e-05  (lastpm=0.00530972) sec
+   total interaction cost: 9.10406e+06  (imbalance=1.18334)
+
+Step: 96, t: 0.418487, dt: 0.00390157, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=      213  timebin=21  total-Nf=5440737
+   work-load balance: 2.09913   part/sec: raw=26454, effective=12602.4     ia/part: avg=384.854   (163.366|221.488)
+   maximum number of nodes: 2949, filled: 0.990595  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00069273  <tree>=0.000201293  <wait>=0.000225024  <fetch>=7.28667e-07  <stack>=5.98561e-06  (lastpm=0.0051893) sec
+   total interaction cost: 81974  (imbalance=2.82138)
+
+Step(*): 97, t: 0.422425, dt: 0.00393829, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=5506273
+   work-load balance: 1.18576   part/sec: raw=110468, effective=93162.1     ia/part: avg=140.103   (133.262|6.84096)
+   maximum number of nodes: 2964, filled: 0.990642  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0178953  <tree>=0.0148315  <wait>=0.00275991  <fetch>=1.10054e-06  <stack>=7.24336e-06  (lastpm=0.0051893) sec
+   total interaction cost: 9.1818e+06  (imbalance=1.19311)
+
+Step: 98, t: 0.4264, dt: 0.00397535, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=      235  timebin=21  total-Nf=5506508
+   work-load balance: 1.78677   part/sec: raw=32621.8, effective=18257.4     ia/part: avg=382.179   (163.838|218.34)
+   maximum number of nodes: 2965, filled: 0.990976  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00059832  <tree>=0.000180094  <wait>=0.000144844  <fetch>=8.59518e-07  <stack>=2.5996e-06  (lastpm=0.00531739) sec
+   total interaction cost: 89812  (imbalance=2.18145)
+
+Step(*): 99, t: 0.430413, dt: 0.00401276, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=5572044
+   work-load balance: 1.22376   part/sec: raw=110438, effective=90244.9     ia/part: avg=141.419   (134.071|7.34819)
+   maximum number of nodes: 3155, filled: 0.993388  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0184902  <tree>=0.0148355  <wait>=0.00332459  <fetch>=1.22311e-06  <stack>=7.23475e-06  (lastpm=0.00531739) sec
+   total interaction cost: 9.26806e+06  (imbalance=1.17936)
+
+Step: 100, t: 0.434464, dt: 0.00405052, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=      274  timebin=21  total-Nf=5572318
+   work-load balance: 1.62895   part/sec: raw=37185.3, effective=22827.7     ia/part: avg=389.522   (143.339|246.182)
+   maximum number of nodes: 3147, filled: 0.990869  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000600881  <tree>=0.000184213  <wait>=0.000119464  <fetch>=1.11377e-06  <stack>=2.81679e-06  (lastpm=0.00530878) sec
+   total interaction cost: 106729  (imbalance=2.10177)
+
+Step(*): 101, t: 0.438552, dt: 0.00408864, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=5637854
+   work-load balance: 1.31739   part/sec: raw=110121, effective=83590.6     ia/part: avg=142.823   (134.969|7.85463)
+   maximum number of nodes: 3078, filled: 0.990666  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0199295  <tree>=0.0148781  <wait>=0.00472734  <fetch>=4.87892e-06  <stack>=1.12544e-05  (lastpm=0.00530878) sec
+   total interaction cost: 9.36007e+06  (imbalance=1.27632)
+
+Step: 102, t: 0.442679, dt: 0.00412712, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=      303  timebin=21  total-Nf=5638157
+   work-load balance: 1.59574   part/sec: raw=33692.4, effective=21113.9     ia/part: avg=401.383   (147.941|253.442)
+   maximum number of nodes: 3077, filled: 0.990344  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000647942  <tree>=0.000224828  <wait>=0.000137079  <fetch>=9.28715e-07  <stack>=2.82545e-06  (lastpm=0.0051782) sec
+   total interaction cost: 121619  (imbalance=1.89017)
+
+Step(*): 103, t: 0.446845, dt: 0.00416596, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=5703693
+   work-load balance: 1.22296   part/sec: raw=110399, effective=90271.9     ia/part: avg=144.314   (136.029|8.28482)
+   maximum number of nodes: 3138, filled: 0.993982  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0184681  <tree>=0.0148407  <wait>=0.00331471  <fetch>=1.15107e-06  <stack>=7.20131e-06  (lastpm=0.0051782) sec
+   total interaction cost: 9.45774e+06  (imbalance=1.17091)
+
+Step: 104, t: 0.45105, dt: 0.00420516, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=      332  timebin=21  total-Nf=5704025
+   work-load balance: 1.57467   part/sec: raw=38047.1, effective=24161.9     ia/part: avg=396.648   (138.096|258.551)
+   maximum number of nodes: 3145, filled: 0.996199  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000623652  <tree>=0.000218151  <wait>=0.000129156  <fetch>=9.31043e-07  <stack>=2.90163e-06  (lastpm=0.00533401) sec
+   total interaction cost: 131687  (imbalance=1.69462)
+
+Step(*): 105, t: 0.455295, dt: 0.00424474, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=5769561
+   work-load balance: 1.31257   part/sec: raw=110192, effective=83951     ia/part: avg=146.33   (137.737|8.59358)
+   maximum number of nodes: 3225, filled: 0.985937  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0198755  <tree>=0.0148686  <wait>=0.00465263  <fetch>=1.2483e-06  <stack>=7.54567e-06  (lastpm=0.00533401) sec
+   total interaction cost: 9.5899e+06  (imbalance=1.27057)
+
+Step: 106, t: 0.45958, dt: 0.00428468, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=      365  timebin=21  total-Nf=5769926
+   work-load balance: 1.66278   part/sec: raw=38819.5, effective=23346.1     ia/part: avg=403.321   (144.455|258.866)
+   maximum number of nodes: 3228, filled: 0.986854  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000678746  <tree>=0.000235062  <wait>=0.000158575  <fetch>=1.23633e-06  <stack>=3.00258e-06  (lastpm=0.00577311) sec
+   total interaction cost: 147212  (imbalance=1.75692)
+
+Step(*): 107, t: 0.463905, dt: 0.00432501, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=5835462
+   work-load balance: 1.29139   part/sec: raw=109774, effective=85004.4     ia/part: avg=148.403   (139.526|8.87712)
+   maximum number of nodes: 3186, filled: 0.993142  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0196143  <tree>=0.0149252  <wait>=0.00436064  <fetch>=1.77654e-06  <stack>=7.70926e-06  (lastpm=0.00577311) sec
+   total interaction cost: 9.72575e+06  (imbalance=1.23033)
+
+Step: 108, t: 0.468271, dt: 0.00436571, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=      386  timebin=21  total-Nf=5835848
+   work-load balance: 1.53309   part/sec: raw=37466.1, effective=24438.3     ia/part: avg=422.868   (152.777|270.091)
+   maximum number of nodes: 3188, filled: 0.993766  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000722937  <tree>=0.000257566  <wait>=0.000140443  <fetch>=9.323e-07  <stack>=2.99462e-06  (lastpm=0.00541776) sec
+   total interaction cost: 163227  (imbalance=1.81147)
+
+Step(*): 109, t: 0.472677, dt: 0.00440679, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=5901384
+   work-load balance: 1.32211   part/sec: raw=110028, effective=83221.9     ia/part: avg=149.754   (140.21|9.54399)
+   maximum number of nodes: 3253, filled: 0.989355  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0200538  <tree>=0.0148907  <wait>=0.00480099  <fetch>=4.98327e-06  <stack>=1.44728e-05  (lastpm=0.00541776) sec
+   total interaction cost: 9.81425e+06  (imbalance=1.29552)
+
+Step: 110, t: 0.477126, dt: 0.00444826, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=      418  timebin=21  total-Nf=5901802
+   work-load balance: 1.88971   part/sec: raw=40960.6, effective=21675.6     ia/part: avg=425.675   (143.103|282.572)
+   maximum number of nodes: 3254, filled: 0.989659  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000787837  <tree>=0.000255123  <wait>=0.000229646  <fetch>=9.1251e-07  <stack>=3.06941e-06  (lastpm=0.00539498) sec
+   total interaction cost: 177932  (imbalance=2.12396)
+
+Step(*): 111, t: 0.481616, dt: 0.00449013, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=5967338
+   work-load balance: 1.25988   part/sec: raw=110021, effective=87326.5     ia/part: avg=151.548   (141.534|10.0134)
+   maximum number of nodes: 3208, filled: 0.990429  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0191043  <tree>=0.0148917  <wait>=0.00387618  <fetch>=1.22148e-06  <stack>=7.38879e-06  (lastpm=0.00539498) sec
+   total interaction cost: 9.93184e+06  (imbalance=1.22007)
+
+Step: 112, t: 0.486148, dt: 0.00453238, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=      448  timebin=21  total-Nf=5967786
+   work-load balance: 1.62843   part/sec: raw=42753.8, effective=26254.7     ia/part: avg=439.819   (145.734|294.085)
+   maximum number of nodes: 3206, filled: 0.989812  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00073746  <tree>=0.000261965  <wait>=0.000168838  <fetch>=9.30531e-07  <stack>=3.06708e-06  (lastpm=0.0053186) sec
+   total interaction cost: 197039  (imbalance=1.69733)
+
+Step(*): 113, t: 0.490723, dt: 0.00457503, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=6033322
+   work-load balance: 1.19662   part/sec: raw=109958, effective=91890.3     ia/part: avg=153.24   (142.61|10.6306)
+   maximum number of nodes: 3178, filled: 0.987877  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0181799  <tree>=0.0149003  <wait>=0.00293614  <fetch>=1.135e-06  <stack>=7.62003e-06  (lastpm=0.0053186) sec
+   total interaction cost: 1.00428e+07  (imbalance=1.19458)
+
+Step: 114, t: 0.495341, dt: 0.00461809, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=      495  timebin=21  total-Nf=6033817
+   work-load balance: 1.2183   part/sec: raw=43579.6, effective=35771     ia/part: avg=442.079   (143.331|298.747)
+   maximum number of nodes: 2292, filled: 0.983269  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000649368  <tree>=0.000283963  <wait>=6.43463e-05  <fetch>=1.02939e-06  <stack>=2.13655e-06  (lastpm=0.0053271) sec
+   total interaction cost: 218829  (imbalance=1.23622)
+
+Step(*): 115, t: 0.500003, dt: 0.00466155, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=6099353
+   work-load balance: 1.15919   part/sec: raw=110490, effective=95316.7     ia/part: avg=156.721   (148.368|8.35307)
+   maximum number of nodes: 2083, filled: 0.972002  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0174853  <tree>=0.0148285  <wait>=0.0023656  <fetch>=1.25463e-06  <stack>=6.71241e-06  (lastpm=0.0053271) sec
+   total interaction cost: 1.02709e+07  (imbalance=1.25692)
+
+Step: 116, t: 0.504708, dt: 0.00470542, highest active timebin: 21  (lowest active: 21, highest occupied: 22)
+Nf=      562  timebin=21  total-Nf=6099915
+   work-load balance: 1.28138   part/sec: raw=44514.3, effective=34739.4     ia/part: avg=452.843   (144.493|308.351)
+   maximum number of nodes: 2241, filled: 0.980744  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000703912  <tree>=0.000315629  <wait>=9.13578e-05  <fetch>=9.71276e-07  <stack>=2.92296e-06  (lastpm=0.00517482) sec
+   total interaction cost: 254498  (imbalance=1.27545)
+
+Step(*): 117, t: 0.509458, dt: 0.0047497, highest active timebin: 22  (lowest active: 21, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=6165451
+   work-load balance: 1.15395   part/sec: raw=110508, effective=95764.2     ia/part: avg=158.44   (149.602|8.8382)
+   maximum number of nodes: 2076, filled: 0.970547  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0174037  <tree>=0.0148261  <wait>=0.0022883  <fetch>=1.15675e-06  <stack>=6.65938e-06  (lastpm=0.00517482) sec
+   total interaction cost: 1.03836e+07  (imbalance=1.14996)
+
+Step: 118, t: 0.511849, dt: 0.00239159, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 119, t: 0.514252, dt: 0.00240281, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=      594  timebin=21  total-Nf=6166045
+   work-load balance: 1.31498   part/sec: raw=43864, effective=33357     ia/part: avg=471.027   (152.668|318.359)
+   maximum number of nodes: 2201, filled: 0.976486  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000687883  <tree>=0.000338547  <wait>=0.000109644  <fetch>=9.40589e-07  <stack>=1.95839e-06  (lastpm=0.00511753) sec
+   total interaction cost: 279790  (imbalance=1.31856)
+
+Step: 120, t: 0.516666, dt: 0.00241409, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 121, t: 0.519092, dt: 0.00242543, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=6231581
+   work-load balance: 1.1239   part/sec: raw=110245, effective=98091.5     ia/part: avg=160.374   (151.038|9.33588)
+   maximum number of nodes: 2115, filled: 0.976004  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0169901  <tree>=0.0148615  <wait>=0.0018466  <fetch>=1.28876e-06  <stack>=6.78659e-06  (lastpm=0.00511753) sec
+   total interaction cost: 1.05103e+07  (imbalance=1.11549)
+
+Step: 122, t: 0.521529, dt: 0.00243681, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 123, t: 0.523977, dt: 0.00244825, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=      629  timebin=21  total-Nf=6232210
+   work-load balance: 1.23172   part/sec: raw=43308.2, effective=35160.7     ia/part: avg=475.334   (157.808|317.526)
+   maximum number of nodes: 2279, filled: 0.980637  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000700357  <tree>=0.000363095  <wait>=8.69632e-05  <fetch>=1.08941e-06  <stack>=2.05715e-06  (lastpm=0.00494379) sec
+   total interaction cost: 298985  (imbalance=1.2406)
+
+Step: 124, t: 0.526437, dt: 0.00245974, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 125, t: 0.528908, dt: 0.00247129, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=6297746
+   work-load balance: 1.13479   part/sec: raw=110380, effective=97269     ia/part: avg=162.133   (152.241|9.89211)
+   maximum number of nodes: 2182, filled: 0.974542  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.01713  <tree>=0.0148433  <wait>=0.00200547  <fetch>=1.1248e-06  <stack>=6.66766e-06  (lastpm=0.00494379) sec
+   total interaction cost: 1.06255e+07  (imbalance=1.13481)
+
+Step: 126, t: 0.531391, dt: 0.00248289, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 127, t: 0.533885, dt: 0.00249455, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=      663  timebin=21  total-Nf=6298409
+   work-load balance: 1.28292   part/sec: raw=43528.8, effective=33929.6     ia/part: avg=481   (156.754|324.246)
+   maximum number of nodes: 2347, filled: 0.983655  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000739701  <tree>=0.000380783  <wait>=0.000110758  <fetch>=9.42824e-07  <stack>=2.13827e-06  (lastpm=0.00513433) sec
+   total interaction cost: 318903  (imbalance=1.24552)
+
+Step: 128, t: 0.536392, dt: 0.00250626, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 129, t: 0.53891, dt: 0.00251802, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=6363945
+   work-load balance: 1.1301   part/sec: raw=110199, effective=97512.5     ia/part: avg=163.565   (152.898|10.6669)
+   maximum number of nodes: 2274, filled: 0.974711  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0171076  <tree>=0.0148676  <wait>=0.00194073  <fetch>=1.15884e-06  <stack>=6.90166e-06  (lastpm=0.00513433) sec
+   total interaction cost: 1.07194e+07  (imbalance=1.10398)
+
+Step: 130, t: 0.541439, dt: 0.00252984, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 131, t: 0.543981, dt: 0.00254172, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=      690  timebin=21  total-Nf=6364635
+   work-load balance: 1.26002   part/sec: raw=43740.1, effective=34713.7     ia/part: avg=473.577   (149.586|323.991)
+   maximum number of nodes: 2324, filled: 0.982664  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000762895  <tree>=0.000394375  <wait>=0.000106203  <fetch>=1.05812e-06  <stack>=2.10418e-06  (lastpm=0.00512907) sec
+   total interaction cost: 326768  (imbalance=1.23194)
+
+Step: 132, t: 0.546535, dt: 0.00255365, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 133, t: 0.5491, dt: 0.00256564, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=6430171
+   work-load balance: 1.12813   part/sec: raw=110164, effective=97651.9     ia/part: avg=165.653   (154.687|10.9661)
+   maximum number of nodes: 2310, filled: 0.979228  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0170685  <tree>=0.0148723  <wait>=0.00191129  <fetch>=1.14893e-06  <stack>=6.71474e-06  (lastpm=0.00512907) sec
+   total interaction cost: 1.08562e+07  (imbalance=1.11788)
+
+Step: 134, t: 0.551678, dt: 0.00257768, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 135, t: 0.554268, dt: 0.00258978, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=      710  timebin=21  total-Nf=6430881
+   work-load balance: 1.25731   part/sec: raw=43513.5, effective=34608.4     ia/part: avg=484.869   (139.193|345.676)
+   maximum number of nodes: 2469, filled: 0.984842  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000772899  <tree>=0.000407919  <wait>=0.000108763  <fetch>=9.9754e-07  <stack>=2.21427e-06  (lastpm=0.00477026) sec
+   total interaction cost: 344257  (imbalance=1.2615)
+
+Step: 136, t: 0.55687, dt: 0.00260194, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 137, t: 0.559484, dt: 0.00261416, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=6496417
+   work-load balance: 1.13347   part/sec: raw=109691, effective=96774.7     ia/part: avg=167.522   (155.721|11.8007)
+   maximum number of nodes: 2383, filled: 0.977842  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0172298  <tree>=0.0149365  <wait>=0.00199875  <fetch>=1.29035e-06  <stack>=7.12862e-06  (lastpm=0.00477026) sec
+   total interaction cost: 1.09787e+07  (imbalance=1.13457)
+
+Step: 138, t: 0.56211, dt: 0.00262643, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 139, t: 0.564749, dt: 0.00263876, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=      742  timebin=21  total-Nf=6497159
+   work-load balance: 1.2911   part/sec: raw=43550.4, effective=33731.3     ia/part: avg=505.318   (159.685|345.633)
+   maximum number of nodes: 2498, filled: 0.981532  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000808412  <tree>=0.000425943  <wait>=0.000126476  <fetch>=1.01477e-06  <stack>=2.29985e-06  (lastpm=0.00533279) sec
+   total interaction cost: 374946  (imbalance=1.25287)
+
+Step: 140, t: 0.5674, dt: 0.00265114, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 141, t: 0.570064, dt: 0.00266359, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=6562695
+   work-load balance: 1.1379   part/sec: raw=109623, effective=96338.1     ia/part: avg=169.358   (156.904|12.4544)
+   maximum number of nodes: 2381, filled: 0.97502  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0173611  <tree>=0.0149457  <wait>=0.00206665  <fetch>=1.15763e-06  <stack>=6.73463e-06  (lastpm=0.00533279) sec
+   total interaction cost: 1.10991e+07  (imbalance=1.13162)
+
+Step: 142, t: 0.57274, dt: 0.00267609, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 143, t: 0.575429, dt: 0.00268866, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=      783  timebin=21  total-Nf=6563478
+   work-load balance: 1.2616   part/sec: raw=42908.7, effective=34011.3     ia/part: avg=507.146   (155.268|351.877)
+   maximum number of nodes: 2470, filled: 0.982107  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00084293  <tree>=0.000456201  <wait>=0.00012233  <fetch>=9.48971e-07  <stack>=2.11908e-06  (lastpm=0.00530936) sec
+   total interaction cost: 397095  (imbalance=1.24142)
+
+Step: 144, t: 0.57813, dt: 0.00270128, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 145, t: 0.580844, dt: 0.00271396, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=6629014
+   work-load balance: 1.10964   part/sec: raw=109442, effective=98628.2     ia/part: avg=171.959   (159.308|12.6518)
+   maximum number of nodes: 2447, filled: 0.977236  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0169071  <tree>=0.0149705  <wait>=0.00164721  <fetch>=1.12886e-06  <stack>=6.77276e-06  (lastpm=0.00530936) sec
+   total interaction cost: 1.12695e+07  (imbalance=1.13904)
+
+Step: 146, t: 0.583571, dt: 0.0027267, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 147, t: 0.58631, dt: 0.0027395, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=      840  timebin=21  total-Nf=6629854
+   work-load balance: 1.33983   part/sec: raw=44479, effective=33197.6     ia/part: avg=504.357   (160.177|344.18)
+   maximum number of nodes: 2496, filled: 0.979976  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00088216  <tree>=0.000472132  <wait>=0.000163816  <fetch>=9.53162e-07  <stack>=2.05268e-06  (lastpm=0.00530911) sec
+   total interaction cost: 423660  (imbalance=1.28027)
+
+Step: 148, t: 0.589063, dt: 0.00275236, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 149, t: 0.591828, dt: 0.00276528, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=6695390
+   work-load balance: 1.12124   part/sec: raw=108801, effective=97036.7     ia/part: avg=174.169   (160.923|13.2462)
+   maximum number of nodes: 2527, filled: 0.982122  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0171841  <tree>=0.0150587  <wait>=0.00183051  <fetch>=1.22394e-06  <stack>=6.9546e-06  (lastpm=0.00530911) sec
+   total interaction cost: 1.14143e+07  (imbalance=1.12903)
+
+Step: 150, t: 0.594606, dt: 0.00277826, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 151, t: 0.597397, dt: 0.0027913, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=      893  timebin=21  total-Nf=6696283
+   work-load balance: 1.33233   part/sec: raw=46382, effective=34812.6     ia/part: avg=507.353   (160.196|347.157)
+   maximum number of nodes: 2571, filled: 0.986191  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000910524  <tree>=0.000481329  <wait>=0.000162454  <fetch>=9.14885e-07  <stack>=2.08528e-06  (lastpm=0.00512746) sec
+   total interaction cost: 453066  (imbalance=1.31257)
+
+Step: 152, t: 0.600202, dt: 0.00280441, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 153, t: 0.603019, dt: 0.00281757, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=6761819
+   work-load balance: 1.17501   part/sec: raw=108907, effective=92685.6     ia/part: avg=176.516   (162.817|13.6981)
+   maximum number of nodes: 2519, filled: 0.979774  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0179794  <tree>=0.015044  <wait>=0.00263791  <fetch>=1.13114e-06  <stack>=7.04471e-06  (lastpm=0.00512746) sec
+   total interaction cost: 1.15681e+07  (imbalance=1.12784)
+
+Step: 154, t: 0.60585, dt: 0.0028308, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 155, t: 0.608694, dt: 0.00284409, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=      938  timebin=21  total-Nf=6762757
+   work-load balance: 1.34238   part/sec: raw=45899, effective=34192.2     ia/part: avg=511.516   (171.873|339.643)
+   maximum number of nodes: 2622, filled: 0.986456  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000941623  <tree>=0.000510904  <wait>=0.000177052  <fetch>=1.04238e-06  <stack>=2.16127e-06  (lastpm=0.00507937) sec
+   total interaction cost: 479802  (imbalance=1.3383)
+
+Step: 156, t: 0.611552, dt: 0.00285744, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 157, t: 0.614422, dt: 0.00287085, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=6828293
+   work-load balance: 1.13973   part/sec: raw=108691, effective=95365.4     ia/part: avg=178.418   (164.196|14.2223)
+   maximum number of nodes: 2522, filled: 0.978278  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0174795  <tree>=0.0150739  <wait>=0.00211138  <fetch>=1.09538e-06  <stack>=6.82808e-06  (lastpm=0.00507937) sec
+   total interaction cost: 1.16928e+07  (imbalance=1.12953)
+
+Step: 158, t: 0.617307, dt: 0.00288433, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 159, t: 0.620205, dt: 0.00289787, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=      992  timebin=21  total-Nf=6829285
+   work-load balance: 1.30836   part/sec: raw=46063.2, effective=35206.8     ia/part: avg=509.421   (166.823|342.599)
+   maximum number of nodes: 2607, filled: 0.981921  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000964704  <tree>=0.000538391  <wait>=0.00016862  <fetch>=9.46177e-07  <stack>=2.31941e-06  (lastpm=0.00526363) sec
+   total interaction cost: 505346  (imbalance=1.29139)
+
+Step: 160, t: 0.623116, dt: 0.00291147, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 161, t: 0.626041, dt: 0.00292514, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=6894821
+   work-load balance: 1.11464   part/sec: raw=108554, effective=97389.5     ia/part: avg=180.408   (165.638|14.7704)
+   maximum number of nodes: 2537, filled: 0.979915  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0171705  <tree>=0.0150929  <wait>=0.00173469  <fetch>=1.16378e-06  <stack>=6.85039e-06  (lastpm=0.00526363) sec
+   total interaction cost: 1.18232e+07  (imbalance=1.14264)
+
+Step: 162, t: 0.62898, dt: 0.00293887, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 163, t: 0.631933, dt: 0.00295267, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1016  timebin=21  total-Nf=6895837
+   work-load balance: 1.3085   part/sec: raw=44509.6, effective=34015.9     ia/part: avg=513.643   (169.526|344.117)
+   maximum number of nodes: 2548, filled: 0.984544  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00100383  <tree>=0.000570663  <wait>=0.000178993  <fetch>=9.64245e-07  <stack>=2.15508e-06  (lastpm=0.0052509) sec
+   total interaction cost: 521861  (imbalance=1.28157)
+
+Step: 164, t: 0.634899, dt: 0.00296653, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 165, t: 0.63788, dt: 0.00298045, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=6961373
+   work-load balance: 1.18801   part/sec: raw=108520, effective=91346.3     ia/part: avg=182.671   (167.522|15.1493)
+   maximum number of nodes: 2538, filled: 0.980301  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0182231  <tree>=0.0150976  <wait>=0.00284352  <fetch>=1.14511e-06  <stack>=6.79656e-06  (lastpm=0.0052509) sec
+   total interaction cost: 1.19716e+07  (imbalance=1.14126)
+
+Step: 166, t: 0.640874, dt: 0.00299445, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 167, t: 0.643883, dt: 0.0030085, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1052  timebin=21  total-Nf=6962425
+   work-load balance: 1.35055   part/sec: raw=44700.3, effective=33097.9     ia/part: avg=526.129   (171.089|355.04)
+   maximum number of nodes: 2636, filled: 0.984684  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00106148  <tree>=0.000588362  <wait>=0.000209124  <fetch>=1.03647e-06  <stack>=2.42754e-06  (lastpm=0.00510994) sec
+   total interaction cost: 553488  (imbalance=1.29658)
+
+Step: 168, t: 0.646905, dt: 0.00302263, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 169, t: 0.649942, dt: 0.00303682, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=7027961
+   work-load balance: 1.13231   part/sec: raw=108181, effective=95539.6     ia/part: avg=185.003   (169.241|15.7624)
+   maximum number of nodes: 2612, filled: 0.979745  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.017453  <tree>=0.0151451  <wait>=0.00201019  <fetch>=1.1594e-06  <stack>=6.87311e-06  (lastpm=0.00510994) sec
+   total interaction cost: 1.21244e+07  (imbalance=1.15222)
+
+Step: 170, t: 0.652993, dt: 0.00305107, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 171, t: 0.656059, dt: 0.00306539, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1080  timebin=21  total-Nf=7029041
+   work-load balance: 1.3351   part/sec: raw=45925.9, effective=34398.9     ia/part: avg=528.704   (183.887|344.817)
+   maximum number of nodes: 2721, filled: 0.985156  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00105549  <tree>=0.000587904  <wait>=0.000200059  <fetch>=1.14944e-06  <stack>=2.42353e-06  (lastpm=0.00534781) sec
+   total interaction cost: 571000  (imbalance=1.3317)
+
+Step: 172, t: 0.659138, dt: 0.00307978, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 173, t: 0.662233, dt: 0.00309424, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=7094577
+   work-load balance: 1.16962   part/sec: raw=108097, effective=92421.1     ia/part: avg=187.064   (170.781|16.2832)
+   maximum number of nodes: 2622, filled: 0.975809  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0180369  <tree>=0.0151567  <wait>=0.00257716  <fetch>=1.17072e-06  <stack>=7.07279e-06  (lastpm=0.00534781) sec
+   total interaction cost: 1.22594e+07  (imbalance=1.14507)
+
+Step: 174, t: 0.665341, dt: 0.00310877, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 175, t: 0.668465, dt: 0.00312336, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1104  timebin=21  total-Nf=7095681
+   work-load balance: 1.34207   part/sec: raw=45167.2, effective=33655     ia/part: avg=546.47   (192.4|354.07)
+   maximum number of nodes: 2698, filled: 0.978955  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00108525  <tree>=0.000611063  <wait>=0.000211919  <fetch>=9.09902e-07  <stack>=2.46069e-06  (lastpm=0.00533282) sec
+   total interaction cost: 603303  (imbalance=1.32663)
+
+Step: 176, t: 0.671603, dt: 0.00313802, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 177, t: 0.674756, dt: 0.00315275, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=7161217
+   work-load balance: 1.15495   part/sec: raw=107987, effective=93499.7     ia/part: avg=188.804   (171.775|17.0288)
+   maximum number of nodes: 2729, filled: 0.978838  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0178184  <tree>=0.0151722  <wait>=0.00235578  <fetch>=1.11838e-06  <stack>=6.91083e-06  (lastpm=0.00533282) sec
+   total interaction cost: 1.23734e+07  (imbalance=1.17047)
+
+Step: 178, t: 0.677923, dt: 0.00316755, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 179, t: 0.681106, dt: 0.00318242, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1148  timebin=21  total-Nf=7162365
+   work-load balance: 1.33552   part/sec: raw=44477.5, effective=33303.6     ia/part: avg=551.044   (195.691|355.354)
+   maximum number of nodes: 2809, filled: 0.981825  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00113714  <tree>=0.00064527  <wait>=0.000220335  <fetch>=1.07377e-06  <stack>=2.45539e-06  (lastpm=0.00519417) sec
+   total interaction cost: 632599  (imbalance=1.29694)
+
+Step: 180, t: 0.684303, dt: 0.00319736, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 181, t: 0.687515, dt: 0.00321237, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=7227901
+   work-load balance: 1.2136   part/sec: raw=107581, effective=88646.2     ia/part: avg=190.488   (172.741|17.7472)
+   maximum number of nodes: 2716, filled: 0.980505  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0188195  <tree>=0.0152295  <wait>=0.00329275  <fetch>=1.2618e-06  <stack>=7.11838e-06  (lastpm=0.00519417) sec
+   total interaction cost: 1.24838e+07  (imbalance=1.15819)
+
+Step: 182, t: 0.690743, dt: 0.00322745, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 183, t: 0.693985, dt: 0.0032426, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1206  timebin=21  total-Nf=7229107
+   work-load balance: 1.31689   part/sec: raw=45350.6, effective=34437.6     ia/part: avg=551.457   (194.317|357.14)
+   maximum number of nodes: 2794, filled: 0.983803  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00113199  <tree>=0.00066482  <wait>=0.000213871  <fetch>=9.56608e-07  <stack>=2.37077e-06  (lastpm=0.00515961) sec
+   total interaction cost: 665057  (imbalance=1.26515)
+
+Step: 184, t: 0.697243, dt: 0.00325783, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 185, t: 0.700516, dt: 0.00327312, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=7294643
+   work-load balance: 1.14995   part/sec: raw=107441, effective=93430.7     ia/part: avg=192.572   (174.222|18.3497)
+   maximum number of nodes: 2836, filled: 0.981315  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0178434  <tree>=0.0152494  <wait>=0.00229037  <fetch>=1.31866e-06  <stack>=7.07842e-06  (lastpm=0.00515961) sec
+   total interaction cost: 1.26204e+07  (imbalance=1.1802)
+
+Step: 186, t: 0.703805, dt: 0.00328849, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 187, t: 0.707109, dt: 0.00330392, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1232  timebin=21  total-Nf=7295875
+   work-load balance: 1.28803   part/sec: raw=42645.9, effective=33109.3     ia/part: avg=548.912   (194.507|354.405)
+   maximum number of nodes: 2921, filled: 0.984828  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00122659  <tree>=0.000722227  <wait>=0.000210924  <fetch>=1.03065e-06  <stack>=2.51681e-06  (lastpm=0.00515383) sec
+   total interaction cost: 676260  (imbalance=1.34457)
+
+Step: 188, t: 0.710428, dt: 0.00331943, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 189, t: 0.713763, dt: 0.00333502, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=7361411
+   work-load balance: 1.14333   part/sec: raw=107035, effective=93617.4     ia/part: avg=194.945   (176.266|18.6798)
+   maximum number of nodes: 2796, filled: 0.977622  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0178028  <tree>=0.0153071  <wait>=0.00219914  <fetch>=1.18809e-06  <stack>=6.98688e-06  (lastpm=0.00515383) sec
+   total interaction cost: 1.27759e+07  (imbalance=1.16905)
+
+Step: 190, t: 0.717114, dt: 0.00335067, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 191, t: 0.72048, dt: 0.0033664, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1269  timebin=21  total-Nf=7362680
+   work-load balance: 1.33129   part/sec: raw=46333.7, effective=34803.6     ia/part: avg=543.826   (196.836|346.99)
+   maximum number of nodes: 2816, filled: 0.981527  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00122094  <tree>=0.000684706  <wait>=0.000229751  <fetch>=9.73046e-07  <stack>=2.44095e-06  (lastpm=0.00514242) sec
+   total interaction cost: 690115  (imbalance=1.32946)
+
+Step: 192, t: 0.723862, dt: 0.0033822, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 193, t: 0.727261, dt: 0.00339808, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=7428216
+   work-load balance: 1.14558   part/sec: raw=106972, effective=93378     ia/part: avg=198.116   (179.316|18.8001)
+   maximum number of nodes: 2708, filled: 0.980804  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0178535  <tree>=0.0153162  <wait>=0.0022351  <fetch>=1.16779e-06  <stack>=6.92913e-06  (lastpm=0.00514242) sec
+   total interaction cost: 1.29837e+07  (imbalance=1.16137)
+
+Step: 194, t: 0.730675, dt: 0.00341403, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 195, t: 0.734105, dt: 0.00343006, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1292  timebin=21  total-Nf=7429508
+   work-load balance: 1.33399   part/sec: raw=45647.8, effective=34218.9     ia/part: avg=554.234   (204.741|349.492)
+   maximum number of nodes: 2786, filled: 0.980296  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00120062  <tree>=0.000707592  <wait>=0.000239422  <fetch>=9.73279e-07  <stack>=2.21631e-06  (lastpm=0.00493564) sec
+   total interaction cost: 716070  (imbalance=1.30049)
+
+Step: 196, t: 0.737551, dt: 0.00344616, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 197, t: 0.741013, dt: 0.00346234, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=7495044
+   work-load balance: 1.16969   part/sec: raw=106567, effective=91106.8     ia/part: avg=200.082   (180.587|19.4951)
+   maximum number of nodes: 2688, filled: 0.978166  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0183042  <tree>=0.0153744  <wait>=0.00261301  <fetch>=1.14776e-06  <stack>=7.05915e-06  (lastpm=0.00493564) sec
+   total interaction cost: 1.31126e+07  (imbalance=1.14239)
+
+Step: 198, t: 0.744492, dt: 0.00347859, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 199, t: 0.747987, dt: 0.00349492, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1315  timebin=21  total-Nf=7496359
+   work-load balance: 1.3688   part/sec: raw=46458.1, effective=33940.7     ia/part: avg=560.92   (205.81|355.11)
+   maximum number of nodes: 2753, filled: 0.979715  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00127003  <tree>=0.000707627  <wait>=0.000263427  <fetch>=1.05952e-06  <stack>=2.99634e-06  (lastpm=0.00512262) sec
+   total interaction cost: 737610  (imbalance=1.31999)
+
+Step: 200, t: 0.751498, dt: 0.00351133, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 201, t: 0.755026, dt: 0.00352781, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=7561895
+   work-load balance: 1.22984   part/sec: raw=106313, effective=86444.4     ia/part: avg=203.127   (183.336|19.7908)
+   maximum number of nodes: 2748, filled: 0.994211  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0192832  <tree>=0.0154111  <wait>=0.00354799  <fetch>=1.12937e-06  <stack>=6.9933e-06  (lastpm=0.00512262) sec
+   total interaction cost: 1.33121e+07  (imbalance=1.18983)
+
+Step: 202, t: 0.75857, dt: 0.00354437, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 203, t: 0.762131, dt: 0.00356101, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1319  timebin=21  total-Nf=7563214
+   work-load balance: 1.36578   part/sec: raw=39664, effective=29041.4     ia/part: avg=565.412   (210.134|355.278)
+   maximum number of nodes: 2769, filled: 0.982612  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00141236  <tree>=0.000831358  <wait>=0.000307548  <fetch>=3.91533e-06  <stack>=2.03756e-05  (lastpm=0.00514927) sec
+   total interaction cost: 745779  (imbalance=1.35053)
+
+Step: 204, t: 0.765709, dt: 0.00357773, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 205, t: 0.769303, dt: 0.00359452, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=7628750
+   work-load balance: 1.12373   part/sec: raw=104863, effective=93317     ia/part: avg=204.619   (183.898|20.721)
+   maximum number of nodes: 2844, filled: 0.980014  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0178524  <tree>=0.0156242  <wait>=0.00193885  <fetch>=1.23996e-06  <stack>=1.88955e-05  (lastpm=0.00514927) sec
+   total interaction cost: 1.34099e+07  (imbalance=1.15966)
+
+Step: 206, t: 0.772915, dt: 0.0036114, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 207, t: 0.776543, dt: 0.00362835, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1330  timebin=21  total-Nf=7630080
+   work-load balance: 1.3446   part/sec: raw=42700.4, effective=31756.9     ia/part: avg=562.32   (190.328|371.992)
+   maximum number of nodes: 2917, filled: 0.985806  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00132603  <tree>=0.00077868  <wait>=0.00027175  <fetch>=3.59374e-06  <stack>=1.81909e-05  (lastpm=0.00538581) sec
+   total interaction cost: 747886  (imbalance=1.34379)
+
+Step: 208, t: 0.780189, dt: 0.00364538, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 209, t: 0.783851, dt: 0.0036625, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=7695616
+   work-load balance: 1.15628   part/sec: raw=105094, effective=90889.4     ia/part: avg=206.435   (184.795|21.6401)
+   maximum number of nodes: 2930, filled: 0.976667  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0183489  <tree>=0.0155899  <wait>=0.0024416  <fetch>=1.47088e-06  <stack>=7.1825e-06  (lastpm=0.00538581) sec
+   total interaction cost: 1.35289e+07  (imbalance=1.16715)
+
+Step: 210, t: 0.787531, dt: 0.00367969, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 211, t: 0.791228, dt: 0.00369696, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1339  timebin=21  total-Nf=7696955
+   work-load balance: 1.36472   part/sec: raw=43234.9, effective=31680.5     ia/part: avg=565.228   (188.091|377.137)
+   maximum number of nodes: 2927, filled: 0.989186  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00132052  <tree>=0.000774259  <wait>=0.000285812  <fetch>=1.05803e-06  <stack>=2.3454e-06  (lastpm=0.00572487) sec
+   total interaction cost: 756840  (imbalance=1.38201)
+
+Step: 212, t: 0.794942, dt: 0.00371432, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 213, t: 0.798674, dt: 0.00373175, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=7762491
+   work-load balance: 1.13265   part/sec: raw=105179, effective=92860.7     ia/part: avg=208.199   (185.576|22.6231)
+   maximum number of nodes: 2935, filled: 0.975731  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0179946  <tree>=0.0155773  <wait>=0.00207164  <fetch>=1.16951e-06  <stack>=7.35684e-06  (lastpm=0.00572487) sec
+   total interaction cost: 1.36445e+07  (imbalance=1.18431)
+
+Step: 214, t: 0.802423, dt: 0.00374927, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 215, t: 0.80619, dt: 0.00376687, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1342  timebin=21  total-Nf=7763833
+   work-load balance: 1.35096   part/sec: raw=43975.5, effective=32551.4     ia/part: avg=568.339   (188.446|379.893)
+   maximum number of nodes: 2853, filled: 0.97372  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00130797  <tree>=0.000762925  <wait>=0.000271153  <fetch>=5.2074e-06  <stack>=2.4369e-06  (lastpm=0.00530246) sec
+   total interaction cost: 762711  (imbalance=1.3816)
+
+Step: 216, t: 0.809974, dt: 0.00378456, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 217, t: 0.813777, dt: 0.00380232, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=7829369
+   work-load balance: 1.16883   part/sec: raw=105186, effective=89992.5     ia/part: avg=210.836   (187.9|22.9352)
+   maximum number of nodes: 3007, filled: 0.982038  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0185229  <tree>=0.0155762  <wait>=0.00263535  <fetch>=1.24029e-06  <stack>=7.50665e-06  (lastpm=0.00530246) sec
+   total interaction cost: 1.38173e+07  (imbalance=1.18475)
+
+Step: 218, t: 0.817597, dt: 0.00382017, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 219, t: 0.821435, dt: 0.00383811, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1312  timebin=21  total-Nf=7830681
+   work-load balance: 1.42645   part/sec: raw=43504.9, effective=30498.7     ia/part: avg=568.981   (192.655|376.326)
+   maximum number of nodes: 2907, filled: 0.980438  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00134383  <tree>=0.000753937  <wait>=0.000324592  <fetch>=9.49949e-07  <stack>=2.42833e-06  (lastpm=0.00532917) sec
+   total interaction cost: 746503  (imbalance=1.42011)
+
+Step: 220, t: 0.825291, dt: 0.00385612, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 221, t: 0.829165, dt: 0.00387423, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=7896217
+   work-load balance: 1.18682   part/sec: raw=104515, effective=88062.7     ia/part: avg=213.281   (189.571|23.7095)
+   maximum number of nodes: 3061, filled: 0.981404  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0189513  <tree>=0.0156762  <wait>=0.00293454  <fetch>=1.48909e-06  <stack>=7.60038e-06  (lastpm=0.00532917) sec
+   total interaction cost: 1.39776e+07  (imbalance=1.1902)
+
+Step: 222, t: 0.833058, dt: 0.00389241, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 223, t: 0.836969, dt: 0.00391068, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1289  timebin=21  total-Nf=7897506
+   work-load balance: 1.34232   part/sec: raw=43979.7, effective=32763.9     ia/part: avg=575.263   (197.781|377.482)
+   maximum number of nodes: 2848, filled: 0.981392  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00125197  <tree>=0.000732724  <wait>=0.000254197  <fetch>=1.00285e-06  <stack>=2.43899e-06  (lastpm=0.00518966) sec
+   total interaction cost: 741514  (imbalance=1.38144)
+
+Step: 224, t: 0.840898, dt: 0.00392904, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 225, t: 0.844845, dt: 0.00394749, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=7963042
+   work-load balance: 1.17438   part/sec: raw=104452, effective=88941.9     ia/part: avg=216.392   (192.61|23.7825)
+   maximum number of nodes: 3044, filled: 0.982569  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0187279  <tree>=0.0156857  <wait>=0.00274103  <fetch>=1.21379e-06  <stack>=7.26664e-06  (lastpm=0.00518966) sec
+   total interaction cost: 1.41815e+07  (imbalance=1.17829)
+
+Step: 226, t: 0.848811, dt: 0.00396602, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 227, t: 0.852796, dt: 0.00398464, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1246  timebin=21  total-Nf=7964288
+   work-load balance: 1.40064   part/sec: raw=45673.7, effective=32609.1     ia/part: avg=582.419   (219.483|362.936)
+   maximum number of nodes: 2828, filled: 0.978547  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00121691  <tree>=0.000682012  <wait>=0.000276182  <fetch>=9.36724e-07  <stack>=2.46507e-06  (lastpm=0.00511251) sec
+   total interaction cost: 725694  (imbalance=1.3759)
+
+Step: 228, t: 0.856799, dt: 0.00400334, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 229, t: 0.860821, dt: 0.00402213, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=8029824
+   work-load balance: 1.16065   part/sec: raw=104355, effective=89911.1     ia/part: avg=217.968   (193.146|24.8222)
+   maximum number of nodes: 3103, filled: 0.980101  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0185434  <tree>=0.0157002  <wait>=0.00252727  <fetch>=1.24797e-06  <stack>=7.5575e-06  (lastpm=0.00511251) sec
+   total interaction cost: 1.42848e+07  (imbalance=1.18665)
+
+Step: 230, t: 0.864862, dt: 0.00404102, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 231, t: 0.868922, dt: 0.00405999, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1193  timebin=21  total-Nf=8031017
+   work-load balance: 1.33697   part/sec: raw=45952.5, effective=34370.6     ia/part: avg=577.89   (203.457|374.433)
+   maximum number of nodes: 2921, filled: 0.984496  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00113559  <tree>=0.000649039  <wait>=0.000221671  <fetch>=9.28575e-07  <stack>=2.31322e-06  (lastpm=0.00680073) sec
+   total interaction cost: 689423  (imbalance=1.35766)
+
+Step: 232, t: 0.873001, dt: 0.00407905, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 233, t: 0.877099, dt: 0.00409819, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=8096553
+   work-load balance: 1.1524   part/sec: raw=103872, effective=90135.3     ia/part: avg=220.721   (195.959|24.7629)
+   maximum number of nodes: 3105, filled: 0.982284  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0184997  <tree>=0.0157733  <wait>=0.00240959  <fetch>=1.17752e-06  <stack>=7.33016e-06  (lastpm=0.00680073) sec
+   total interaction cost: 1.44652e+07  (imbalance=1.17578)
+
+Step: 234, t: 0.881217, dt: 0.00411743, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 235, t: 0.885354, dt: 0.00413676, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1148  timebin=21  total-Nf=8097701
+   work-load balance: 1.34647   part/sec: raw=43998.9, effective=32677.2     ia/part: avg=595.184   (223.447|371.737)
+   maximum number of nodes: 2931, filled: 0.987867  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00114286  <tree>=0.000652289  <wait>=0.000229301  <fetch>=9.79332e-07  <stack>=2.31331e-06  (lastpm=0.0051468) sec
+   total interaction cost: 683271  (imbalance=1.32843)
+
+Step: 236, t: 0.88951, dt: 0.00415618, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 237, t: 0.893686, dt: 0.00417569, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=8163237
+   work-load balance: 1.20778   part/sec: raw=103753, effective=85904     ia/part: avg=222.913   (197.625|25.2876)
+   maximum number of nodes: 3033, filled: 0.983144  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0193952  <tree>=0.0157913  <wait>=0.00328603  <fetch>=1.22776e-06  <stack>=1.1374e-05  (lastpm=0.0051468) sec
+   total interaction cost: 1.46088e+07  (imbalance=1.17194)
+
+Step: 238, t: 0.897881, dt: 0.00419529, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 239, t: 0.902096, dt: 0.00421499, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1082  timebin=21  total-Nf=8164319
+   work-load balance: 1.31048   part/sec: raw=45814.2, effective=34959.9     ia/part: avg=593.15   (219.261|373.889)
+   maximum number of nodes: 2846, filled: 0.985116  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00104304  <tree>=0.000590428  <wait>=0.000186489  <fetch>=9.17166e-07  <stack>=2.37213e-06  (lastpm=0.00517745) sec
+   total interaction cost: 641788  (imbalance=1.27699)
+
+Step: 240, t: 0.906331, dt: 0.00423477, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 241, t: 0.910585, dt: 0.00425465, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=8229855
+   work-load balance: 1.1992   part/sec: raw=103053, effective=85935.2     ia/part: avg=225.458   (200.156|25.3018)
+   maximum number of nodes: 2889, filled: 0.981651  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0193962  <tree>=0.0158986  <wait>=0.00317236  <fetch>=1.15694e-06  <stack>=7.01221e-06  (lastpm=0.00517745) sec
+   total interaction cost: 1.47756e+07  (imbalance=1.17782)
+
+Step: 242, t: 0.91486, dt: 0.00427463, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 243, t: 0.919155, dt: 0.00429469, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=     1014  timebin=21  total-Nf=8230869
+   work-load balance: 1.34922   part/sec: raw=45816.4, effective=33957.6     ia/part: avg=590.783   (223.152|367.631)
+   maximum number of nodes: 2729, filled: 0.992003  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.00101389  <tree>=0.000553296  <wait>=0.000195953  <fetch>=1.06599e-06  <stack>=2.69897e-06  (lastpm=0.0049464) sec
+   total interaction cost: 599054  (imbalance=1.30786)
+
+Step: 244, t: 0.923469, dt: 0.00431485, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 245, t: 0.927805, dt: 0.00433511, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=8296405
+   work-load balance: 1.17729   part/sec: raw=102693, effective=87228.7     ia/part: avg=227.352   (201.678|25.6739)
+   maximum number of nodes: 2804, filled: 0.983515  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0190989  <tree>=0.0159543  <wait>=0.0028382  <fetch>=5.54514e-06  <stack>=2.25375e-05  (lastpm=0.0049464) sec
+   total interaction cost: 1.48997e+07  (imbalance=1.15768)
+
+Step: 246, t: 0.93216, dt: 0.00435546, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 247, t: 0.936536, dt: 0.00437591, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=      907  timebin=21  total-Nf=8297312
+   work-load balance: 1.44363   part/sec: raw=46080.9, effective=31920.1     ia/part: avg=585.908   (228.409|357.499)
+   maximum number of nodes: 2679, filled: 0.983841  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000977339  <tree>=0.00049207  <wait>=0.000222329  <fetch>=9.83942e-07  <stack>=2.27303e-06  (lastpm=0.00514914) sec
+   total interaction cost: 531419  (imbalance=1.33552)
+
+Step: 248, t: 0.940932, dt: 0.00439645, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 249, t: 0.945349, dt: 0.00441709, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=8362848
+   work-load balance: 1.18538   part/sec: raw=102773, effective=86700.3     ia/part: avg=230.213   (204.539|25.6735)
+   maximum number of nodes: 2671, filled: 0.983794  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0191975  <tree>=0.015942  <wait>=0.00296106  <fetch>=1.28783e-06  <stack>=2.48059e-05  (lastpm=0.00514914) sec
+   total interaction cost: 1.50872e+07  (imbalance=1.14223)
+
+Step: 250, t: 0.949787, dt: 0.00443782, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 251, t: 0.954246, dt: 0.00445866, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=      796  timebin=21  total-Nf=8363644
+   work-load balance: 1.37808   part/sec: raw=45694.5, effective=33158.1     ia/part: avg=595.76   (252.749|343.011)
+   maximum number of nodes: 2609, filled: 0.983415  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000864394  <tree>=0.000435501  <wait>=0.000166894  <fetch>=1.0387e-06  <stack>=2.27108e-06  (lastpm=0.00509184) sec
+   total interaction cost: 474225  (imbalance=1.35219)
+
+Step: 252, t: 0.958725, dt: 0.00447959, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 253, t: 0.963226, dt: 0.00450062, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=8429180
+   work-load balance: 1.14497   part/sec: raw=102332, effective=89375.8     ia/part: avg=232.479   (206.622|25.8565)
+   maximum number of nodes: 2512, filled: 0.98125  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0186223  <tree>=0.0160106  <wait>=0.00232584  <fetch>=4.71291e-06  <stack>=2.25729e-05  (lastpm=0.00509184) sec
+   total interaction cost: 1.52357e+07  (imbalance=1.14103)
+
+Step: 254, t: 0.967748, dt: 0.00452174, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 255, t: 0.972291, dt: 0.00454297, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=      628  timebin=21  total-Nf=8429808
+   work-load balance: 1.41124   part/sec: raw=43500.6, effective=30824.3     ia/part: avg=600.361   (258.328|342.033)
+   maximum number of nodes: 2609, filled: 0.989007  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000767361  <tree>=0.000360915  <wait>=0.000151993  <fetch>=9.07574e-07  <stack>=2.17808e-06  (lastpm=0.00508634) sec
+   total interaction cost: 377027  (imbalance=1.35672)
+
+Step: 256, t: 0.976855, dt: 0.0045643, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 257, t: 0.981441, dt: 0.00458572, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=8495344
+   work-load balance: 1.11238   part/sec: raw=102138, effective=91819.5     ia/part: avg=235.735   (209.836|25.8991)
+   maximum number of nodes: 2412, filled: 0.977706  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0181561  <tree>=0.016041  <wait>=0.00180827  <fetch>=1.21263e-06  <stack>=6.89565e-06  (lastpm=0.00508634) sec
+   total interaction cost: 1.54491e+07  (imbalance=1.16881)
+
+Step: 258, t: 0.986048, dt: 0.00460725, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step: 259, t: 0.990677, dt: 0.00462888, highest active timebin: 21  (lowest active: 20, highest occupied: 22)
+Nf=      499  timebin=21  total-Nf=8495843
+   work-load balance: 1.38764   part/sec: raw=42276.9, effective=30466.7     ia/part: avg=599.788   (242.545|357.242)
+   maximum number of nodes: 2585, filled: 0.983264  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.000661783  <tree>=0.000295078  <wait>=0.00011737  <fetch>=1.02203e-06  <stack>=2.09687e-06  (lastpm=0.00508443) sec
+   total interaction cost: 299294  (imbalance=1.37002)
+
+Step: 260, t: 0.995328, dt: 0.00465061, highest active timebin: 20  (lowest active: 20, highest occupied: 22)
+
+Step(*): 261, t: 1, dt: 0.00467244, highest active timebin: 22  (lowest active: 20, highest occupied: 22)
+Nf=    65536  timebin=22  total-Nf=8561379
+   work-load balance: 1.1748   part/sec: raw=101518, effective=86413.5     ia/part: avg=237.899   (211.461|26.4382)
+   maximum number of nodes: 2409, filled: 0.986891  NumForeignNodes: max=0 avg=0 fill=0 NumForeignPoints: max=0 avg=0 fill=0  cycles=1
+   avg times: <all>=0.0192643  <tree>=0.016139  <wait>=0.0028264  <fetch>=1.23526e-06  <stack>=6.88713e-06  (lastpm=0.00508443) sec
+   total interaction cost: 1.55909e+07  (imbalance=1.178)

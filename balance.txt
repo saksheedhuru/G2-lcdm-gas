@@ -1,0 +1,291 @@
+
+insert               = ':' / 'r'
+branches             = 'D' / 'd'
+toplevel             = 'E' / 'e'
+treewalk             = '*' / 't'
+treeimbalance        = 'x' / 'X'
+treefetch            = '&' / 'e'
+treestack            = '#' / 'a'
+pm_grav              = '|' / 'n'
+ngbtreevelupdate     = 'B' / 'b'
+ngbtreehsmlupdate    = 'h' / 'H'
+density              = 'd' / 'D'
+densitywalk          = 'e' / 'E'
+densityfetch         = 'f' / 'F'
+densimbalance        = 'c' / 'C'
+hydro                = 'J' / 'j'
+hydrowalk            = '9' / 'H'
+hydrofetch           = '0' / 'K'
+hydroimbalance       = '[' / 'y'
+domain               = '+' / 'l'
+peano                = '"' / 'o'
+drift/kicks          = '?' / 'A'
+timeline             = ')' / 'I'
+treetimesteps        = '0' / 'W'
+i/o                  = '3' / 'B'
+logs                 = 'K' / 'k'
+restart              = 'C' / 'c'
+misc                 = '7' / 'F'
+
+Step=      0  sec=     0.352 Nsync-grv=     65536 Nsync-hyd=     32768  ::EE*********txX||||||||||deeeeeEcCJ999H+++++++++"33333333333333333333333333333k777777777777777777777777777777777777777F
+Step=      1  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  ::::EEE****************************tttxxXX|||||||||||||hDeeeeeeeeEEcCJJ9999999999999999999HHHH[[yyy+++++++++++?A0K7777F-
+Step=      2  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  :::::EEE****************************ttttxXXX||||||||||||BdeeeeeeeeeEECJJ99999999999999999999HHH[[yy+++++++++++?A0K7777F-
+Step=      3  sec=     0.061 Nsync-grv=     65536 Nsync-hyd=     32768  :::::EEe***************************tttxXXX||||||||||||BdeeeeeeeeEEcCJ99999999999999999999HHH[[y+++++++++++?A0kk7777777F-
+Step=      4  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  :::::EEEe***************************tttxxXXX|||||||||||BBBdeeeeeeeeeEcCJJ9999999999999999999HHHH[[yy++++++++++?00k7777--
+Step=      5  sec=     0.063 Nsync-grv=     65536 Nsync-hyd=     32768  :::::EEE*************************ttttxxXXX|||||||||||||BdeeeeeeeeEccCJ999999999999999999HHHHH[[[[yyy++++++++++?A0Kk777F-
+Step=      6  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  :::::DEEe**************************tttxxXX||||||||||||deeeeeeeeeEcCJ99999999999999999999HHH[[yy+++++++++?A0Kk77777777F--
+Step=      7  sec=     0.061 Nsync-grv=     65536 Nsync-hyd=     32768  :::::EEEe***************************tttxxXX|||||||||||nhhheeeeeeeeeEcCJJ99999999999999999999HHH[[[yy+++++++++?00k7777F--
+Step=      8  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  :::::rEEe****************************tttxxXX||||||||||||BdeeeeeeeeeEcCJJ99999999999999999999HHHH[[yy++++++++++?00K7777F-
+Step=      9  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  :::::rEEE****************************tttxxXXX||||||||||||deeeeeeeeeEcCJJ999999999999999999999HHH[[[yy+++++++++?)0K7777F-
+Step=     10  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  ::::::EEe*************************ttttxxXXX|||||||||||hDeeeeeeEEEccccCJ99999999999999999999HHHH[[yy+++++++++++o?0Kk777F-
+Step=     11  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  :::::DEEE***************************ttttxxXXX||||||||||||BdeeeeeeeeeEcJJ999999999999999999999HHHH[[yy+++++++++?A0K7777F-
+Step=     12  sec=     0.060 Nsync-grv=     65536 Nsync-hyd=     32768  ::::::dEEE***************************ttttxxXX||||||||||||hDeeeeeeeeEEcCJ999999999999999999999HHHH[[yy+++++++++?0WK7777--
+Step=     13  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  :::::rEEe****************************tttxxXX|||||||||||||HDeeeeeeeeeEcJJ9999999999999999999999HHH[[yy++++++++l?0KK7777F-
+Step=     14  sec=     0.060 Nsync-grv=     65536 Nsync-hyd=     32768  ::::::EEEe***************************ttttxxXX||||||||||||hDeeeeeeeeEECJJ999999999999999999999HHHH[[yy+++++++++?0KK7777--
+Step=     15  sec=     0.060 Nsync-grv=     65536 Nsync-hyd=     32768  :::::rEEe***************************ttttxxXX||||||||||||bdeeeeeeeeeEcCJj999999999999999999999HHHH[[yy+++++++++?)0K7777F-
+Step=     16  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  ::::::dEEe**************************ttttxXXX||||||||||||deeeeeeeeEEccCJJ999999999999999999999HHH[[yy++++++++?A0k777777F-
+Step=     17  sec=     0.060 Nsync-grv=     65536 Nsync-hyd=     32768  ::::::DEEe***************************ttttxxXX||||||||||||beeeeeeeeeEEcJJ9999999999999999999999HHHH[[yy++++++++?00K7777F-
+Step=     18  sec=     0.060 Nsync-grv=     65536 Nsync-hyd=     32768  ::::::dEEe***************************ttttxxXXe|||||||||||BdeeeeeeeeeEcCJ9999999999999999999999HHHH[[yy++++++++?0KK7777F-
+Step=     19  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  ::::::EEEE**************************ttttxxXXX||||||||||||bdeeeeeeeeEEcCJ9999999999999999999999HHH[[[yy++++++++?00K7777--
+Step=     20  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  ::::::EEEe*************************ttttxxXXXX||||||||||||bdeeeeeeeeEECJJ999999999999999999999HHHH[[yyy++++++++?00K7777--
+Step=     21  sec=     0.077 Nsync-grv=     65536 Nsync-hyd=     32768  :::::DEE*********************tttxxXX||||||||||||||||||||||||BdeeeeeeEEcCJJJ99999999999999999HHHH[[[yy+++++++?00000Kk77F-
+Step=     22  sec=     0.064 Nsync-grv=     65536 Nsync-hyd=     32768  ::::::DEEe*************************ttttxxXX||||||||||||deeeeeeeeeEcJJ9999999999999999999999HHK[yy++++++++++++?0Kk77777--
+Step=     23  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  :::::::rEEE***************************tttxxXXX|||||||||||BdeeeeeeeeeEcCJ99999999999999999999999HHH[yyy++++++++?00K7777--
+Step=     24  sec=     0.058 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEe****************************ttttxXXX||||||||||||hdeeeeeeeeeEECJJ999999999999999999999999HHH0[yy+++++++++?00K77777F
+Step=     25  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEe***************************ttttxXXXX||||||||||||hDeeeeeeeeeEcCJJ99999999999999999999999HHHH[yyyy++++++++??0KK7777F
+Step=     26  sec=     0.058 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEe****************************ttttxXXX|||||||||||||heeeeeeeeeeEcCJJ999999999999999999999999HHHHyyy++++++++??0KK7777-
+Step=     27  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEe****************************ttttxxXXX||||||||||||deeeeeeeeeeEcCJ999999999999999999999999HHHH[[yy++++++++??0KK7777F
+Step=     28  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  ::::::EEEe**************************ttttxXX||||||||||||bDeeeeeeeeEECJJ99999999999999999999999HHH[[yy++++++++++?00k7777F-
+Step=     29  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  :::::::DEEE***************************tttxxXXX|||||||||||hDeeeeeeeeEEcJJ99999999999999999999999HHHH[yy++++++++?00K7777--
+Step=     30  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  ::::::rEEE***************************tttxxXXX|||||||||||heeeeeeeeeEECJJ99999999999999999999999HHHH[[yy++++++++?A0K7777F-
+Step=     31  sec=     0.063 Nsync-grv=     65536 Nsync-hyd=     32768  ::::::::EEEe***************************tttxXX||||||||||||heeeeeeeeeEECJJ99999999999999999999999HHH[[yy+++++++l?00K7777--
+Step=     32  sec=     0.074 Nsync-grv=     65536 Nsync-hyd=     32768  :::EEEEEe**********************tttxXX||||||||||heeeeeeeeEcJJ99999999999999999999HH[[yy+++++++??033333333333333333BK7777F
+Step=     33  sec=     0.089 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe******************tttxXX||||||||deeeeeeEcJJ9999999999999999HH[[y++++++++++l??0kk777777777777777777777777777777777FF
+Step=     34  sec=     0.060 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEe***************************ttttxxXXX||||||||||||deeeeeeeeeeEcCJJ999999999999999999999999HHHH[yyy++++++++??0KK7777-
+Step=     35  sec=     0.060 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEe*****************************tttXX||||||||||||ndeeeeeeeeeEEcCJJ9999999999999999999999999HHH[[yy+++++++++"?00K7777F
+Step=     36  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEE*****************************tttxXX|||||||||||||deeeeeeeeeeEcCJJ9999999999999999999999999HHH[[yy++++++++??0Kk7777-
+Step=     37  sec=     0.061 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEE***************************ttttxxXXX|||||||||||HeeeeeeeeeEEcCJJ99999999999999999999999HHHHH[[[yyy++++++++?0WK7777F
+Step=     38  sec=     0.061 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEe****************************tttxXXX||||||||||||deeeeeeeeeEEcCJJ9999999999999999999999999HHH[[yyy++++++++?00Kk7777F
+Step=     39  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  ::DEEEe****************************tttxxXX||||||||||||heeeeeeeeeeEcCJj9999999999999999999999999HHH[[yy++++++++??0KK7777F
+Step=     40  sec=     0.060 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEE****************************ttttxXXa|||||||||||BdeeeeeeeeeEECJJ99999999999999999999999999HHH[[yy++++++++??0Kk7777F
+Step=     41  sec=     0.065 Nsync-grv=     65536 Nsync-hyd=     32768  ::::::::EEE**************************ttttxXXX|||||||||||BdeeeeeeeeeEcCJj99999999999999999999999HHH[[yy++++++++?00K7777F-
+Step=     42  sec=     0.060 Nsync-grv=     65536 Nsync-hyd=     32768  ::DEEE*****************************tttxXXX|||||||||||BdeeeeeeeeeeECJJ99999999999999999999999999HHH[[yy++++++++??0KK7777F
+Step=     43  sec=     0.061 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEE****************************tttxxXXX|||||||||||ndeeeeeeeeeEEcJJ99999999999999999999999999HHH[[yy++++++++??0WK7777F
+Step=     44  sec=     0.061 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEe****************************tttxXXX|||||||||||BdeeeeeeeeeEEcCJJ9999999999999999999999999HHHH[yyy++++++++"?0WK7777F
+Step=     45  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEe***************************ttttxxxXX|||||||||||ndeeeeeeeeeEEcCJ99999999999999999999999999HHHH[[yy++++++++o?0KK777F
+Step=     46  sec=     0.054 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe*****************************ttttxxXX|||||||||||BDeeeeeeeeeeEcCJJ999999999999999999999999999HHHH[[yy+++++++o?0K777F
+Step=     47  sec=     0.053 Nsync-grv=     65536 Nsync-hyd=     32768  ::EE******************************ttttxXXXX|||||||||||heeeeeeeeeeEECJJ9999999999999999999999999999HHH[yyyy++++++"?0K777F
+Step=     48  sec=     0.053 Nsync-grv=     65536 Nsync-hyd=     32768  ::EE*******************************tttxxXXX|||||||||||beeeeeeeeeeeEcJJ99999999999999999999999999999HHH[yy+++++++"?0K777F
+Step=     49  sec=     0.054 Nsync-grv=     65536 Nsync-hyd=     32768  ::EE*****************************tttttxxXXX|||||||||||BeeeeeeeeeeEEcCJ9999999999999999999999999999HHHH[[yy+++++++?0K777F
+Step=     50  sec=     0.099 Nsync-grv=     65536 Nsync-hyd=     32768  :E****************ttxxX||||||deeeeEEcccC9999999999999999H[yy+++++++++++++++++++++++++++++++++++++++++++++++++++++l?0kk7F
+Step=     51  sec=     0.053 Nsync-grv=     65536 Nsync-hyd=     32768  ::EE******************************ttttxxXX||||||||||||deeeeeeeeeeEEcJJ99999999999999999999999999999HHH[[yy+++++++?0K777F
+Step=     52  sec=     0.054 Nsync-grv=     65536 Nsync-hyd=     32768  ::DEE******************************tttxXXX#||||||||||BeeeeeeeeeeEEcCJ9999999999999999999999999999HHHH[yyyy+++++++?0K777F
+Step=     53  sec=     0.054 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe****************************ttttxxxXXX|||||||||||deeeeeeeeeeEECJJ9999999999999999999999999999HHHH[yyy+++++++?0K777F
+Step=     54  sec=     0.063 Nsync-grv=     65536 Nsync-hyd=     32768  ::DEEe*************************tttxxXX||||||||||heeeeeeeeeEcCJ99999999999999999999999HHHHH[[yyy++++++?033333333333K777F-
+Step=     55  sec=     0.057 Nsync-grv=     65536 Nsync-hyd=     32768  ::Ee***************************ttttxXXXX||||||||||ndeeeeeeeeeEECCJ9999999999999999999999999HHHHHH[yyyyy+++++++++?A0K777F
+Step=     56  sec=     0.053 Nsync-grv=     65536 Nsync-hyd=     32768  ::EE*******************************tttxXX|||||||||||BdeeeeeeeeeeEcCJJ99999999999999999999999999999HHH[[yyy++++++??0K777F
+Step=     57  sec=     0.054 Nsync-grv=     65536 Nsync-hyd=     32768  ::EE*****************************ttttxXXX|||||||||||heeeeeeeeeeEEcCJj999999999999999999999999999HHHHH[[yyy+++++++?0Kk77F
+Step=     58  sec=     0.055 Nsync-grv=     65536 Nsync-hyd=     32768  ::EE*****************************ttttxXX|||||||||||BDeeeeeeeeeEEcCCJ999999999999999999999999999HHHHH[[[yyy++++++o?0K777F
+Step=     59  sec=     0.056 Nsync-grv=     65536 Nsync-hyd=     32768  ::EE***************************tttttxxXXXX|||||||||||deeeeeeeeeeEcCJ9999999999999999999999999999HHHH[[yyy+++++++?00Kk77F
+Step=     60  sec=     0.055 Nsync-grv=     65536 Nsync-hyd=     32768  :rEe*****************************ttttxxXX||||||||||||heeeeeeeeeeEECJJ99999999999999999999999999999HHH[[yyy++++++?0KK777F
+Step=     61  sec=     0.055 Nsync-grv=     65536 Nsync-hyd=     32768  :EEe****************************ttttxxXXX|||||||||||BeeeeeeeeeeEEcCJ99999999999999999999999999999HHHH[[yyy++++++l?0K777F
+Step=     62  sec=     0.055 Nsync-grv=     65536 Nsync-hyd=     32768  :dEe*****************************tttxxXXX|||||||||||deeeeeeeeeeEEcCJ99999999999999999999999999999HHHH[[yyy+++++++?0K777F
+Step=     63  sec=     0.055 Nsync-grv=     65536 Nsync-hyd=     32768  ::EE*****************************ttttxXXe|||||||||||heeeeeeeeeeEEcCJ99999999999999999999999999999HHHH[[yyy++++++o?0K777F
+Step=     64  sec=     0.054 Nsync-grv=     65536 Nsync-hyd=     32768  ::EE*****************************ttttxXXX||||||||||||deeeeeeeeeeEcCJj99999999999999999999999999999HHHH[[yy+++++++?0Kk77F
+Step=     65  sec=     0.055 Nsync-grv=     65536 Nsync-hyd=     32768  ::EE****************************ttttxxXXX|||||||||||heeeeeeeeeeEEcCJ99999999999999999999999999999HHHH[[yyy+++++++?0K777F
+Step=     66  sec=     0.055 Nsync-grv=     65536 Nsync-hyd=     32768  ::EE****************************ttttxxXXX|||||||||||heeeeeeeeeeEECCJ99999999999999999999999999999HHHH[[yyy+++++++?0Kk77F
+Step=     67  sec=     0.088 Nsync-grv=     65536 Nsync-hyd=     32768  ::dE***************ttttttxxXXXXX||||||nhhhhhheeeeeeeECJ999999999999999999HHHyy+++++?????????????????????????????Akkk77--
+Step=     68  sec=     0.002 Nsync-grv=         0 Nsync-hyd=         1  BhhdddddddddddddddddddddcccccccccccJJJJJJJJJJJJJJJJJJJJJJJJJj[[[[[[[[[[[yAA000000000000KKKKKKKKKKKKkkkkkkkkk777777777777
+Step=     69  sec=     0.055 Nsync-grv=     65536 Nsync-hyd=     32768  ::EE*****************************ttttxxXX||||||||||BDeeeeeeeeeEEcCJJ99999999999999999999999999999HHHH[[yy++++++++?0Kk77F
+Step=     70  sec=     0.002 Nsync-grv=         0 Nsync-hyd=         1  BhhdddddddddddddddddddddEcccccccccccJJJJJJJJJJJJJJJJJJJJJJJJJJ[[[[[[[[[[[[??A000000000000KKKKKKKKKKKKKkkkkkkkk7777777777
+Step=     71  sec=     0.064 Nsync-grv=     65536 Nsync-hyd=     32768  ::dEEE*************************tttxxXX||||||||||deeeeeeeeEEcCJ99999999999999999999999999HHH[[yy++++++?0333333333333Bk77F
+Step=     72  sec=     0.002 Nsync-grv=         0 Nsync-hyd=         3  BhddddddddddddddddddddddcccccccccccccJJJJJJJJJJJJJJJJJJJJJJJJJJH[[[[[[[[[[[?AA000000000000KKKKKKKKKKKKkkkkkkkk7777777777
+Step=     73  sec=     0.055 Nsync-grv=     65536 Nsync-hyd=     32768  :DEe****************************ttttxxXXa|||||||||||heeeeeeeeeeEEcCJ9999999999999999999999999999999HHH[yyy+++++++?0K777F
+Step=     74  sec=     0.002 Nsync-grv=         0 Nsync-hyd=         5  BhddddddddddddddddddddccccccccccccJJJJJJJJJJJJJJJJJJJJJJJJH[[[[[[[[[[[[[[[[[[[y?A00000000000KKKKKKKKKKKkkkkkkkk777777777
+Step=     75  sec=     0.056 Nsync-grv=     65536 Nsync-hyd=     32768  ::EE*****************************tttxxXX|||||||||||heeeeeeeeeeEEcCJJ99999999999999999999999999999HHHH[[yy++++++++?0K777F
+Step=     76  sec=     0.004 Nsync-grv=        10 Nsync-hyd=        28  :::::::::::::::::::DEEEEEEEeeeexxxxBBdddddddddccccccCJJJJJJJJJJH[[[[[[[[[[[[[[y????0000000KKKKKKKKKKkkkk7777777FF-------
+Step=     77  sec=     0.057 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe***************************ttttxxXX|||||||||||hdeeeeeeeeeEEcCJJ99999999999999999999999999999HHH[[yy++++++++?00k777F
+Step=     78  sec=     0.004 Nsync-grv=        36 Nsync-hyd=        50  :::::::::::::::::rEEEEEEEeeeexxxxxXBhddddddddEccccJJJJJJJJJJ9H[[[[[[[[[[[[yy???000000KKKKKKKKKkkkk7777777777777F--------
+Step=     79  sec=     0.057 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE****************************tttxxXX|||||||||||heeeeeeeeeEEFcCJJ99999999999999999999999999999HHHH[[yy++++++++?0Kk77F
+Step=     80  sec=     0.004 Nsync-grv=        57 Nsync-hyd=        67  ::::::::::::::::::rEEEEEEEEEEeee*xxxxxXBhdddddddddEccccJJJJJJJJJJJ9HHH[[[[[[[[yyy???0000000KKKKKKKKKkkkk7777777F--------
+Step=     81  sec=     0.057 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE****************************ttttxXX|||||||||||BDeeeeeeeeeeEccCJ999999999999999999999999999999HHH[[yy++++++++?00k77F
+Step=     82  sec=     0.004 Nsync-grv=        77 Nsync-hyd=        89  ::::::::::::::::::DEEEEEEEeeeetxxxxxXBhddddddddeEccCJJJJJJJJJJj9HHH[[[[[[[[[yyy????000000KKKKKKKKKKKkkkk777777FF--------
+Step=     83  sec=     0.058 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE****************************tttxXXX||||||||||heeeeeeeeeeEEcCJ99999999999999999999999999999HHHH[[[yyy++++++++?0Kk77F
+Step=     84  sec=     0.004 Nsync-grv=        99 Nsync-hyd=       113  ::::::::::::::::::rdEEEEEEEEEeee*txxxxXBhddddddddeEEcccCJJJJJJJJJJJ99HHHH[[[[[yyyy???0000000KKKKKKKKKkkkk7777777F-------
+Step=     85  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe**************************tttttxxXXX||||||||||BDeeeeeeeeeEEcCJJ9999999999999999999999999999HHHH[[yyy++++++++?00k77F
+Step=     86  sec=     0.004 Nsync-grv=       114 Nsync-hyd=       124  ::::::::::::::::::rEEEEEEeeee*txxxXBhdddddddddeeEcCJJJJJJJJJJJJJ99999HHH[[yyy????00000000KKKKKKKKKKKKkkkk777777FF-------
+Step=     87  sec=     0.058 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE***************************ttttxxXX|||||||||||deeeeeeeeeEEcCJJ99999999999999999999999999999HHHH[[yy++++++++l?0Kk77F
+Step=     88  sec=     0.005 Nsync-grv=       133 Nsync-hyd=       137  :::::::::::::::::rEEEEEEeeee**ttxxXBhHdddddddddeeECJJJJJJJJJJJJJ999999HHHH[yyyy???00000000KKKKKKKKKKKKkkk777777FF-------
+Step=     89  sec=     0.058 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE***************************ttttxxXXX||||||||||deeeeeeeeeeEcCJJ99999999999999999999999999999HHHH[yyy+++++++++?0K777F
+Step=     90  sec=     0.005 Nsync-grv=       151 Nsync-hyd=       149  ::::::::::::::::rEEEEEeeee**ttxXXBhddddddddeeEccCJJJJJJJJJJJJ99999999999HHH[[yyy??00000000KKKKKKKKKKKKKkkk777777F-------
+Step=     91  sec=     0.060 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE**************************ttttxxxXX|||||||||||heeeeeeeeeEEcCCJj999999999999999999999999999HHHH[[[yy+++++++++?00K77F
+Step=     92  sec=     0.005 Nsync-grv=       167 Nsync-hyd=       157  :::::::::::::::::rDEEEEEEee**ttxxxXXXBBhddddddddeeeEcJJJJJJJJJJJJJJJJ9999999HH[[yy???000000000KKKKKKKKKkkk777777F-------
+Step=     93  sec=     0.061 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE*************************tttttXXXXX||||||||||BeeeeeeeeeEEcCCJJ99999999999999999999999999HHHHH[yyyyyy++++++++?00K77F
+Step=     94  sec=     0.005 Nsync-grv=       192 Nsync-hyd=       179  :::::::::::::::::DEEEEEee***ttxxxXXBBBhddddddddeeEccJJJJJJJJJJJJJ9999999999HHH[[[yyy???00000000KKKKKKKKKkkk777777F------
+Step=     95  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE************************tttttxXXXXX||||||||||heeeeeeeeeEEcCCJJ9999999999999999999999999HHHHHH[yyyyy+++++++++?00K77F
+Step=     96  sec=     0.005 Nsync-grv=       213 Nsync-hyd=       185  ::::::::::::::::rDEEEEEeee**ttxxxXXXBhdddddddddeeEcCJJJJJJJJJJJJJj999999HHHH[[yyyy???000000000KKKKKKKKKKkkk77777F-------
+Step=     97  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE************************tttttxXXXX||||||||||BDeeeeeeeeEEcCCCJ9999999999999999999999999HHHHHH[[yyyyyy++++++++?00K77F
+Step=     98  sec=     0.005 Nsync-grv=       235 Nsync-hyd=       201  :::::::::::::::::rEEEEEeeee***txxXXBhdddddddddeeEcCCJJJJJJJJJJJJJ9999999HHH[yyy???000000000KKKKKKKKKKKKkkk777777F-------
+Step=     99  sec=     0.064 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEE***********************tttttxXXXXXX|||||||||ndeeeeeeeeEEFCCJJ9999999999999999999999999HHHHHH[yyyyyy++++++++?00K77F
+Step=    100  sec=     0.006 Nsync-grv=       274 Nsync-hyd=       218  ::::::::::::::::rdEEEeeeee**ttxXBhdddddddddeeEEcCJJJJJJJJJJJJJ9999999999HHH[[yy??000000000KKKKKKKKKKKKKkkk777777F-------
+Step=    101  sec=     0.068 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE********************tttttttxxXXXXXX|||||||||bdeeeeeeEEEfcCCCJJ9999999999999999999999HHHHHHH[[yyyyyyy++++++++oA0K77F
+Step=    102  sec=     0.006 Nsync-grv=       303 Nsync-hyd=       238  ::::::::::::::::rDEEEEEeee***ttxXXbddddddddddeeEEcCJJJJJJJJJJJJ999999999HHH[[[yyy???00000000KKKKKKKKKKKKkk777777F-------
+Step=    103  sec=     0.063 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE***********************ttttttxXXXXX||||||||||heeeeeeeeEEEcCCJJ99999999999999999999999999HHHHH[yyyyy+++++++++A0Kk77F
+Step=    104  sec=     0.005 Nsync-grv=       332 Nsync-hyd=       255  ::::::::::::::::rDEEEEeeee***ttxxXBdddddddddeeEEcCJJJJJJJJJJJJJ99999999999HHH[[yy??000000000KKKKKKKKKKKKkkk77777FF------
+Step=    105  sec=     0.067 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE*********************ttttttxxXXXXXXX||||||||||BdeeeeeeeeEEcCCJJ999999999999999999999999HHHHHH[yyyyyy++++++++?00K77F
+Step=    106  sec=     0.007 Nsync-grv=       365 Nsync-hyd=       267  :::::::::::::::DEEEEEeee***txxXBhddddddddddeeEcCJJJJJJJJJJJj9999999HHH[yy??00000000000KKKKKKKKKkkk777777777777777F------
+Step=    107  sec=     0.067 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE*********************ttttttxxXXXXXX|||||||||ndeeeeeeeEEECCCJJ999999999999999999999999HHHHH[yyyyyy+++++++++oA0KK777F
+Step=    108  sec=     0.006 Nsync-grv=       386 Nsync-hyd=       278  ::::::::::::::::rEEEEEEeeee***ttxXBhddddddddeeEccJJJJJJJJJJJJJ999999999HHH[[yy??00000000KKKKKKKKKKkkkk7777777777F-------
+Step=    109  sec=     0.068 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE********************ttttttxxXXXXXXX|||||||||bDeeeeeeEEEcCCCJJ9999999999999999999999HHHHHHH[[yyyyyyyy++++++++?00K77F
+Step=    110  sec=     0.006 Nsync-grv=       418 Nsync-hyd=       292  ::::::::::::::rrEEEEEeeee**tttxxXXBhddddddddeeEccCJJJJJJJJJJJJ9999999999999HHH[[[yy???00000000KKKKKKKKKKkkk777777-------
+Step=    111  sec=     0.065 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE**********************ttttttxXXXXXX|||||||||nDeeeeeeeEEEcCCJJ999999999999999999999999HHHHHH[[yyyyyyy++++++++?00K77F
+Step=    112  sec=     0.006 Nsync-grv=       448 Nsync-hyd=       309  :::::::::::::::rdEEEeeee****ttxxXBhddddddddeeEEcCJJJJJJJJJJJJJ9999999999HHHK[[yy???000000000KKKKKKKKKKKKkkk77777F-------
+Step=    113  sec=     0.063 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEE************************ttttxXXXXX||||||||||heeeeeeeeEEECCJJ99999999999999999999999999HHHHHH[yyyyy++++++++oA0K777F
+Step=    114  sec=     0.011 Nsync-grv=       495 Nsync-hyd=       333  :::::::::::::rrdEEEEEEEEEEeee**xbdddecJJJJJJJ999H[y+++++++++++++++++++++++++++++++++++++++++l"?????00000KKKKKk7777F-----
+Step=    115  sec=     0.067 Nsync-grv=     65536 Nsync-hyd=     32768  ::DEEE***********************ttttxxXX|||||||||BeeeeeeeeEEcCCJ9999999999999999999999999HHHH[[yyy++++++o?0333333333333k77F
+Step=    116  sec=     0.011 Nsync-grv=       562 Nsync-hyd=       353  ::::::::::rdEEEEEEEEEEEEeee***xBdddeECJJJJJJ9999H[y+++++++++++++++++++++++++++++++++++++++++++o????A)0000KKKKKk77777----
+Step=    117  sec=     0.058 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe**************************ttttxxXXX|||||||||||deeeeeeeeeEEcCJ99999999999999999999999999999HHHHH[[yyyy+++++++?0Wk77F
+Step=    118  sec=     0.001 Nsync-grv=         0 Nsync-hyd=         1  BhHddddddddddddddddddddddDcccJJJJJJJJJJJJJJJJJJJJJJJJJJJH[[[[[[[[[[[[[[??A000000000000WKKKKKKKKKKKKKKKkkkkkkk7777777777F
+Step=    119  sec=     0.011 Nsync-grv=       594 Nsync-hyd=       373  ::::::::::DEEEEEEEEEEEEEee***tXbddDeCJJJJJJ9999H[y+++++++++++++++++++++++++++++++++++++++++++++l"????A0000KKKkk77777F---
+Step=    120  sec=     0.002 Nsync-grv=         0 Nsync-hyd=         3  BBhHdddddddddddddddddddddddccccccccJJJJJJJJJJJJJJJJJJJJJJJH[[[[[[[[[[[[[[[[[[[[[[[[[y?A000000000000WKKKKKKkkkkkk77777777
+Step=    121  sec=     0.058 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe***************************ttttxXXa||||||||||deeeeeeeeeEEccCJJ999999999999999999999999999999HHHH[[yyy+++++++?00k77F
+Step=    122  sec=     0.002 Nsync-grv=         0 Nsync-hyd=         6  BBhHdddddddddddddddddeccccccccccCJJJJJJJJJJJJJJJJJJJJJ9H[[[[[[[[[[[[[[[[[[[[[[[[yy?A00000000000KKKKKKKKKKkkkkkk777777777
+Step=    123  sec=     0.011 Nsync-grv=       629 Nsync-hyd=       399  :::::::::rDEEEEEEEEEEEEeee***tXBdddeECJJJJJJJ9999H[y++++++++++++++++++++++++++++++++++++++++++++"????A00000KKKKk7777F---
+Step=    124  sec=     0.002 Nsync-grv=         0 Nsync-hyd=        11  BbdddddddddddddddddddddddEccccccCJJJJJJJJJJJJJJJJJJJJJJ9HHHH[[[[[[[[[[[[[[[[[[[[[[[[yyyyA0000000000000KKKKKKkkkkkk777777
+Step=    125  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe***************************tttxxXX|||||||||||deeeeeeeeeEEccCJJ99999999999999999999999999999HHHH[[yyy++++++++?00k77F
+Step=    126  sec=     0.002 Nsync-grv=         0 Nsync-hyd=        17  BBhdddddddddddddddddEcccccccccccccCJJJJJJJJJJJJJJJJJJJJjHH[[[[[[[[[[[[[[[[[[[[[[[[yy?A00000000000KKKKKKKKKkkkkkk77777777
+Step=    127  sec=     0.011 Nsync-grv=       663 Nsync-hyd=       415  :::::::::rDEEEEEEEEEEEEeee***txBdddeECJJJJJJJ9999H[y++++++++++++++++++++++++++++++++++++++++++++"????A0000KKKKKkk777F---
+Step=    128  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        27  BhddddddddddddddddeEccccCJJJJJJJJJJJJJJJJJJJ999HHHHHHHHHH[[[[[[[[[[[[[[[[[[[[[[[[[[[yyyyyyyyy?I000000000000KKKKkkkk77777
+Step=    129  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe***************************tttxxXX|||||||||||deeeeeeeeeEEcCCJ999999999999999999999999999999HHHH[yyyy++++++++?00K77F
+Step=    130  sec=     0.002 Nsync-grv=         0 Nsync-hyd=        29  BBhhdddddddddddddddddddEcccccccCJJJJJJJJJJJJJJJJJJJJJJ9HHHH[[[[[[[[[[[[[[[[[[[[yyyy?A00000000000KKKKKKKKKKKkkkkk77777777
+Step=    131  sec=     0.011 Nsync-grv=       690 Nsync-hyd=       433  :::::::::::DEEEEEEEEEEEEee****tXhddeecJJJJJJJ99999H[y++++++++++++++++++++++++++++++++++++++++++++"?????I0000KKKkk777F---
+Step=    132  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        35  BbhddddddddddddddddeEccccccCJJJJJJJJJJJJJJJJJJ99HHHHHHHH[[[[[[[[[[[[[[[[[[[[[[[[[[[[yyyyyyyy?0000000000000KKKKKkkkk77777
+Step=    133  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe***************************tttxxXX||||||||||deeeeeeeeeEEcCJJ99999999999999999999999999999HHHHH[[yyy++++++++??0K777F
+Step=    134  sec=     0.002 Nsync-grv=         0 Nsync-hyd=        43  BBhHddddddddddddddddeEEccccccCCJJJJJJJJJJJJJJJJJJJJj99HHHHHHH[[[[[[[[[[[[[[[[[[yyyyyy?A00000000000KKKKKKKKKkkkkkk7777777
+Step=    135  sec=     0.012 Nsync-grv=       710 Nsync-hyd=       464  ::::::::::DEEEEEEEEEEEEEee****tXBHddeECJJJJJJJ99999HHyy++++++++++++++++++++++++++++++++++++++++++lo????00000KKKKk777F---
+Step=    136  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        46  BhhdddddddddddddddeEEccccCCJJJJJJJJJJJJJJJJJJJ9999999HHHHHHHHHHH[[[[[[[[[[[[[[[[[yyyyyyyyyyyA0000000000000KKKKKkkkk77777
+Step=    137  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE***************************tttxxXX|||||||||||beeeeeeeeeEEcCJJ99999999999999999999999999999HHHHH[[yyy++++++++?00K77F
+Step=    138  sec=     0.002 Nsync-grv=         0 Nsync-hyd=        51  BBhhddddddddddddddddeEcccccCCJJJJJJJJJJJJJJJJJJJj999HHHHHHH[[[[[[[[[[[[[[[[[[[[yyyyyyy?A00000000000KKKKKKKKKkkkkk7777777
+Step=    139  sec=     0.011 Nsync-grv=       742 Nsync-hyd=       506  ::::::::::rEEEEEEEEEEEEeee***txXBdddeEcJJJJJJJ99999HH[yy+++++++++++++++++++++++++++++++++++++++++lo???A00000KKKkk777F---
+Step=    140  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        57  BhddddddddddddddeEEcccCCJJJJJJJJJJJJJJJJJJ9999999HHHHHHHHHHHHH[[[[[[[[[[[[[[[[[[[[[yyyyyyyyyyyyyA000000000000KKKKkkk7777
+Step=    141  sec=     0.060 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe**************************ttttxXXX|||||||||||deeeeeeeeeEEcCJJ99999999999999999999999999999HHHH[[[yyy++++++++?00K77F
+Step=    142  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        56  BbhddddddddddddddeEEccccccCCJJJJJJJJJJJJJJJJJJ999999HHHHHHHHH[[[[[[[[[[[[[[[[[[yyyyyyyyy?A0000000000KKKKKKKKKkkkkk777777
+Step=    143  sec=     0.012 Nsync-grv=       783 Nsync-hyd=       548  ::::::::::DEEEEEEEEEEEeee****tXhddDeECJJJJJJJ99999HH[y+++++++++++++++++++++++++++++++++++++++++lo????A00000KKKKkk777F---
+Step=    144  sec=     0.004 Nsync-grv=         0 Nsync-hyd=        64  BHddddddddddeeEEccCCJJJJJJJJJJJJJ999999999999999999999999HHHHHHHHHHHHHHHH[[[[[[[[[[[[yyyyyyyyyyyyyyyyyA00000000KKKkkk777
+Step=    145  sec=     0.059 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe***************************tttxxXX||||||||||BDeeeeeeeeEEccCJJ99999999999999999999999999999HHHHH[yyy++++++++"?00K77F
+Step=    146  sec=     0.002 Nsync-grv=         0 Nsync-hyd=        70  BBhddddddddddddddddeEccccCCJJJJJJJJJJJJJJJJJJJJ9999999HHHHHHHHHH[[[[[[[[[[[[[yyyyyyyyyyA00000000000KKKKKKKKKkkkkk7777777
+Step=    147  sec=     0.012 Nsync-grv=       840 Nsync-hyd=       593  :::::::::rDEEEEEEEEEEeee***txXhddeEcCJJJJJJJ99999HH[yy++++++++++++++++++++++++++++++++++++++++++lo????A0000KKKKKk7777---
+Step=    148  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        72  BhdddddddddddddeeeEEEccCCJJJJJJJJJJJJJJJJ999999999999999999999HHHHHHHHHHHHH[[[[[[[[yyyyyyyyyyyyy?00000000000KKKKKkkk7777
+Step=    149  sec=     0.060 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe***************************tttxxXX||||||||||beeeeeeeeeEEcCCJJ99999999999999999999999999999HHHH[[yyy++++++++"?0Kk77F
+Step=    150  sec=     0.002 Nsync-grv=         0 Nsync-hyd=        71  BbhddddddddddddddddeEEcccccCCJJJJJJJJJJJJJJJJJJJJJ9999999HHHHHHHH[[[[[[[[[[[yyyyyyyyy?A000000000000KKKKKKKKKkkkkk7777777
+Step=    151  sec=     0.012 Nsync-grv=       893 Nsync-hyd=       651  :::::::::rDEEEEEEEEEEEEeee***ttXbddeeEcJJJJJJJ999999HH[yy++++++++++++++++++++++++++++++++++++++++lo???A00000KKKkk777F---
+Step=    152  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        71  BhddddddddddddddeeEEcccCCJJJJJJJJJJJJJJJJJJJJ999999999999999HHHHHHHHHHHH[[[[[[[[[[yyyyyyyyyyyyyA000000000000KKKKkkkk7777
+Step=    153  sec=     0.061 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE**************************ttttxxXXX||||||||||beeeeeeeeeEEcCJJ99999999999999999999999999999HHHH[[[yyy+++++++"?00K77F
+Step=    154  sec=     0.002 Nsync-grv=         0 Nsync-hyd=        74  BBhddddddddddddddddeEEcccccCCCJJJJJJJJJJJJJJJJJJJ99999999HHHHHHHHH[[[[[[[[[[[[yyyyyyyyyy?00000000000KKKKKKKKKkkkkk777777
+Step=    155  sec=     0.012 Nsync-grv=       938 Nsync-hyd=       712  ::::::::::DEEEEEEEEEEEEeee***txXBhddeEcJJJJJJJJ999999HH[y++++++++++++++++++++++++++++++++++++++++"????A00000KKKKk777F---
+Step=    156  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        72  BhdddddddddddddddeeEEccccCCJJJJJJJJJJJJJJJJJJJJJj9999999999HHHHHHHHHHH[[[[[[[[[[[[yyyyyyyyyyyA00000000000000KKKKkkkk7777
+Step=    157  sec=     0.060 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE**************************ttttxxXX|||||||||||deeeeeeeeEEEcCJJ99999999999999999999999999999HHHHH[yyy+++++++++?00K77F
+Step=    158  sec=     0.002 Nsync-grv=         0 Nsync-hyd=        69  BBhdddddddddddddddddeEEccccCCJJJJJJJJJJJJJJJJJJJJj99999HHHHHHHH[[[[[[[[[[[[[yyyyyyyy?A00000000000WKKKKKKKKKkkkkkk7777777
+Step=    159  sec=     0.012 Nsync-grv=       992 Nsync-hyd=       760  ::::::::::rdEEEEEEEEEEEeee****tXBdddeEcCJJJJJJJ999999HH[yy++++++++++++++++++++++++++++++++++++++++o????00000KKKKk777F---
+Step=    160  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        70  BhddddddddddddddddeeEEccCCJJJJJJJJJJJJJJJJJJJJ9999999999999HHHHHHHHHHH[[[[[[[[[[[[yyyyyyyyyyyyA000000000000KKKKkkkk77777
+Step=    161  sec=     0.060 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe***************************tttxXXX||||||||||heeeeeeeeeEEcCJJ99999999999999999999999999999HHHHH[[yyyy+++++++"?00K77F
+Step=    162  sec=     0.002 Nsync-grv=         0 Nsync-hyd=        67  BhhdddddddddddddddeEEccccCCJJJJJJJJJJJJJJJJJJJ99999999HHHHHHHHHH[[[[[[[[[[[[yyyyyyyyyyyA00000000000KKKKKKKKKkkkkk7777777
+Step=    163  sec=     0.013 Nsync-grv=      1016 Nsync-hyd=       815  ::::::::rDEEEEEEEEEEEee****txXhddeEcCJJJJJJ9999999HHyy+++++++++++++++++++++++++++++++++++++++++++lo????00000KKKk77777---
+Step=    164  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        77  BhddddddddddddddddeEEcccCCJJJJJJJJJJJJJJJJJJJJj999999999999HHHHHHHHHHH[[[[[[[[[[yyyyyyyyyyyyA0000000000000WKKKKKkkkk7777
+Step=    165  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE*************************ttttxxXXXX|||||||||ndeeeeeeeEEEccCCJJ9999999999999999999999999999HHHH[[yyyy++++++++?00K77F
+Step=    166  sec=     0.002 Nsync-grv=         0 Nsync-hyd=        76  BBhHddddddddddddddddeEEccccCCJJJJJJJJJJJJJJJJJJJJ9999999HHHHHHHH[[[[[[[[[[[[yyyyyyyyy?A00000000000KKKKKKKKKKkkkkk7777777
+Step=    167  sec=     0.013 Nsync-grv=      1052 Nsync-hyd=       862  :::::::::rDEEEEEEEEEEeee****ttxXhddeeEcJJJJJJJ9999999HH[y+++++++++++++++++++++++++++++++++++++++lo????00000KKKKKk777F---
+Step=    168  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        83  BhddddddddddddddddeeEEccCCJJJJJJJJJJJJJJJJJJJJJ999999999999999999HHHHHHHHHH0[[[[[[[yyyyyyyyyyyA000000000000KKKKkkkk77777
+Step=    169  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe**************************tttxXXX||||||||||BeeeeeeeeEEEccCCJJ999999999999999999999999999HHHHH[[[yyy++++++++"?0Wk77F
+Step=    170  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        87  BhhdddddddddddddddeeEEcccCCJJJJJJJJJJJJJJJJJJJJ99999999999HHHHHHHHHH[[[[[[[[[[yyyyyyyyyy?00000000000KKKKKKKKKkkkkk777777
+Step=    171  sec=     0.013 Nsync-grv=      1080 Nsync-hyd=       932  :::::::::rdEEEEEEEEEEeeee****tXXdddeEcCJJJJJJ9999999HH[yy++++++++++++++++++++++++++++++++++++++o????00000KKKKKk777777---
+Step=    172  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        96  BhhddddddddddddddddeeEccCCJJJJJJJJJJJJJJJJJJJJ99999999999999999HHHHHHHHHHH[[[[[[[[yyyyyyyyyyyA0000000000000KKKKKkkk77777
+Step=    173  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe*************************ttttxxXXX||||||||||heeeeeeeeEEEccCJJ9999999999999999999999999999HHHHH[[yyyy++++++++?00K77F
+Step=    174  sec=     0.002 Nsync-grv=         0 Nsync-hyd=       102  BbhdddddddddddddddeeeEcccccCCJJJJJJJJJJJJJJJJJJJJJJ999999999999HHHHHHHH[[[[[[[yyyyyyyy?A000000000000KKKKKKKKKkkkk7777777
+Step=    175  sec=     0.013 Nsync-grv=      1104 Nsync-hyd=      1006  ::::::::rDEEEEEEEEEEEee****ttXXdddeEEcCJJJJJJJ9999999HH[[yy+++++++++++++++++++++++++++++++++++++++"????A00000KKKk7777---
+Step=    176  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       118  BhdddddddddddddddddeeeEEcCCCJJJJJJJJJJJJJJJJJJJJJJ99999999999999999HHHHHHHHH0[[[[[yyyyyyyyyyA0000000000000WKKKKkkkk77777
+Step=    177  sec=     0.061 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE**************************ttttxXXXa||||||||||deeeeeeeeEEccCJJ99999999999999999999999999999HHHHH[yyyy++++++++?00K77F
+Step=    178  sec=     0.002 Nsync-grv=         0 Nsync-hyd=       121  BBhddddddddddddddddeeeEEccCCCJJJJJJJJJJJJJJJJJJJJJ999999999999HHHHHHHHH[[[[[[yyyyyyyyyA0000000000000KKKKKKKKKkkkk7777777
+Step=    179  sec=     0.014 Nsync-grv=      1148 Nsync-hyd=      1068  :::::::::DEEEEEEEEEEEEeee****ttXaddDeEccJJJJJJJ99999999HH[yy+++++++++++++++++++++++++++++++++++++lo???A00000KKKkk777F---
+Step=    180  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       127  BhdddddddddddddddddeeEEccCCCJJJJJJJJJJJJJJJJJJJJ999999999999999999999999999HHHHHHHH[[yyyyyyyy?0000000000000KKKKkkkk77777
+Step=    181  sec=     0.063 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE************************tttttxxXXXX||||||||||heeeeeeeeEEcCCJJ9999999999999999999999999999HHHH[yyyy++++++++???0Kk7FF
+Step=    182  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       130  BhhddddddddddddddeeeEEEcccCCCJJJJJJJJJJJJJJJJJJJJ99999999999999HHHHHHHHH[[[[[[yyyyyyyyy?0000000000000KKKKKKKKkkkkk777777
+Step=    183  sec=     0.014 Nsync-grv=      1206 Nsync-hyd=      1103  :::::::::DEEEEEEEEEEEee*****txXBddeeEcCJJJJJJJ9999999HHH[[yy++++++++++++++++++++++++++++++++++++l????A0000KKKKKk77777---
+Step=    184  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       132  BhddddddddddddddddeeeeEcCCJJJJJJJJJJJJJJJJJJJJJJ99999999999999999999999999HHHHHHHH[[[yyyyyyy?0000000000000KKKKKkkkk77777
+Step=    185  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEe*************************ttttxXXX||||||||||BDeeeeeeeeEEcCCJJ9999999999999999999999999999HHHHH[[yyy++++++++?00K777F
+Step=    186  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       135  BhddddddddddddddeeEEccCCJJJJJJJJJJJJJJJJJJ99999999999999999999999HHHHHHHHHH[[[[[yyyyyyyyyyy?000000000000KKKKKKKkkkk77777
+Step=    187  sec=     0.014 Nsync-grv=      1232 Nsync-hyd=      1120  :::::::::DEEEEEEEEEEEeee****ttxXHdDeEfcCJJJJJJJ9999999HHH[[yy+++++++++++++++++++++++++++++++++++++lo???A00000KKKk777F---
+Step=    188  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       128  BhddddddddddddddddeeeEFCCJJJJJJJJJJJJJJJJJJJJJJ99999999999999999999999HHHHHHHHH[[[[yyyyyyyyy?0000000000000KKKKKkkkk77777
+Step=    189  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEe**************************tttxxXXX|||||||||ndeeeeeeeeEEcCCJJ9999999999999999999999999999HHHHH[[yyy+++++++++?00K77F
+Step=    190  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       123  BhddddddddddddddeeeEEEcCCCJJJJJJJJJJJJJJJJJJJ999999999999999999999HHHHHHHHHH[[[[yyyyyyyyyyA000000000000KKKKKKKKkkkk77777
+Step=    191  sec=     0.014 Nsync-grv=      1269 Nsync-hyd=      1116  :::::::::DEEEEEEEEEEEEEee****ttxXhddeeECJJJJJJJ9999999HHH[[yy+++++++++++++++++++++++++++++++++++lo????A00000KKKKk777F---
+Step=    192  sec=     0.004 Nsync-grv=         0 Nsync-hyd=       119  BhddddddddddddddddeeeEEccCCJJJJJJJJJJJJJJJJJJJJJJj9999999999999999999HHHHHHHHHH[[[[[yyyyyyyyyyyA00000000000KKKKKkkkk7777
+Step=    193  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE**************************ttttxxXX|||||||||ndeeeeeeeeEEccCJJ9999999999999999999999999999HHHHH[[[yyy+++++++++?00K77F
+Step=    194  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       119  BBhddddddddddddddeeeEEcccCCCJJJJJJJJJJJJJJJJJJJ9999999999999999HHHHHHHHHH[[[[[yyyyyyyyy?A0000000000000KKKKKKKKkkkk777777
+Step=    195  sec=     0.014 Nsync-grv=      1292 Nsync-hyd=      1130  :::::::::rEEEEEEEEEEEEEee*****txXXdddeEcCJJJJJJ99999999HH[yy++++++++++++++++++++++++++++++++++++++o???A00000KKKKk7777---
+Step=    196  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       116  BhdddddddddddddddeeeEEcCCJJJJJJJJJJJJJJJJJJJJ99999999999999999999999HHHHHHHHHH[[[[[yyyyyyyyyy?00000000000000KKKKkkkk7777
+Step=    197  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe**************************ttttxxXXX||||||||||deeeeeeeeeEECCJ99999999999999999999999999999HHHHH[yyyy++++++++?A0Kk77F
+Step=    198  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       116  BhhdddddddddddddddeeeEEccCCJJJJJJJJJJJJJJJJJJJJJ9999999999999999HHHHHHHHH[[[[[yyyyyyyyyyA000000000000KKKKKKKKkkkkk777777
+Step=    199  sec=     0.014 Nsync-grv=      1315 Nsync-hyd=      1149  :::::::::rdEEEEEEEEEEee*****txxXhddeEEcCJJJJJJJ99999999HHH[yy+++++++++++++++++++++++++++++++++++++"????A0000KKKKk777F---
+Step=    200  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       121  BhddddddddddddddddeeEEccCCJJJJJJJJJJJJJJJJJJJJj999999999999999999999999HHHHHHHHH[[[[yyyyyyyyyA0000000000000KKKKKkkkk7777
+Step=    201  sec=     0.069 Nsync-grv=     65536 Nsync-hyd=     32768  ::::::::EEe**********************tttttxxXXXX|||||||||HeeeeeeeEEEcCCJ9999999999999999999999999HHHHH[[yyyyy+++++++"A0K77F-
+Step=    202  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       116  BhhddddddddddddddeeeEEccCCCJJJJJJJJJJJJJJJJJJJJJ999999999999999999999HHHHHHHH[[[yyyyyyyy?0000000000000KKKKKKKKkkkk777777
+Step=    203  sec=     0.015 Nsync-grv=      1319 Nsync-hyd=      1132  :::::::::::rrEEEEEEEEEEee*****txXXhddDeeEfcCJJJJJJ9999999HHH[[yy++++++++++++++++++++++++++++++++++++"???A0000KKKk777F---
+Step=    204  sec=     0.004 Nsync-grv=         0 Nsync-hyd=       131  BhddddddddddddddeeEEccCCJJJJJJJJJJJJJJJJJJ999999999999999999999999999HHHHHHHHHHH[[[[[yyyyyyyyyyy?00000000000KKKKkkkk7777
+Step=    205  sec=     0.062 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE***************************tttxXXX||||||||||bDeeeeeeeeeEfcCJJ999999999999999999999999999999HHHH[yyy+++++++++?00K77F
+Step=    206  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       140  BhddddddddddddddeeeEEccCCCJJJJJJJJJJJJJJJJJ999999999999999999999999999999HHHHHHHHH[[yyyyyyyyy?0000000000KKKKKKKkkkk77777
+Step=    207  sec=     0.014 Nsync-grv=      1330 Nsync-hyd=      1129  :::::::::rEEEEEEEEEEeee*****ttXXBdddeeEfFCCJJJJJJ999999999HH[yy+++++++++++++++++++++++++++++++++++"????00000KKKKkk777---
+Step=    208  sec=     0.004 Nsync-grv=         0 Nsync-hyd=       150  BhdddddddddddddDDeeEEcCCJJJJJJJJJJJJJJJJJJJ99999999999999999999999999999HHHHHHHHHH[[[yyyyyyyyyyA0000000000000KKKKkkk7777
+Step=    209  sec=     0.066 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE*************************ttttxxXX|||||||||||deeeeeeeEEEccCCJJ99999999999999999999999999HHHHHH[[[yyyy++++++++?00K77F
+Step=    210  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       157  BhdddddddddddddeeeEcccCCJJJJJJJJJJJJJJJJJj9999999999999999999999999999999HHHHHHHH[[[yyyyyyyy?00000000000KKKKKKKkkkk77777
+Step=    211  sec=     0.015 Nsync-grv=      1339 Nsync-hyd=      1131  ::::::::rDEEEEEEEEEeee****ttxXXddDeeEFccCJJJJJJ999999999HH[yy+++++++++++++++++++++++++++++++++++++"??A0000KKKKk777777---
+Step=    212  sec=     0.004 Nsync-grv=         0 Nsync-hyd=       166  BhdddddddddddddeeeEEcCJJJJJJJJJJJJJJJJJJ9999999999999999999999999999999999HHHHHHHHHH[[[yyyyyyyyyyA00000000000KKKKkkk7777
+Step=    213  sec=     0.063 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE**************************ttttxXXX||||||||||HeeeeeeeeEEEcCCJ9999999999999999999999999999HHHHH[[[yyy++++++++?00Kk77F
+Step=    214  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       170  BhdddddddddddddDeeeeEEcCCCJJJJJJJJJJJJJJJJJJJ9999999999999999999999999999999HHHHHH[[yyyyyyyA000000000000KKKKKKKkkkk77777
+Step=    215  sec=     0.015 Nsync-grv=      1342 Nsync-hyd=      1141  ::::::::rdEEEEEEEEEEEee*****ttXXhddeeEFcCCJJJJJJJ99999999HH[[yy++++++++++++++++++++++++++++++++++++l???A00000KKKKk777---
+Step=    216  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       178  BhddddddddddddddDeeeEEFcCCJJJJJJJJJJJJJJJJJJJJJ99999999999999999999999999999HHHHHHHH[[yyyyyyyyyA000000000000KKKKkkkk7777
+Step=    217  sec=     0.065 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe*************************ttttxxXXX||||||||||deeeeeeeEEEccCCJJ99999999999999999999999999HHHHHH[[[yyyy++++++++?00K77F
+Step=    218  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       174  BhhdddddddddddddddeeeeeeEccCCCJJJJJJJJJJJJJJJJJJJJ999999999999999999999999999999HHHHyyyyyA000000000000WKKKKKKKKkkkk77777
+Step=    219  sec=     0.015 Nsync-grv=      1312 Nsync-hyd=      1126  ::::::::rDEEEEEEEEEEEeee*****txXXbddeeEFcCCJJJJJJ9999999HHH[[yyy+++++++++++++++++++++++++++++++++++o???00000KKKKKk777---
+Step=    220  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       174  BhddddddddddddddddeeeeEcCCJJJJJJJJJJJJJJJJJJJJJJ999999999999999999999999999HHHHHHH[[[yyyyyyyy00000000000000KKKKKkkk77777
+Step=    221  sec=     0.065 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEe************************tttttxXXXX|||||||||ndeeeeeeeeEEcCJJ999999999999999999999999999HHHHHK[yyyyy++++++++?)0Kk77F
+Step=    222  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       175  BhdddddddddddddeeeeeEccCJJJJJJJJJJJJJJJJJJj99999999999999999999999999999999999999999HHH[[yyy000000000000KKKKKKKkkkk77777
+Step=    223  sec=     0.015 Nsync-grv=      1289 Nsync-hyd=      1101  ::::::::rdEEEEEEEEEEEee****ttXXhdDeeEccCJJJJJJJ9999999HHH[[yy++++++++++++++++++++++++++++++++++++"????A0000KKKKk77777---
+Step=    224  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       174  BhdddddddddddddddddeeeeeEEcCJJJJJJJJJJJJJJJJJJJJJj999999999999999999999999999999HHHHH[yyyyyyA00000000000000KKKKkkkk77777
+Step=    225  sec=     0.067 Nsync-grv=     65536 Nsync-hyd=     32768  :rEEe************************ttttxxXXX|||||||||BeeeeeeeEEEcccCCJJ9999999999999999999999999HHHHHH[[[[[yyyy+++++++l?00K77F
+Step=    226  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       176  BhhdddddddddddddeeeeeeEcCJJJJJJJJJJJJJJJJJJJ9999999999999999999999999999999999999HHHH[yyyy?0000000000000KKKKKKKkkkk77777
+Step=    227  sec=     0.014 Nsync-grv=      1246 Nsync-hyd=      1056  :::::::::rEEEEEEEEEEEEee****ttxXXddDeecJJJJJJJ9999999HHH[[yy++++++++++++++++++++++++++++++++++++++"????I0000KKKKk7777---
+Step=    228  sec=     0.004 Nsync-grv=         0 Nsync-hyd=       184  BhdddddddddddddddeeeEEEcCCJJJJJJJJJJJJJJJJJJJJ999999999999999999999999999999999HHHHHHH[[yyyyyyyyA000000000000KKKKkkk7777
+Step=    229  sec=     0.066 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe*************************ttttxXXX||||||||||||ndeeeeeeeeEEcCCJJ99999999999999999999999999HHHHHH[yyyyy++++++++?00K77F
+Step=    230  sec=     0.004 Nsync-grv=         0 Nsync-hyd=       174  BhdddddddddddddeeeeEfcJJJJJJJJJJJJJJJJJJ999999999999999999999999999999999999999999999HHHH[yyyA00000000000KKKKKKKkkk77777
+Step=    231  sec=     0.014 Nsync-grv=      1193 Nsync-hyd=      1053  :::::::::rEEEEEEEEEEEeee****txXhddeeFcCJJJJJJ9999999HHH[[yyy++++++++++++++++++++++++++++++++++++lo???A0000KKKKkk77777---
+Step=    232  sec=     0.004 Nsync-grv=         0 Nsync-hyd=       168  BhddddddddddddeeeeECCJJJJJJJJJJJJJJJJ999999999999999999999999999999999999999999999999HHHHHH[yyyyyyy00000000000KKKKkkk777
+Step=    233  sec=     0.063 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE***************************ttttxXXX||||||||||heeeeeeeeeEECCJJ99999999999999999999999999999HHHH[[yyy++++++++o?00K77F
+Step=    234  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       155  BhHdddddddddddddeeeeEECCJJJJJJJJJJJJJJJJJJJj999999999999999999999999999999999999HHHH[yyyyy?0000000000000KKKKKKKkkkk77777
+Step=    235  sec=     0.014 Nsync-grv=      1148 Nsync-hyd=      1036  :::::::::rEEEEEEEEEEEeee*****txXhddeeEccCJJJJJJJ99999999HH[yy+++++++++++++++++++++++++++++++++++++"???A00000KKKKkk777---
+Step=    236  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       144  BhdddddddddddddddeeeeEcCJJJJJJJJJJJJJJJJJJJJJ99999999999999999999999999999999HHHHHHH[yyyyyyy?00000000000000KKKKKkkkk7777
+Step=    237  sec=     0.065 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEe************************tttttxXXXXX|||||||||ndeeeeeeeEEEcCCJJ999999999999999999999999999HHHHH[yyyyy++++++++?00K77F
+Step=    238  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       129  BbhddddddddddddddddeeeEfcCCJJJJJJJJJJJJJJJJJJJJJ99999999999999999HHHHHHHHH[[[[yyyyyyyyyA0000000000000KKKKKKKKKkkkk777777
+Step=    239  sec=     0.013 Nsync-grv=      1082 Nsync-hyd=      1014  ::::::::::rEEEEEEEEEEEEee****txXhddeeECJJJJJJj9999999HHH[[yy++++++++++++++++++++++++++++++++++++++l????A00000KKKk777F---
+Step=    240  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       123  BhdddddddddddddddeeeeEcCCJJJJJJJJJJJJJJJJJJJ99999999999999999999999999999HHHHHHHHH[[[yyyyyyyyyA000000000000KKKKKkkkk7777
+Step=    241  sec=     0.064 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe*************************tttttxxXXXX|||||||||deeeeeeeeEEcCCJJ9999999999999999999999999999HHHHH[[yyyy++++++++?00K77F
+Step=    242  sec=     0.003 Nsync-grv=         0 Nsync-hyd=       104  BhddddddddddddddeeEEcccCCCJJJJJJJJJJJJJJJJJ999999999999999999999HHHHHHHHHHH[[[[[yyyyyyyyyyy?000000000000KKKKKKKkkkk77777
+Step=    243  sec=     0.013 Nsync-grv=      1014 Nsync-hyd=      1010  :::::::::rEEEEEEEEEEEEEe****txXbddeeEcJJJJJJJ9999999HHHH[[yy+++++++++++++++++++++++++++++++++++++++"????I0000KKKk7777---
+Step=    244  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        90  BhddddddddddddddDeEccCCJJJJJJJJJJJJJJJJJ999999999999999999HHHHHHHHHHHHHH[[[[[[[[[[yyyyyyyyyyyyyyA00000000000KKKKkkkk7777
+Step=    245  sec=     0.063 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE**************************ttttxxXXXX||||||||||deeeeeeeeEEcCCJJ99999999999999999999999999999HHHH[[yyy+++++++l?00K77F
+Step=    246  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        80  BhhddddddddddddddeEEcccCCJJJJJJJJJJJJJJJJJJ999999999999HHHHHHHHHHHH[[[[[[[[[[[yyyyyyyyyyyyA00000000000KKKKKKKKkkkk777777
+Step=    247  sec=     0.013 Nsync-grv=       907 Nsync-hyd=       980  ::::::::rEEEEEEEEEEEEeee***txXBddeeECJJJJJJJ9999999HHH[[[yyy+++++++++++++++++++++++++++++++++++++l????A00000KKKKk777F---
+Step=    248  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        64  BhHddddddddddddddddddeEEcccCCJJJJJJJJJJJJJJJJJJJ9999999HHHHHHHHHH[[[[[[[[[[[[[[[[[yyyyyyyyyyA000000000000KKKKKkkkkk77777
+Step=    249  sec=     0.064 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE*************************tttttxXXXX||||||||||deeeeeeeEEEcCCCJJ999999999999999999999999999HHHHH[yyyyy++++++++?00K77F
+Step=    250  sec=     0.002 Nsync-grv=         0 Nsync-hyd=        45  BBhddddddddddddddddddeEEccccCJJJJJJJJJJJJJJJJJJJJJJ9999HHHHHHHH[[[[[[[[[[[[yyyyyyyy?0000000000000WKKKKKKKKKKkkkkk7777777
+Step=    251  sec=     0.013 Nsync-grv=       796 Nsync-hyd=       961  :::::::::rEEEEEEEEEEEEee***txXbddeeECJJJJJJJ9999999HHH[[yyy+++++++++++++++++++++++++++++++++++++l"????A00000KKKKk777F---
+Step=    252  sec=     0.003 Nsync-grv=         0 Nsync-hyd=        36  BhhHddddddddddddddddddEEccccCCJJJJJJJJJJJJJJJJJJJJJJ9999HHHHHHHH[[[[[[[[[[[[[[[[[yyyyyyyy?00000000000000KKKKKKkkkkk77777
+Step=    253  sec=     0.063 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEE***************************ttttxXXX||||||||||HeeeeeeeeEEccCCJ99999999999999999999999999999HHHHH[[yyy++++++++?00K77F
+Step=    254  sec=     0.002 Nsync-grv=         0 Nsync-hyd=        23  BbhhddddddddddddddddeEFcccccccCCJJJJJJJJJJJJJJJJJJJ99HHHHHH[[[[[[[[[[[[[[[[[[[[[yyyyyy?A0000000000WKKKKKKKKKkkkkk7777777
+Step=    255  sec=     0.012 Nsync-grv=       628 Nsync-hyd=       924  :::::::::rEEEEEEEEEEEEeee**txXdddeEcJJJJJJJ9999999HHH[[yyy+++++++++++++++++++++++++++++++++++++lo????A00000KKKKkk777F---
+Step=    256  sec=     0.002 Nsync-grv=         0 Nsync-hyd=        18  BbhdddddddddddddddddddddEcccccCJJJJJJJJJJJJJJJJJJJJ9HHHHH[[[[[[[[[[[[[[[[[[[[[[[[[[[yyyyy?0000000000000KKKKKKkkkkk777777
+Step=    257  sec=     0.061 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEe****************************tttxXXX||||||||||deeeeeeeeEEcCCJJ999999999999999999999999999999HHHH[[yyy+++++++o?00K77F
+Step=    258  sec=     0.002 Nsync-grv=         0 Nsync-hyd=        11  BBhddddddddddddddddEccccccccCJJJJJJJJJJJJJJJJJJJjHHHH[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[yyy?A0000000000KKKKKKKKKKkkkkk7777777
+Step=    259  sec=     0.012 Nsync-grv=       499 Nsync-hyd=       892  ::::::::::rDEEEEEEEEEEEee**tXBdddeECJJJJJJJ9999999HHH[[yyy++++++++++++++++++++++++++++++++++++++lo???A00000KKKKKk777F---
+Step=    260  sec=     0.002 Nsync-grv=         0 Nsync-hyd=        10  BBhhddddddddddddddddddddddcccccccCJJJJJJJJJJJJJJJJJJJJJ9HHH[[[[[[[[[[[[[[[[[[[[[[[[[yyyyA0000000000000KKKKKKkkkkkk777777
+Step=    261  sec=     0.092 Nsync-grv=     65536 Nsync-hyd=     32768  ::EEEe*****************ttttxXX|||||||DeeeeeEcCJ9999999999Hyy+++++?33333333KCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC77F

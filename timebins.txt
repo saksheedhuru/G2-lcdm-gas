@@ -1,0 +1,2172 @@
+
+Sync-Point 0, Time: 0.0909091, Redshift: 10, Systemstep: 0, Dloga: 0
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin= 0           65536       32768     0.000000000000            65536       32768 < *        0.00      0.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 1, Time: 0.0926282, Redshift: 9.79585, Systemstep: 0.0017191, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.35    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 2, Time: 0.0943798, Redshift: 9.59549, Systemstep: 0.00175161, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.21    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 3, Time: 0.0961645, Redshift: 9.39884, Systemstep: 0.00178473, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.16    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 4, Time: 0.097983, Redshift: 9.20585, Systemstep: 0.00181848, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.13    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 5, Time: 0.0998359, Redshift: 9.01644, Systemstep: 0.00185287, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.12    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 6, Time: 0.101724, Redshift: 8.83054, Systemstep: 0.00188791, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.11    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 7, Time: 0.103647, Redshift: 8.64809, Systemstep: 0.00192361, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 8, Time: 0.105607, Redshift: 8.46903, Systemstep: 0.00195999, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 9, Time: 0.107604, Redshift: 8.2933, Systemstep: 0.00199705, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 10, Time: 0.109639, Redshift: 8.12082, Systemstep: 0.00203481, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 11, Time: 0.111713, Redshift: 7.95155, Systemstep: 0.00207329, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 12, Time: 0.113825, Redshift: 7.78541, Systemstep: 0.0021125, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 13, Time: 0.115978, Redshift: 7.62236, Systemstep: 0.00215245, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 14, Time: 0.118171, Redshift: 7.46234, Systemstep: 0.00219315, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 15, Time: 0.120405, Redshift: 7.30528, Systemstep: 0.00223462, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 16, Time: 0.122682, Redshift: 7.15114, Systemstep: 0.00227688, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 17, Time: 0.125002, Redshift: 6.99987, Systemstep: 0.00231994, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 18, Time: 0.127366, Redshift: 6.8514, Systemstep: 0.00236381, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 19, Time: 0.129774, Redshift: 6.70568, Systemstep: 0.00240851, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 20, Time: 0.132228, Redshift: 6.56267, Systemstep: 0.00245405, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 21, Time: 0.134729, Redshift: 6.42231, Systemstep: 0.00250046, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 22, Time: 0.137277, Redshift: 6.28456, Systemstep: 0.00254774, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 23, Time: 0.139873, Redshift: 6.14936, Systemstep: 0.00259592, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 24, Time: 0.142518, Redshift: 6.01668, Systemstep: 0.00264501, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 25, Time: 0.145213, Redshift: 5.88645, Systemstep: 0.00269503, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 26, Time: 0.147959, Redshift: 5.75865, Systemstep: 0.00274599, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 27, Time: 0.150757, Redshift: 5.63321, Systemstep: 0.00279792, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 28, Time: 0.153607, Redshift: 5.51011, Systemstep: 0.00285083, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 29, Time: 0.156512, Redshift: 5.38928, Systemstep: 0.00290473, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 30, Time: 0.159472, Redshift: 5.2707, Systemstep: 0.00295966, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 31, Time: 0.162487, Redshift: 5.15432, Systemstep: 0.00301563, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 32, Time: 0.16556, Redshift: 5.04011, Systemstep: 0.00307266, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 33, Time: 0.168691, Redshift: 4.92801, Systemstep: 0.00313076, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 34, Time: 0.171881, Redshift: 4.81799, Systemstep: 0.00318996, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.07    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 35, Time: 0.175131, Redshift: 4.71001, Systemstep: 0.00325029, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.07    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 36, Time: 0.178443, Redshift: 4.60404, Systemstep: 0.00331175, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.07    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 37, Time: 0.181817, Redshift: 4.50003, Systemstep: 0.00337438, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.07    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 38, Time: 0.185255, Redshift: 4.39795, Systemstep: 0.00343819, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.07    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 39, Time: 0.188759, Redshift: 4.29777, Systemstep: 0.0035032, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.07    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 40, Time: 0.192328, Redshift: 4.19945, Systemstep: 0.00356945, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 41, Time: 0.195965, Redshift: 4.10295, Systemstep: 0.00363695, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 42, Time: 0.199671, Redshift: 4.00825, Systemstep: 0.00370572, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 43, Time: 0.203446, Redshift: 3.9153, Systemstep: 0.0037758, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 44, Time: 0.207294, Redshift: 3.82407, Systemstep: 0.0038472, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 45, Time: 0.211214, Redshift: 3.73454, Systemstep: 0.00391995, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 46, Time: 0.215208, Redshift: 3.64667, Systemstep: 0.00399408, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 47, Time: 0.219277, Redshift: 3.56044, Systemstep: 0.00406961, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 48, Time: 0.223424, Redshift: 3.4758, Systemstep: 0.00414656, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 49, Time: 0.227649, Redshift: 3.39273, Systemstep: 0.00422497, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 50, Time: 0.231954, Redshift: 3.3112, Systemstep: 0.00430487, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 51, Time: 0.23634, Redshift: 3.23119, Systemstep: 0.00438628, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 52, Time: 0.240809, Redshift: 3.15267, Systemstep: 0.00446922, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 53, Time: 0.245363, Redshift: 3.0756, Systemstep: 0.00455373, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 54, Time: 0.250003, Redshift: 2.99996, Systemstep: 0.00463985, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 55, Time: 0.25473, Redshift: 2.92572, Systemstep: 0.00472759, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 56, Time: 0.259547, Redshift: 2.85286, Systemstep: 0.00481698, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 57, Time: 0.264455, Redshift: 2.78136, Systemstep: 0.00490807, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 58, Time: 0.269456, Redshift: 2.71118, Systemstep: 0.00500089, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 59, Time: 0.274552, Redshift: 2.6423, Systemstep: 0.00509545, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 60, Time: 0.279744, Redshift: 2.5747, Systemstep: 0.00519181, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 61, Time: 0.285034, Redshift: 2.50836, Systemstep: 0.00528999, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 62, Time: 0.290424, Redshift: 2.44325, Systemstep: 0.00539002, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.05    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 63, Time: 0.295916, Redshift: 2.37934, Systemstep: 0.00549195, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.05    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 64, Time: 0.301511, Redshift: 2.31662, Systemstep: 0.0055958, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.06    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 65, Time: 0.307213, Redshift: 2.25507, Systemstep: 0.00570162, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.05    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 66, Time: 0.313022, Redshift: 2.19466, Systemstep: 0.00580944, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.05    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 67, Time: 0.318942, Redshift: 2.13537, Systemstep: 0.00591929, Dloga: 0.0187336
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32768     0.018733556811            65536       32768 < *        0.05    100.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 68, Time: 0.321943, Redshift: 2.10614, Systemstep: 0.00300149, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65536       32767     0.018733556811            65536       32768            0.06    100.0%
+ X  bin=21               0           1     0.009366778405                0           1 <          0.00      0.0%
+               ------------------------
+Total active:            0           1
+
+
+Sync-Point 69, Time: 0.324973, Redshift: 2.07718, Systemstep: 0.00302974, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32767     0.018733556811            65536       32768 < *        0.06    100.0%
+ X  bin=21               0           1     0.009366778405                0           1            0.00      0.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 70, Time: 0.328031, Redshift: 2.04849, Systemstep: 0.00305825, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65536       32767     0.018733556811            65536       32768            0.06    100.0%
+ X  bin=21               0           1     0.009366778405                0           1 <          0.00      0.0%
+               ------------------------
+Total active:            0           1
+
+
+Sync-Point 71, Time: 0.331118, Redshift: 2.02007, Systemstep: 0.00308703, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32767     0.018733556811            65536       32768 < *        0.06    100.0%
+ X  bin=21               0           1     0.009366778405                0           1            0.00      0.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 72, Time: 0.334234, Redshift: 1.99191, Systemstep: 0.00311608, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65536       32765     0.018733556811            65536       32768            0.06    100.0%
+ X  bin=21               0           3     0.009366778405                0           3 <          0.00      0.0%
+               ------------------------
+Total active:            0           3
+
+
+Sync-Point 73, Time: 0.33738, Redshift: 1.96402, Systemstep: 0.00314541, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32765     0.018733556811            65536       32768 < *        0.06    100.0%
+ X  bin=21               0           3     0.009366778405                0           3            0.00      0.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 74, Time: 0.340555, Redshift: 1.93639, Systemstep: 0.00317501, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65536       32763     0.018733556811            65536       32768            0.06    100.0%
+ X  bin=21               0           5     0.009366778405                0           5 <          0.00      0.0%
+               ------------------------
+Total active:            0           5
+
+
+Sync-Point 75, Time: 0.34376, Redshift: 1.90901, Systemstep: 0.00320489, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65536       32763     0.018733556811            65536       32768 < *        0.06    100.0%
+ X  bin=21               0           5     0.009366778405                0           5            0.00      0.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 76, Time: 0.346995, Redshift: 1.88189, Systemstep: 0.00323505, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65526       32740     0.018733556811            65536       32768            0.06     97.4%
+ X  bin=21              10          28     0.009366778405               10          28 <          0.00      2.6%
+               ------------------------
+Total active:           10          28
+
+
+Sync-Point 77, Time: 0.35026, Redshift: 1.85502, Systemstep: 0.00326549, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65526       32740     0.018733556811            65536       32768 < *        0.06     96.7%
+ X  bin=21              10          28     0.009366778405               10          28            0.00      3.3%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 78, Time: 0.353556, Redshift: 1.8284, Systemstep: 0.00329622, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65500       32718     0.018733556811            65536       32768            0.06     96.7%
+ X  bin=21              36          50     0.009366778405               36          50 <          0.00      3.3%
+               ------------------------
+Total active:           36          50
+
+
+Sync-Point 79, Time: 0.356884, Redshift: 1.80203, Systemstep: 0.00332724, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65500       32718     0.018733556811            65536       32768 < *        0.06     96.1%
+ X  bin=21              36          50     0.009366778405               36          50            0.00      3.9%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 80, Time: 0.360242, Redshift: 1.77591, Systemstep: 0.00335855, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65479       32701     0.018733556811            65536       32768            0.06     95.8%
+ X  bin=21              57          67     0.009366778405               57          67 <          0.00      4.2%
+               ------------------------
+Total active:           57          67
+
+
+Sync-Point 81, Time: 0.363632, Redshift: 1.75003, Systemstep: 0.00339016, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65479       32701     0.018733556811            65536       32768 < *        0.06     95.1%
+ X  bin=21              57          67     0.009366778405               57          67            0.00      4.9%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 82, Time: 0.367054, Redshift: 1.72439, Systemstep: 0.00342207, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65459       32679     0.018733556811            65536       32768            0.06     95.1%
+ X  bin=21              77          89     0.009366778405               77          89 <          0.00      4.9%
+               ------------------------
+Total active:           77          89
+
+
+Sync-Point 83, Time: 0.370509, Redshift: 1.69899, Systemstep: 0.00345427, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65459       32679     0.018733556811            65536       32768 < *        0.06     94.4%
+ X  bin=21              77          89     0.009366778405               77          89            0.00      5.6%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 84, Time: 0.373995, Redshift: 1.67383, Systemstep: 0.00348678, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65437       32655     0.018733556811            65536       32768            0.06     94.3%
+ X  bin=21              99         113     0.009366778405               99         113 <          0.00      5.7%
+               ------------------------
+Total active:           99         113
+
+
+Sync-Point 85, Time: 0.377515, Redshift: 1.6489, Systemstep: 0.00351959, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65437       32655     0.018733556811            65536       32768 < *        0.06     93.6%
+ X  bin=21              99         113     0.009366778405               99         113            0.00      6.4%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 86, Time: 0.381068, Redshift: 1.62421, Systemstep: 0.00355271, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65422       32644     0.018733556811            65536       32768            0.06     93.7%
+ X  bin=21             114         124     0.009366778405              114         124 <          0.00      6.3%
+               ------------------------
+Total active:          114         124
+
+
+Sync-Point 87, Time: 0.384654, Redshift: 1.59974, Systemstep: 0.00358615, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65422       32644     0.018733556811            65536       32768 < *        0.06     93.0%
+ X  bin=21             114         124     0.009366778405              114         124            0.00      7.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 88, Time: 0.388274, Redshift: 1.5755, Systemstep: 0.00361989, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65403       32631     0.018733556811            65536       32768            0.06     93.0%
+ X  bin=21             133         137     0.009366778405              133         137 <          0.00      7.0%
+               ------------------------
+Total active:          133         137
+
+
+Sync-Point 89, Time: 0.391928, Redshift: 1.55149, Systemstep: 0.00365396, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65403       32631     0.018733556811            65536       32768 < *        0.06     92.9%
+ X  bin=21             133         137     0.009366778405              133         137            0.00      7.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 90, Time: 0.395616, Redshift: 1.5277, Systemstep: 0.00368835, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65385       32619     0.018733556811            65536       32768            0.06     92.9%
+ X  bin=21             151         149     0.009366778405              151         149 <          0.00      7.1%
+               ------------------------
+Total active:          151         149
+
+
+Sync-Point 91, Time: 0.399339, Redshift: 1.50414, Systemstep: 0.00372306, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65385       32619     0.018733556811            65536       32768 < *        0.06     92.7%
+ X  bin=21             151         149     0.009366778405              151         149            0.00      7.3%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 92, Time: 0.403097, Redshift: 1.48079, Systemstep: 0.00375809, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65369       32611     0.018733556811            65536       32768            0.06     92.8%
+ X  bin=21             167         157     0.009366778405              167         157 <          0.00      7.2%
+               ------------------------
+Total active:          167         157
+
+
+Sync-Point 93, Time: 0.406891, Redshift: 1.45766, Systemstep: 0.00379346, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65369       32611     0.018733556811            65536       32768 < *        0.06     92.7%
+ X  bin=21             167         157     0.009366778405              167         157            0.00      7.3%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 94, Time: 0.41072, Redshift: 1.43475, Systemstep: 0.00382916, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65344       32589     0.018733556811            65536       32768            0.06     92.7%
+ X  bin=21             192         179     0.009366778405              192         179 <          0.00      7.3%
+               ------------------------
+Total active:          192         179
+
+
+Sync-Point 95, Time: 0.414585, Redshift: 1.41205, Systemstep: 0.0038652, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65344       32589     0.018733556811            65536       32768 < *        0.06     92.5%
+ X  bin=21             192         179     0.009366778405              192         179            0.00      7.5%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 96, Time: 0.418487, Redshift: 1.38956, Systemstep: 0.00390157, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65323       32583     0.018733556811            65536       32768            0.06     92.6%
+ X  bin=21             213         185     0.009366778405              213         185 <          0.00      7.4%
+               ------------------------
+Total active:          213         185
+
+
+Sync-Point 97, Time: 0.422425, Redshift: 1.36728, Systemstep: 0.00393829, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65323       32583     0.018733556811            65536       32768 < *        0.06     92.5%
+ X  bin=21             213         185     0.009366778405              213         185            0.00      7.5%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 98, Time: 0.4264, Redshift: 1.34521, Systemstep: 0.00397535, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65301       32567     0.018733556811            65536       32768            0.06     92.5%
+ X  bin=21             235         201     0.009366778405              235         201 <          0.00      7.5%
+               ------------------------
+Total active:          235         201
+
+
+Sync-Point 99, Time: 0.430413, Redshift: 1.32335, Systemstep: 0.00401276, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65301       32567     0.018733556811            65536       32768 < *        0.06     92.4%
+ X  bin=21             235         201     0.009366778405              235         201            0.00      7.6%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 100, Time: 0.434464, Redshift: 1.30169, Systemstep: 0.00405052, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65262       32550     0.018733556811            65536       32768            0.06     92.5%
+ X  bin=21             274         218     0.009366778405              274         218 <          0.00      7.5%
+               ------------------------
+Total active:          274         218
+
+
+Sync-Point 101, Time: 0.438552, Redshift: 1.28023, Systemstep: 0.00408864, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65262       32550     0.018733556811            65536       32768 < *        0.06     92.3%
+ X  bin=21             274         218     0.009366778405              274         218            0.01      7.7%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 102, Time: 0.442679, Redshift: 1.25897, Systemstep: 0.00412712, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65233       32530     0.018733556811            65536       32768            0.06     92.4%
+ X  bin=21             303         238     0.009366778405              303         238 <          0.01      7.6%
+               ------------------------
+Total active:          303         238
+
+
+Sync-Point 103, Time: 0.446845, Redshift: 1.23791, Systemstep: 0.00416596, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65233       32530     0.018733556811            65536       32768 < *        0.06     92.3%
+ X  bin=21             303         238     0.009366778405              303         238            0.01      7.7%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 104, Time: 0.45105, Redshift: 1.21705, Systemstep: 0.00420516, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65204       32513     0.018733556811            65536       32768            0.06     92.4%
+ X  bin=21             332         255     0.009366778405              332         255 <          0.01      7.6%
+               ------------------------
+Total active:          332         255
+
+
+Sync-Point 105, Time: 0.455295, Redshift: 1.19638, Systemstep: 0.00424474, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65204       32513     0.018733556811            65536       32768 < *        0.06     92.2%
+ X  bin=21             332         255     0.009366778405              332         255            0.01      7.8%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 106, Time: 0.45958, Redshift: 1.1759, Systemstep: 0.00428468, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65171       32501     0.018733556811            65536       32768            0.06     92.3%
+ X  bin=21             365         267     0.009366778405              365         267 <          0.01      7.7%
+               ------------------------
+Total active:          365         267
+
+
+Sync-Point 107, Time: 0.463905, Redshift: 1.15561, Systemstep: 0.00432501, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65171       32501     0.018733556811            65536       32768 < *        0.06     92.1%
+ X  bin=21             365         267     0.009366778405              365         267            0.01      7.9%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 108, Time: 0.468271, Redshift: 1.13552, Systemstep: 0.00436571, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65150       32490     0.018733556811            65536       32768            0.07     92.1%
+ X  bin=21             386         278     0.009366778405              386         278 <          0.01      7.9%
+               ------------------------
+Total active:          386         278
+
+
+Sync-Point 109, Time: 0.472677, Redshift: 1.11561, Systemstep: 0.00440679, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65150       32490     0.018733556811            65536       32768 < *        0.07     91.9%
+ X  bin=21             386         278     0.009366778405              386         278            0.01      8.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 110, Time: 0.477126, Redshift: 1.09588, Systemstep: 0.00444826, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65118       32476     0.018733556811            65536       32768            0.07     92.0%
+ X  bin=21             418         292     0.009366778405              418         292 <          0.01      8.0%
+               ------------------------
+Total active:          418         292
+
+
+Sync-Point 111, Time: 0.481616, Redshift: 1.07634, Systemstep: 0.00449013, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65118       32476     0.018733556811            65536       32768 < *        0.07     91.8%
+ X  bin=21             418         292     0.009366778405              418         292            0.01      8.2%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 112, Time: 0.486148, Redshift: 1.05699, Systemstep: 0.00453238, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65088       32459     0.018733556811            65536       32768            0.07     91.8%
+ X  bin=21             448         309     0.009366778405              448         309 <          0.01      8.2%
+               ------------------------
+Total active:          448         309
+
+
+Sync-Point 113, Time: 0.490723, Redshift: 1.03781, Systemstep: 0.00457503, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65088       32459     0.018733556811            65536       32768 < *        0.07     91.8%
+ X  bin=21             448         309     0.009366778405              448         309            0.01      8.2%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 114, Time: 0.495341, Redshift: 1.01881, Systemstep: 0.00461809, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65041       32435     0.018733556811            65536       32768            0.07     91.7%
+ X  bin=21             495         333     0.009366778405              495         333 < *        0.01      8.3%
+               ------------------------
+Total active:          495         333
+
+
+Sync-Point 115, Time: 0.500003, Redshift: 0.999989, Systemstep: 0.00466155, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65041       32435     0.018733556811            65536       32768 < *        0.07     90.4%
+ X  bin=21             495         333     0.009366778405              495         333            0.01      9.6%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 116, Time: 0.504708, Redshift: 0.981343, Systemstep: 0.00470542, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64974       32415     0.018733556811            65536       32768            0.07     90.5%
+ X  bin=21             562         353     0.009366778405              562         353 < *        0.01      9.5%
+               ------------------------
+Total active:          562         353
+
+
+Sync-Point 117, Time: 0.509458, Redshift: 0.962871, Systemstep: 0.0047497, Dloga: 0.00936678
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64974       32415     0.018733556811            65536       32768 < *        0.07     89.5%
+ X  bin=21             562         353     0.009366778405              562         353            0.01     10.5%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 118, Time: 0.511849, Redshift: 0.953699, Systemstep: 0.00239159, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64942       32395     0.018733556811            65536       32768            0.06     89.3%
+    bin=21             594         372     0.009366778405              594         373            0.01     10.7%
+ X  bin=20               0           1     0.004683389203                0           1 <          0.00      1.6%
+               ------------------------
+Total active:            0           1
+
+
+Sync-Point 119, Time: 0.514252, Redshift: 0.944571, Systemstep: 0.00240281, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64942       32395     0.018733556811            65536       32768            0.06     89.3%
+ X  bin=21             594         372     0.009366778405              594         373 < *        0.01     10.7%
+ X  bin=20               0           1     0.004683389203                0           1            0.00      0.0%
+               ------------------------
+Total active:          594         373
+
+
+Sync-Point 120, Time: 0.516666, Redshift: 0.935485, Systemstep: 0.00241409, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64942       32395     0.018733556811            65536       32768            0.06     88.3%
+    bin=21             594         370     0.009366778405              594         373            0.01     11.7%
+ X  bin=20               0           3     0.004683389203                0           3 <          0.00      0.0%
+               ------------------------
+Total active:            0           3
+
+
+Sync-Point 121, Time: 0.519092, Redshift: 0.926441, Systemstep: 0.00242543, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64942       32395     0.018733556811            65536       32768 < *        0.06     88.3%
+ X  bin=21             594         370     0.009366778405              594         373            0.01     11.7%
+ X  bin=20               0           3     0.004683389203                0           3            0.00      0.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 122, Time: 0.521529, Redshift: 0.91744, Systemstep: 0.00243681, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64907       32369     0.018733556811            65536       32768            0.06     88.1%
+    bin=21             629         393     0.009366778405              629         399            0.01     11.9%
+ X  bin=20               0           6     0.004683389203                0           6 <          0.00      1.6%
+               ------------------------
+Total active:            0           6
+
+
+Sync-Point 123, Time: 0.523977, Redshift: 0.908481, Systemstep: 0.00244825, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64907       32369     0.018733556811            65536       32768            0.06     88.1%
+ X  bin=21             629         393     0.009366778405              629         399 < *        0.01     11.9%
+ X  bin=20               0           6     0.004683389203                0           6            0.00      0.0%
+               ------------------------
+Total active:          629         399
+
+
+Sync-Point 124, Time: 0.526437, Redshift: 0.899564, Systemstep: 0.00245974, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64907       32369     0.018733556811            65536       32768            0.06     87.1%
+    bin=21             629         388     0.009366778405              629         399            0.01     12.9%
+ X  bin=20               0          11     0.004683389203                0          11 <          0.00      0.1%
+               ------------------------
+Total active:            0          11
+
+
+Sync-Point 125, Time: 0.528908, Redshift: 0.890688, Systemstep: 0.00247129, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64907       32369     0.018733556811            65536       32768 < *        0.06     87.1%
+ X  bin=21             629         388     0.009366778405              629         399            0.01     12.9%
+ X  bin=20               0          11     0.004683389203                0          11            0.00      0.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 126, Time: 0.531391, Redshift: 0.881854, Systemstep: 0.00248289, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64873       32353     0.018733556811            65536       32768            0.06     86.8%
+    bin=21             663         398     0.009366778405              663         415            0.01     13.2%
+ X  bin=20               0          17     0.004683389203                0          17 <          0.00      1.6%
+               ------------------------
+Total active:            0          17
+
+
+Sync-Point 127, Time: 0.533885, Redshift: 0.873061, Systemstep: 0.00249455, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64873       32353     0.018733556811            65536       32768            0.06     86.8%
+ X  bin=21             663         398     0.009366778405              663         415 < *        0.01     13.2%
+ X  bin=20               0          17     0.004683389203                0          17            0.00      0.0%
+               ------------------------
+Total active:          663         415
+
+
+Sync-Point 128, Time: 0.536392, Redshift: 0.86431, Systemstep: 0.00250626, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64873       32353     0.018733556811            65536       32768            0.06     85.8%
+    bin=21             663         388     0.009366778405              663         415            0.01     14.2%
+ X  bin=20               0          27     0.004683389203                0          27 <          0.00      0.1%
+               ------------------------
+Total active:            0          27
+
+
+Sync-Point 129, Time: 0.53891, Redshift: 0.855599, Systemstep: 0.00251802, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64873       32353     0.018733556811            65536       32768 < *        0.06     85.8%
+ X  bin=21             663         388     0.009366778405              663         415            0.01     14.2%
+ X  bin=20               0          27     0.004683389203                0          27            0.00      0.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 130, Time: 0.541439, Redshift: 0.846928, Systemstep: 0.00252984, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64846       32335     0.018733556811            65536       32768            0.06     85.6%
+    bin=21             690         404     0.009366778405              690         433            0.01     14.4%
+ X  bin=20               0          29     0.004683389203                0          29 <          0.00      1.6%
+               ------------------------
+Total active:            0          29
+
+
+Sync-Point 131, Time: 0.543981, Redshift: 0.838299, Systemstep: 0.00254172, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64846       32335     0.018733556811            65536       32768            0.06     85.6%
+ X  bin=21             690         404     0.009366778405              690         433 < *        0.01     14.4%
+ X  bin=20               0          29     0.004683389203                0          29            0.00      0.0%
+               ------------------------
+Total active:          690         433
+
+
+Sync-Point 132, Time: 0.546535, Redshift: 0.829709, Systemstep: 0.00255365, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64846       32335     0.018733556811            65536       32768            0.06     84.5%
+    bin=21             690         398     0.009366778405              690         433            0.01     15.5%
+ X  bin=20               0          35     0.004683389203                0          35 <          0.00      0.1%
+               ------------------------
+Total active:            0          35
+
+
+Sync-Point 133, Time: 0.5491, Redshift: 0.82116, Systemstep: 0.00256564, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64846       32335     0.018733556811            65536       32768 < *        0.06     84.5%
+ X  bin=21             690         398     0.009366778405              690         433            0.01     15.5%
+ X  bin=20               0          35     0.004683389203                0          35            0.00      0.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 134, Time: 0.551678, Redshift: 0.812651, Systemstep: 0.00257768, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64826       32304     0.018733556811            65536       32768            0.06     84.3%
+    bin=21             710         421     0.009366778405              710         464            0.01     15.7%
+ X  bin=20               0          43     0.004683389203                0          43 <          0.00      1.6%
+               ------------------------
+Total active:            0          43
+
+
+Sync-Point 135, Time: 0.554268, Redshift: 0.804182, Systemstep: 0.00258978, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64826       32304     0.018733556811            65536       32768            0.06     84.3%
+ X  bin=21             710         421     0.009366778405              710         464 < *        0.01     15.7%
+ X  bin=20               0          43     0.004683389203                0          43            0.00      0.0%
+               ------------------------
+Total active:          710         464
+
+
+Sync-Point 136, Time: 0.55687, Redshift: 0.795752, Systemstep: 0.00260194, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64826       32304     0.018733556811            65536       32768            0.06     84.3%
+    bin=21             710         418     0.009366778405              710         464            0.01     15.7%
+ X  bin=20               0          46     0.004683389203                0          46 <          0.00      0.1%
+               ------------------------
+Total active:            0          46
+
+
+Sync-Point 137, Time: 0.559484, Redshift: 0.787361, Systemstep: 0.00261416, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64826       32304     0.018733556811            65536       32768 < *        0.06     84.3%
+ X  bin=21             710         418     0.009366778405              710         464            0.01     15.7%
+ X  bin=20               0          46     0.004683389203                0          46            0.00      0.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 138, Time: 0.56211, Redshift: 0.77901, Systemstep: 0.00262643, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64794       32262     0.018733556811            65536       32768            0.06     84.0%
+    bin=21             742         455     0.009366778405              742         506            0.01     16.0%
+ X  bin=20               0          51     0.004683389203                0          51 <          0.00      1.7%
+               ------------------------
+Total active:            0          51
+
+
+Sync-Point 139, Time: 0.564749, Redshift: 0.770697, Systemstep: 0.00263876, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64794       32262     0.018733556811            65536       32768            0.06     84.0%
+ X  bin=21             742         455     0.009366778405              742         506 < *        0.01     16.0%
+ X  bin=20               0          51     0.004683389203                0          51            0.00      0.0%
+               ------------------------
+Total active:          742         506
+
+
+Sync-Point 140, Time: 0.5674, Redshift: 0.762424, Systemstep: 0.00265114, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64794       32262     0.018733556811            65536       32768            0.06     83.9%
+    bin=21             742         449     0.009366778405              742         506            0.01     16.1%
+ X  bin=20               0          57     0.004683389203                0          57 <          0.00      0.1%
+               ------------------------
+Total active:            0          57
+
+
+Sync-Point 141, Time: 0.570064, Redshift: 0.754189, Systemstep: 0.00266359, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64794       32262     0.018733556811            65536       32768 < *        0.06     83.9%
+ X  bin=21             742         449     0.009366778405              742         506            0.01     16.1%
+ X  bin=20               0          57     0.004683389203                0          57            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 142, Time: 0.57274, Redshift: 0.745993, Systemstep: 0.00267609, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64753       32220     0.018733556811            65536       32768            0.06     83.9%
+    bin=21             783         492     0.009366778405              783         548            0.01     16.1%
+ X  bin=20               0          56     0.004683389203                0          56 <          0.00      1.7%
+               ------------------------
+Total active:            0          56
+
+
+Sync-Point 143, Time: 0.575429, Redshift: 0.737835, Systemstep: 0.00268866, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64753       32220     0.018733556811            65536       32768            0.06     83.9%
+ X  bin=21             783         492     0.009366778405              783         548 < *        0.01     16.1%
+ X  bin=20               0          56     0.004683389203                0          56            0.00      0.0%
+               ------------------------
+Total active:          783         548
+
+
+Sync-Point 144, Time: 0.57813, Redshift: 0.729715, Systemstep: 0.00270128, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64753       32220     0.018733556811            65536       32768            0.06     83.8%
+    bin=21             783         484     0.009366778405              783         548            0.01     16.2%
+ X  bin=20               0          64     0.004683389203                0          64 <          0.00      0.1%
+               ------------------------
+Total active:            0          64
+
+
+Sync-Point 145, Time: 0.580844, Redshift: 0.721633, Systemstep: 0.00271396, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64753       32220     0.018733556811            65536       32768 < *        0.06     83.8%
+ X  bin=21             783         484     0.009366778405              783         548            0.01     16.2%
+ X  bin=20               0          64     0.004683389203                0          64            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 146, Time: 0.583571, Redshift: 0.713589, Systemstep: 0.0027267, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64696       32175     0.018733556811            65536       32768            0.06     83.9%
+    bin=21             840         523     0.009366778405              840         593            0.01     16.1%
+ X  bin=20               0          70     0.004683389203                0          70 <          0.00      1.7%
+               ------------------------
+Total active:            0          70
+
+
+Sync-Point 147, Time: 0.58631, Redshift: 0.705582, Systemstep: 0.0027395, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64696       32175     0.018733556811            65536       32768            0.06     83.9%
+ X  bin=21             840         523     0.009366778405              840         593 < *        0.01     16.1%
+ X  bin=20               0          70     0.004683389203                0          70            0.00      0.0%
+               ------------------------
+Total active:          840         593
+
+
+Sync-Point 148, Time: 0.589063, Redshift: 0.697613, Systemstep: 0.00275236, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64696       32175     0.018733556811            65536       32768            0.06     83.6%
+    bin=21             840         521     0.009366778405              840         593            0.01     16.4%
+ X  bin=20               0          72     0.004683389203                0          72 <          0.00      0.1%
+               ------------------------
+Total active:            0          72
+
+
+Sync-Point 149, Time: 0.591828, Redshift: 0.689681, Systemstep: 0.00276528, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64696       32175     0.018733556811            65536       32768 < *        0.06     83.6%
+ X  bin=21             840         521     0.009366778405              840         593            0.01     16.4%
+ X  bin=20               0          72     0.004683389203                0          72            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 150, Time: 0.594606, Redshift: 0.681786, Systemstep: 0.00277826, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64643       32117     0.018733556811            65536       32768            0.06     83.7%
+    bin=21             893         580     0.009366778405              893         651            0.01     16.3%
+ X  bin=20               0          71     0.004683389203                0          71 <          0.00      1.7%
+               ------------------------
+Total active:            0          71
+
+
+Sync-Point 151, Time: 0.597397, Redshift: 0.673928, Systemstep: 0.0027913, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64643       32117     0.018733556811            65536       32768            0.06     83.7%
+ X  bin=21             893         580     0.009366778405              893         651 < *        0.01     16.3%
+ X  bin=20               0          71     0.004683389203                0          71            0.00      0.0%
+               ------------------------
+Total active:          893         651
+
+
+Sync-Point 152, Time: 0.600202, Redshift: 0.666106, Systemstep: 0.00280441, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64643       32117     0.018733556811            65536       32768            0.06     83.5%
+    bin=21             893         580     0.009366778405              893         651            0.01     16.5%
+ X  bin=20               0          71     0.004683389203                0          71 <          0.00      0.1%
+               ------------------------
+Total active:            0          71
+
+
+Sync-Point 153, Time: 0.603019, Redshift: 0.658322, Systemstep: 0.00281757, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64643       32117     0.018733556811            65536       32768 < *        0.06     83.5%
+ X  bin=21             893         580     0.009366778405              893         651            0.01     16.5%
+ X  bin=20               0          71     0.004683389203                0          71            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 154, Time: 0.60585, Redshift: 0.650573, Systemstep: 0.0028308, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64598       32056     0.018733556811            65536       32768            0.06     83.6%
+    bin=21             938         638     0.009366778405              938         712            0.01     16.4%
+ X  bin=20               0          74     0.004683389203                0          74 <          0.00      1.7%
+               ------------------------
+Total active:            0          74
+
+
+Sync-Point 155, Time: 0.608694, Redshift: 0.642861, Systemstep: 0.00284409, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64598       32056     0.018733556811            65536       32768            0.06     83.6%
+ X  bin=21             938         638     0.009366778405              938         712 < *        0.01     16.4%
+ X  bin=20               0          74     0.004683389203                0          74            0.00      0.0%
+               ------------------------
+Total active:          938         712
+
+
+Sync-Point 156, Time: 0.611552, Redshift: 0.635185, Systemstep: 0.00285744, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64598       32056     0.018733556811            65536       32768            0.06     83.4%
+    bin=21             938         640     0.009366778405              938         712            0.01     16.6%
+ X  bin=20               0          72     0.004683389203                0          72 <          0.00      0.1%
+               ------------------------
+Total active:            0          72
+
+
+Sync-Point 157, Time: 0.614422, Redshift: 0.627545, Systemstep: 0.00287085, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64598       32056     0.018733556811            65536       32768 < *        0.06     83.4%
+ X  bin=21             938         640     0.009366778405              938         712            0.01     16.6%
+ X  bin=20               0          72     0.004683389203                0          72            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 158, Time: 0.617307, Redshift: 0.61994, Systemstep: 0.00288433, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64544       32008     0.018733556811            65536       32768            0.06     83.4%
+    bin=21             992         691     0.009366778405              992         760            0.01     16.6%
+ X  bin=20               0          69     0.004683389203                0          69 <          0.00      1.7%
+               ------------------------
+Total active:            0          69
+
+
+Sync-Point 159, Time: 0.620205, Redshift: 0.612371, Systemstep: 0.00289787, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64544       32008     0.018733556811            65536       32768            0.06     83.4%
+ X  bin=21             992         691     0.009366778405              992         760 < *        0.01     16.6%
+ X  bin=20               0          69     0.004683389203                0          69            0.00      0.0%
+               ------------------------
+Total active:          992         760
+
+
+Sync-Point 160, Time: 0.623116, Redshift: 0.604837, Systemstep: 0.00291147, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64544       32008     0.018733556811            65536       32768            0.06     83.3%
+    bin=21             992         690     0.009366778405              992         760            0.01     16.7%
+ X  bin=20               0          70     0.004683389203                0          70 <          0.00      0.1%
+               ------------------------
+Total active:            0          70
+
+
+Sync-Point 161, Time: 0.626041, Redshift: 0.597339, Systemstep: 0.00292514, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64544       32008     0.018733556811            65536       32768 < *        0.06     83.3%
+ X  bin=21             992         690     0.009366778405              992         760            0.01     16.7%
+ X  bin=20               0          70     0.004683389203                0          70            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 162, Time: 0.62898, Redshift: 0.589875, Systemstep: 0.00293887, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64520       31953     0.018733556811            65536       32768            0.06     83.3%
+    bin=21            1016         748     0.009366778405             1016         815            0.01     16.7%
+ X  bin=20               0          67     0.004683389203                0          67 <          0.00      1.7%
+               ------------------------
+Total active:            0          67
+
+
+Sync-Point 163, Time: 0.631933, Redshift: 0.582447, Systemstep: 0.00295267, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64520       31953     0.018733556811            65536       32768            0.06     83.3%
+ X  bin=21            1016         748     0.009366778405             1016         815 < *        0.01     16.7%
+ X  bin=20               0          67     0.004683389203                0          67            0.00      0.0%
+               ------------------------
+Total active:         1016         815
+
+
+Sync-Point 164, Time: 0.634899, Redshift: 0.575053, Systemstep: 0.00296653, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64520       31953     0.018733556811            65536       32768            0.06     83.0%
+    bin=21            1016         738     0.009366778405             1016         815            0.01     17.0%
+ X  bin=20               0          77     0.004683389203                0          77 <          0.00      0.1%
+               ------------------------
+Total active:            0          77
+
+
+Sync-Point 165, Time: 0.63788, Redshift: 0.567693, Systemstep: 0.00298045, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64520       31953     0.018733556811            65536       32768 < *        0.06     83.0%
+ X  bin=21            1016         738     0.009366778405             1016         815            0.01     17.0%
+ X  bin=20               0          77     0.004683389203                0          77            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 166, Time: 0.640874, Redshift: 0.560368, Systemstep: 0.00299445, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64484       31906     0.018733556811            65536       32768            0.06     83.1%
+    bin=21            1052         786     0.009366778405             1052         862            0.01     16.9%
+ X  bin=20               0          76     0.004683389203                0          76 <          0.00      1.7%
+               ------------------------
+Total active:            0          76
+
+
+Sync-Point 167, Time: 0.643883, Redshift: 0.553078, Systemstep: 0.0030085, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64484       31906     0.018733556811            65536       32768            0.06     83.1%
+ X  bin=21            1052         786     0.009366778405             1052         862 < *        0.01     16.9%
+ X  bin=20               0          76     0.004683389203                0          76            0.00      0.0%
+               ------------------------
+Total active:         1052         862
+
+
+Sync-Point 168, Time: 0.646905, Redshift: 0.545821, Systemstep: 0.00302263, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64484       31906     0.018733556811            65536       32768            0.06     82.9%
+    bin=21            1052         779     0.009366778405             1052         862            0.01     17.1%
+ X  bin=20               0          83     0.004683389203                0          83 <          0.00      0.1%
+               ------------------------
+Total active:            0          83
+
+
+Sync-Point 169, Time: 0.649942, Redshift: 0.538598, Systemstep: 0.00303682, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64484       31906     0.018733556811            65536       32768 < *        0.06     82.9%
+ X  bin=21            1052         779     0.009366778405             1052         862            0.01     17.1%
+ X  bin=20               0          83     0.004683389203                0          83            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 170, Time: 0.652993, Redshift: 0.531409, Systemstep: 0.00305107, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64456       31836     0.018733556811            65536       32768            0.06     83.0%
+    bin=21            1080         845     0.009366778405             1080         932            0.01     17.0%
+ X  bin=20               0          87     0.004683389203                0          87 <          0.00      1.7%
+               ------------------------
+Total active:            0          87
+
+
+Sync-Point 171, Time: 0.656059, Redshift: 0.524254, Systemstep: 0.00306539, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64456       31836     0.018733556811            65536       32768            0.06     83.0%
+ X  bin=21            1080         845     0.009366778405             1080         932 < *        0.01     17.0%
+ X  bin=20               0          87     0.004683389203                0          87            0.00      0.0%
+               ------------------------
+Total active:         1080         932
+
+
+Sync-Point 172, Time: 0.659138, Redshift: 0.517132, Systemstep: 0.00307978, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64456       31836     0.018733556811            65536       32768            0.06     82.8%
+    bin=21            1080         836     0.009366778405             1080         932            0.01     17.2%
+ X  bin=20               0          96     0.004683389203                0          96 <          0.00      0.1%
+               ------------------------
+Total active:            0          96
+
+
+Sync-Point 173, Time: 0.662233, Redshift: 0.510043, Systemstep: 0.00309424, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64456       31836     0.018733556811            65536       32768 < *        0.06     82.8%
+ X  bin=21            1080         836     0.009366778405             1080         932            0.01     17.2%
+ X  bin=20               0          96     0.004683389203                0          96            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 174, Time: 0.665341, Redshift: 0.502988, Systemstep: 0.00310877, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64432       31762     0.018733556811            65536       32768            0.06     82.9%
+    bin=21            1104         904     0.009366778405             1104        1006            0.01     17.1%
+ X  bin=20               0         102     0.004683389203                0         102 <          0.00      1.7%
+               ------------------------
+Total active:            0         102
+
+
+Sync-Point 175, Time: 0.668465, Redshift: 0.495965, Systemstep: 0.00312336, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64432       31762     0.018733556811            65536       32768            0.06     82.9%
+ X  bin=21            1104         904     0.009366778405             1104        1006 < *        0.01     17.1%
+ X  bin=20               0         102     0.004683389203                0         102            0.00      0.0%
+               ------------------------
+Total active:         1104        1006
+
+
+Sync-Point 176, Time: 0.671603, Redshift: 0.488975, Systemstep: 0.00313802, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64432       31762     0.018733556811            65536       32768            0.06     82.7%
+    bin=21            1104         888     0.009366778405             1104        1006            0.01     17.3%
+ X  bin=20               0         118     0.004683389203                0         118 <          0.00      0.1%
+               ------------------------
+Total active:            0         118
+
+
+Sync-Point 177, Time: 0.674756, Redshift: 0.482018, Systemstep: 0.00315275, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64432       31762     0.018733556811            65536       32768 < *        0.06     82.7%
+ X  bin=21            1104         888     0.009366778405             1104        1006            0.01     17.3%
+ X  bin=20               0         118     0.004683389203                0         118            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 178, Time: 0.677923, Redshift: 0.475093, Systemstep: 0.00316755, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64388       31700     0.018733556811            65536       32768            0.06     82.7%
+    bin=21            1148         947     0.009366778405             1148        1068            0.01     17.3%
+ X  bin=20               0         121     0.004683389203                0         121 <          0.00      1.7%
+               ------------------------
+Total active:            0         121
+
+
+Sync-Point 179, Time: 0.681106, Redshift: 0.468201, Systemstep: 0.00318242, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64388       31700     0.018733556811            65536       32768            0.06     82.7%
+ X  bin=21            1148         947     0.009366778405             1148        1068 < *        0.01     17.3%
+ X  bin=20               0         121     0.004683389203                0         121            0.00      0.0%
+               ------------------------
+Total active:         1148        1068
+
+
+Sync-Point 180, Time: 0.684303, Redshift: 0.461341, Systemstep: 0.00319736, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64388       31700     0.018733556811            65536       32768            0.06     82.5%
+    bin=21            1148         941     0.009366778405             1148        1068            0.01     17.5%
+ X  bin=20               0         127     0.004683389203                0         127 <          0.00      0.1%
+               ------------------------
+Total active:            0         127
+
+
+Sync-Point 181, Time: 0.687515, Redshift: 0.454513, Systemstep: 0.00321237, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64388       31700     0.018733556811            65536       32768 < *        0.06     82.5%
+ X  bin=21            1148         941     0.009366778405             1148        1068            0.01     17.5%
+ X  bin=20               0         127     0.004683389203                0         127            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 182, Time: 0.690743, Redshift: 0.447717, Systemstep: 0.00322745, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64330       31665     0.018733556811            65536       32768            0.06     82.6%
+    bin=21            1206         973     0.009366778405             1206        1103            0.01     17.4%
+ X  bin=20               0         130     0.004683389203                0         130 <          0.00      1.7%
+               ------------------------
+Total active:            0         130
+
+
+Sync-Point 183, Time: 0.693985, Redshift: 0.440953, Systemstep: 0.0032426, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64330       31665     0.018733556811            65536       32768            0.06     82.6%
+ X  bin=21            1206         973     0.009366778405             1206        1103 < *        0.01     17.4%
+ X  bin=20               0         130     0.004683389203                0         130            0.00      0.1%
+               ------------------------
+Total active:         1206        1103
+
+
+Sync-Point 184, Time: 0.697243, Redshift: 0.43422, Systemstep: 0.00325783, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64330       31665     0.018733556811            65536       32768            0.06     82.3%
+    bin=21            1206         971     0.009366778405             1206        1103            0.01     17.7%
+ X  bin=20               0         132     0.004683389203                0         132 <          0.00      0.1%
+               ------------------------
+Total active:            0         132
+
+
+Sync-Point 185, Time: 0.700516, Redshift: 0.427518, Systemstep: 0.00327312, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64330       31665     0.018733556811            65536       32768 < *        0.06     82.3%
+ X  bin=21            1206         971     0.009366778405             1206        1103            0.01     17.7%
+ X  bin=20               0         132     0.004683389203                0         132            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 186, Time: 0.703805, Redshift: 0.420848, Systemstep: 0.00328849, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64304       31648     0.018733556811            65536       32768            0.06     82.4%
+    bin=21            1232         985     0.009366778405             1232        1120            0.01     17.6%
+ X  bin=20               0         135     0.004683389203                0         135 <          0.00      1.7%
+               ------------------------
+Total active:            0         135
+
+
+Sync-Point 187, Time: 0.707109, Redshift: 0.41421, Systemstep: 0.00330392, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64304       31648     0.018733556811            65536       32768            0.06     82.4%
+ X  bin=21            1232         985     0.009366778405             1232        1120 < *        0.01     17.6%
+ X  bin=20               0         135     0.004683389203                0         135            0.00      0.1%
+               ------------------------
+Total active:         1232        1120
+
+
+Sync-Point 188, Time: 0.710428, Redshift: 0.407602, Systemstep: 0.00331943, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64304       31648     0.018733556811            65536       32768            0.06     82.2%
+    bin=21            1232         992     0.009366778405             1232        1120            0.01     17.8%
+ X  bin=20               0         128     0.004683389203                0         128 <          0.00      0.1%
+               ------------------------
+Total active:            0         128
+
+
+Sync-Point 189, Time: 0.713763, Redshift: 0.401025, Systemstep: 0.00333502, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64304       31648     0.018733556811            65536       32768 < *        0.06     82.2%
+ X  bin=21            1232         992     0.009366778405             1232        1120            0.01     17.8%
+ X  bin=20               0         128     0.004683389203                0         128            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 190, Time: 0.717114, Redshift: 0.394479, Systemstep: 0.00335067, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64267       31652     0.018733556811            65536       32768            0.06     82.2%
+    bin=21            1269         993     0.009366778405             1269        1116            0.01     17.8%
+ X  bin=20               0         123     0.004683389203                0         123 <          0.00      1.7%
+               ------------------------
+Total active:            0         123
+
+
+Sync-Point 191, Time: 0.72048, Redshift: 0.387963, Systemstep: 0.0033664, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64267       31652     0.018733556811            65536       32768            0.06     82.2%
+ X  bin=21            1269         993     0.009366778405             1269        1116 < *        0.01     17.8%
+ X  bin=20               0         123     0.004683389203                0         123            0.00      0.1%
+               ------------------------
+Total active:         1269        1116
+
+
+Sync-Point 192, Time: 0.723862, Redshift: 0.381478, Systemstep: 0.0033822, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64267       31652     0.018733556811            65536       32768            0.06     82.0%
+    bin=21            1269         997     0.009366778405             1269        1116            0.01     18.0%
+ X  bin=20               0         119     0.004683389203                0         119 <          0.00      0.1%
+               ------------------------
+Total active:            0         119
+
+
+Sync-Point 193, Time: 0.727261, Redshift: 0.375023, Systemstep: 0.00339808, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64267       31652     0.018733556811            65536       32768 < *        0.06     82.0%
+ X  bin=21            1269         997     0.009366778405             1269        1116            0.01     18.0%
+ X  bin=20               0         119     0.004683389203                0         119            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 194, Time: 0.730675, Redshift: 0.368598, Systemstep: 0.00341403, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64244       31638     0.018733556811            65536       32768            0.06     82.0%
+    bin=21            1292        1011     0.009366778405             1292        1130            0.01     18.0%
+ X  bin=20               0         119     0.004683389203                0         119 <          0.00      1.7%
+               ------------------------
+Total active:            0         119
+
+
+Sync-Point 195, Time: 0.734105, Redshift: 0.362204, Systemstep: 0.00343006, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64244       31638     0.018733556811            65536       32768            0.06     82.0%
+ X  bin=21            1292        1011     0.009366778405             1292        1130 < *        0.01     18.0%
+ X  bin=20               0         119     0.004683389203                0         119            0.00      0.1%
+               ------------------------
+Total active:         1292        1130
+
+
+Sync-Point 196, Time: 0.737551, Redshift: 0.355839, Systemstep: 0.00344616, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64244       31638     0.018733556811            65536       32768            0.06     81.9%
+    bin=21            1292        1014     0.009366778405             1292        1130            0.01     18.1%
+ X  bin=20               0         116     0.004683389203                0         116 <          0.00      0.1%
+               ------------------------
+Total active:            0         116
+
+
+Sync-Point 197, Time: 0.741013, Redshift: 0.349504, Systemstep: 0.00346234, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64244       31638     0.018733556811            65536       32768 < *        0.06     81.9%
+ X  bin=21            1292        1014     0.009366778405             1292        1130            0.01     18.1%
+ X  bin=20               0         116     0.004683389203                0         116            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 198, Time: 0.744492, Redshift: 0.343198, Systemstep: 0.00347859, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64221       31619     0.018733556811            65536       32768            0.06     81.9%
+    bin=21            1315        1033     0.009366778405             1315        1149            0.01     18.1%
+ X  bin=20               0         116     0.004683389203                0         116 <          0.00      1.7%
+               ------------------------
+Total active:            0         116
+
+
+Sync-Point 199, Time: 0.747987, Redshift: 0.336922, Systemstep: 0.00349492, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64221       31619     0.018733556811            65536       32768            0.06     81.9%
+ X  bin=21            1315        1033     0.009366778405             1315        1149 < *        0.01     18.1%
+ X  bin=20               0         116     0.004683389203                0         116            0.00      0.1%
+               ------------------------
+Total active:         1315        1149
+
+
+Sync-Point 200, Time: 0.751498, Redshift: 0.330676, Systemstep: 0.00351133, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64221       31619     0.018733556811            65536       32768            0.06     81.8%
+    bin=21            1315        1028     0.009366778405             1315        1149            0.01     18.2%
+ X  bin=20               0         121     0.004683389203                0         121 <          0.00      0.1%
+               ------------------------
+Total active:            0         121
+
+
+Sync-Point 201, Time: 0.755026, Redshift: 0.324458, Systemstep: 0.00352781, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64221       31619     0.018733556811            65536       32768 < *        0.06     81.8%
+ X  bin=21            1315        1028     0.009366778405             1315        1149            0.01     18.2%
+ X  bin=20               0         121     0.004683389203                0         121            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 202, Time: 0.75857, Redshift: 0.31827, Systemstep: 0.00354437, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64217       31636     0.018733556811            65536       32768            0.06     82.1%
+    bin=21            1319        1016     0.009366778405             1319        1132            0.01     17.9%
+ X  bin=20               0         116     0.004683389203                0         116 <          0.00      1.7%
+               ------------------------
+Total active:            0         116
+
+
+Sync-Point 203, Time: 0.762131, Redshift: 0.31211, Systemstep: 0.00356101, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64217       31636     0.018733556811            65536       32768            0.06     82.1%
+ X  bin=21            1319        1016     0.009366778405             1319        1132 < *        0.01     17.9%
+ X  bin=20               0         116     0.004683389203                0         116            0.00      0.1%
+               ------------------------
+Total active:         1319        1132
+
+
+Sync-Point 204, Time: 0.765709, Redshift: 0.305979, Systemstep: 0.00357773, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64217       31636     0.018733556811            65536       32768            0.06     81.8%
+    bin=21            1319        1001     0.009366778405             1319        1132            0.01     18.2%
+ X  bin=20               0         131     0.004683389203                0         131 <          0.00      0.1%
+               ------------------------
+Total active:            0         131
+
+
+Sync-Point 205, Time: 0.769303, Redshift: 0.299877, Systemstep: 0.00359452, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64217       31636     0.018733556811            65536       32768 < *        0.06     81.8%
+ X  bin=21            1319        1001     0.009366778405             1319        1132            0.01     18.2%
+ X  bin=20               0         131     0.004683389203                0         131            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 206, Time: 0.772915, Redshift: 0.293804, Systemstep: 0.0036114, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64206       31639     0.018733556811            65536       32768            0.06     81.7%
+    bin=21            1330         989     0.009366778405             1330        1129            0.01     18.3%
+ X  bin=20               0         140     0.004683389203                0         140 <          0.00      1.7%
+               ------------------------
+Total active:            0         140
+
+
+Sync-Point 207, Time: 0.776543, Redshift: 0.287758, Systemstep: 0.00362835, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64206       31639     0.018733556811            65536       32768            0.06     81.7%
+ X  bin=21            1330         989     0.009366778405             1330        1129 < *        0.01     18.3%
+ X  bin=20               0         140     0.004683389203                0         140            0.00      0.1%
+               ------------------------
+Total active:         1330        1129
+
+
+Sync-Point 208, Time: 0.780189, Redshift: 0.281741, Systemstep: 0.00364538, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64206       31639     0.018733556811            65536       32768            0.06     81.6%
+    bin=21            1330         979     0.009366778405             1330        1129            0.01     18.4%
+ X  bin=20               0         150     0.004683389203                0         150 <          0.00      0.1%
+               ------------------------
+Total active:            0         150
+
+
+Sync-Point 209, Time: 0.783851, Redshift: 0.275753, Systemstep: 0.0036625, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64206       31639     0.018733556811            65536       32768 < *        0.06     81.6%
+ X  bin=21            1330         979     0.009366778405             1330        1129            0.01     18.4%
+ X  bin=20               0         150     0.004683389203                0         150            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 210, Time: 0.787531, Redshift: 0.269792, Systemstep: 0.00367969, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64197       31637     0.018733556811            65536       32768            0.06     81.7%
+    bin=21            1339         974     0.009366778405             1339        1131            0.01     18.3%
+ X  bin=20               0         157     0.004683389203                0         157 <          0.00      1.7%
+               ------------------------
+Total active:            0         157
+
+
+Sync-Point 211, Time: 0.791228, Redshift: 0.263859, Systemstep: 0.00369696, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64197       31637     0.018733556811            65536       32768            0.06     81.7%
+ X  bin=21            1339         974     0.009366778405             1339        1131 < *        0.01     18.3%
+ X  bin=20               0         157     0.004683389203                0         157            0.00      0.1%
+               ------------------------
+Total active:         1339        1131
+
+
+Sync-Point 212, Time: 0.794942, Redshift: 0.257953, Systemstep: 0.00371432, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64197       31637     0.018733556811            65536       32768            0.06     81.7%
+    bin=21            1339         965     0.009366778405             1339        1131            0.01     18.3%
+ X  bin=20               0         166     0.004683389203                0         166 <          0.00      0.1%
+               ------------------------
+Total active:            0         166
+
+
+Sync-Point 213, Time: 0.798674, Redshift: 0.252076, Systemstep: 0.00373175, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64197       31637     0.018733556811            65536       32768 < *        0.06     81.7%
+ X  bin=21            1339         965     0.009366778405             1339        1131            0.01     18.3%
+ X  bin=20               0         166     0.004683389203                0         166            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 214, Time: 0.802423, Redshift: 0.246225, Systemstep: 0.00374927, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64194       31627     0.018733556811            65536       32768            0.06     81.7%
+    bin=21            1342         971     0.009366778405             1342        1141            0.01     18.3%
+ X  bin=20               0         170     0.004683389203                0         170 <          0.00      1.7%
+               ------------------------
+Total active:            0         170
+
+
+Sync-Point 215, Time: 0.80619, Redshift: 0.240402, Systemstep: 0.00376687, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64194       31627     0.018733556811            65536       32768            0.06     81.7%
+ X  bin=21            1342         971     0.009366778405             1342        1141 < *        0.01     18.3%
+ X  bin=20               0         170     0.004683389203                0         170            0.00      0.1%
+               ------------------------
+Total active:         1342        1141
+
+
+Sync-Point 216, Time: 0.809974, Redshift: 0.234607, Systemstep: 0.00378456, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64194       31627     0.018733556811            65536       32768            0.06     81.6%
+    bin=21            1342         963     0.009366778405             1342        1141            0.01     18.4%
+ X  bin=20               0         178     0.004683389203                0         178 <          0.00      0.1%
+               ------------------------
+Total active:            0         178
+
+
+Sync-Point 217, Time: 0.813777, Redshift: 0.228838, Systemstep: 0.00380232, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64194       31627     0.018733556811            65536       32768 < *        0.06     81.6%
+ X  bin=21            1342         963     0.009366778405             1342        1141            0.01     18.4%
+ X  bin=20               0         178     0.004683389203                0         178            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 218, Time: 0.817597, Redshift: 0.223096, Systemstep: 0.00382017, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64224       31642     0.018733556811            65536       32768            0.06     81.7%
+    bin=21            1312         952     0.009366778405             1312        1126            0.01     18.3%
+ X  bin=20               0         174     0.004683389203                0         174 <          0.00      1.7%
+               ------------------------
+Total active:            0         174
+
+
+Sync-Point 219, Time: 0.821435, Redshift: 0.217382, Systemstep: 0.00383811, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64224       31642     0.018733556811            65536       32768            0.06     81.7%
+ X  bin=21            1312         952     0.009366778405             1312        1126 < *        0.01     18.3%
+ X  bin=20               0         174     0.004683389203                0         174            0.00      0.1%
+               ------------------------
+Total active:         1312        1126
+
+
+Sync-Point 220, Time: 0.825291, Redshift: 0.211693, Systemstep: 0.00385612, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64224       31642     0.018733556811            65536       32768            0.06     81.6%
+    bin=21            1312         952     0.009366778405             1312        1126            0.01     18.4%
+ X  bin=20               0         174     0.004683389203                0         174 <          0.00      0.1%
+               ------------------------
+Total active:            0         174
+
+
+Sync-Point 221, Time: 0.829165, Redshift: 0.206032, Systemstep: 0.00387423, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64224       31642     0.018733556811            65536       32768 < *        0.06     81.6%
+ X  bin=21            1312         952     0.009366778405             1312        1126            0.01     18.4%
+ X  bin=20               0         174     0.004683389203                0         174            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 222, Time: 0.833058, Redshift: 0.200397, Systemstep: 0.00389241, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64247       31667     0.018733556811            65536       32768            0.06     81.7%
+    bin=21            1289         926     0.009366778405             1289        1101            0.01     18.3%
+ X  bin=20               0         175     0.004683389203                0         175 <          0.00      1.7%
+               ------------------------
+Total active:            0         175
+
+
+Sync-Point 223, Time: 0.836969, Redshift: 0.194788, Systemstep: 0.00391068, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64247       31667     0.018733556811            65536       32768            0.06     81.7%
+ X  bin=21            1289         926     0.009366778405             1289        1101 < *        0.01     18.3%
+ X  bin=20               0         175     0.004683389203                0         175            0.00      0.1%
+               ------------------------
+Total active:         1289        1101
+
+
+Sync-Point 224, Time: 0.840898, Redshift: 0.189205, Systemstep: 0.00392904, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64247       31667     0.018733556811            65536       32768            0.06     81.5%
+    bin=21            1289         927     0.009366778405             1289        1101            0.01     18.5%
+ X  bin=20               0         174     0.004683389203                0         174 <          0.00      0.1%
+               ------------------------
+Total active:            0         174
+
+
+Sync-Point 225, Time: 0.844845, Redshift: 0.183649, Systemstep: 0.00394749, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64247       31667     0.018733556811            65536       32768 < *        0.06     81.5%
+ X  bin=21            1289         927     0.009366778405             1289        1101            0.01     18.5%
+ X  bin=20               0         174     0.004683389203                0         174            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 226, Time: 0.848811, Redshift: 0.178118, Systemstep: 0.00396602, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64290       31712     0.018733556811            65536       32768            0.06     81.4%
+    bin=21            1246         880     0.009366778405             1246        1056            0.01     18.6%
+ X  bin=20               0         176     0.004683389203                0         176 <          0.00      1.7%
+               ------------------------
+Total active:            0         176
+
+
+Sync-Point 227, Time: 0.852796, Redshift: 0.172614, Systemstep: 0.00398464, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64290       31712     0.018733556811            65536       32768            0.06     81.4%
+ X  bin=21            1246         880     0.009366778405             1246        1056 < *        0.01     18.6%
+ X  bin=20               0         176     0.004683389203                0         176            0.00      0.1%
+               ------------------------
+Total active:         1246        1056
+
+
+Sync-Point 228, Time: 0.856799, Redshift: 0.167135, Systemstep: 0.00400334, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64290       31712     0.018733556811            65536       32768            0.06     81.7%
+    bin=21            1246         872     0.009366778405             1246        1056            0.01     18.3%
+ X  bin=20               0         184     0.004683389203                0         184 <          0.00      0.1%
+               ------------------------
+Total active:            0         184
+
+
+Sync-Point 229, Time: 0.860821, Redshift: 0.161681, Systemstep: 0.00402213, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64290       31712     0.018733556811            65536       32768 < *        0.06     81.7%
+ X  bin=21            1246         872     0.009366778405             1246        1056            0.01     18.3%
+ X  bin=20               0         184     0.004683389203                0         184            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 230, Time: 0.864862, Redshift: 0.156254, Systemstep: 0.00404102, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64343       31715     0.018733556811            65536       32768            0.07     81.8%
+    bin=21            1193         879     0.009366778405             1193        1053            0.01     18.2%
+ X  bin=20               0         174     0.004683389203                0         174 <          0.00      1.7%
+               ------------------------
+Total active:            0         174
+
+
+Sync-Point 231, Time: 0.868922, Redshift: 0.150851, Systemstep: 0.00405999, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64343       31715     0.018733556811            65536       32768            0.07     81.8%
+ X  bin=21            1193         879     0.009366778405             1193        1053 < *        0.01     18.2%
+ X  bin=20               0         174     0.004683389203                0         174            0.00      0.1%
+               ------------------------
+Total active:         1193        1053
+
+
+Sync-Point 232, Time: 0.873001, Redshift: 0.145474, Systemstep: 0.00407905, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64343       31715     0.018733556811            65536       32768            0.07     81.9%
+    bin=21            1193         885     0.009366778405             1193        1053            0.01     18.1%
+ X  bin=20               0         168     0.004683389203                0         168 <          0.00      0.1%
+               ------------------------
+Total active:            0         168
+
+
+Sync-Point 233, Time: 0.877099, Redshift: 0.140122, Systemstep: 0.00409819, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64343       31715     0.018733556811            65536       32768 < *        0.07     81.9%
+ X  bin=21            1193         885     0.009366778405             1193        1053            0.01     18.1%
+ X  bin=20               0         168     0.004683389203                0         168            0.00      0.2%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 234, Time: 0.881217, Redshift: 0.134794, Systemstep: 0.00411743, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64388       31732     0.018733556811            65536       32768            0.06     81.7%
+    bin=21            1148         881     0.009366778405             1148        1036            0.01     18.3%
+ X  bin=20               0         155     0.004683389203                0         155 <          0.00      1.7%
+               ------------------------
+Total active:            0         155
+
+
+Sync-Point 235, Time: 0.885354, Redshift: 0.129492, Systemstep: 0.00413676, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64388       31732     0.018733556811            65536       32768            0.06     81.7%
+ X  bin=21            1148         881     0.009366778405             1148        1036 < *        0.01     18.3%
+ X  bin=20               0         155     0.004683389203                0         155            0.00      0.1%
+               ------------------------
+Total active:         1148        1036
+
+
+Sync-Point 236, Time: 0.88951, Redshift: 0.124215, Systemstep: 0.00415618, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64388       31732     0.018733556811            65536       32768            0.06     81.8%
+    bin=21            1148         892     0.009366778405             1148        1036            0.01     18.2%
+ X  bin=20               0         144     0.004683389203                0         144 <          0.00      0.1%
+               ------------------------
+Total active:            0         144
+
+
+Sync-Point 237, Time: 0.893686, Redshift: 0.118962, Systemstep: 0.00417569, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64388       31732     0.018733556811            65536       32768 < *        0.06     81.8%
+ X  bin=21            1148         892     0.009366778405             1148        1036            0.01     18.2%
+ X  bin=20               0         144     0.004683389203                0         144            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 238, Time: 0.897881, Redshift: 0.113734, Systemstep: 0.00419529, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64454       31754     0.018733556811            65536       32768            0.06     81.9%
+    bin=21            1082         885     0.009366778405             1082        1014            0.01     18.1%
+ X  bin=20               0         129     0.004683389203                0         129 <          0.00      1.7%
+               ------------------------
+Total active:            0         129
+
+
+Sync-Point 239, Time: 0.902096, Redshift: 0.10853, Systemstep: 0.00421499, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64454       31754     0.018733556811            65536       32768            0.06     81.9%
+ X  bin=21            1082         885     0.009366778405             1082        1014 < *        0.01     18.1%
+ X  bin=20               0         129     0.004683389203                0         129            0.00      0.1%
+               ------------------------
+Total active:         1082        1014
+
+
+Sync-Point 240, Time: 0.906331, Redshift: 0.10335, Systemstep: 0.00423477, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64454       31754     0.018733556811            65536       32768            0.06     82.1%
+    bin=21            1082         891     0.009366778405             1082        1014            0.01     17.9%
+ X  bin=20               0         123     0.004683389203                0         123 <          0.00      0.1%
+               ------------------------
+Total active:            0         123
+
+
+Sync-Point 241, Time: 0.910585, Redshift: 0.0981948, Systemstep: 0.00425465, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64454       31754     0.018733556811            65536       32768 < *        0.06     82.1%
+ X  bin=21            1082         891     0.009366778405             1082        1014            0.01     17.9%
+ X  bin=20               0         123     0.004683389203                0         123            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 242, Time: 0.91486, Redshift: 0.0930636, Systemstep: 0.00427463, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64522       31758     0.018733556811            65536       32768            0.06     82.1%
+    bin=21            1014         906     0.009366778405             1014        1010            0.01     17.9%
+ X  bin=20               0         104     0.004683389203                0         104 <          0.00      1.8%
+               ------------------------
+Total active:            0         104
+
+
+Sync-Point 243, Time: 0.919155, Redshift: 0.0879563, Systemstep: 0.00429469, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64522       31758     0.018733556811            65536       32768            0.06     82.1%
+ X  bin=21            1014         906     0.009366778405             1014        1010 < *        0.01     17.9%
+ X  bin=20               0         104     0.004683389203                0         104            0.00      0.1%
+               ------------------------
+Total active:         1014        1010
+
+
+Sync-Point 244, Time: 0.923469, Redshift: 0.0828729, Systemstep: 0.00431485, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64522       31758     0.018733556811            65536       32768            0.06     82.4%
+    bin=21            1014         920     0.009366778405             1014        1010            0.01     17.6%
+ X  bin=20               0          90     0.004683389203                0          90 <          0.00      0.1%
+               ------------------------
+Total active:            0          90
+
+
+Sync-Point 245, Time: 0.927805, Redshift: 0.0778133, Systemstep: 0.00433511, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64522       31758     0.018733556811            65536       32768 < *        0.06     82.4%
+ X  bin=21            1014         920     0.009366778405             1014        1010            0.01     17.6%
+ X  bin=20               0          90     0.004683389203                0          90            0.00      0.1%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 246, Time: 0.93216, Redshift: 0.0727772, Systemstep: 0.00435546, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64629       31788     0.018733556811            65536       32768            0.06     82.3%
+    bin=21             907         900     0.009366778405              907         980            0.01     17.7%
+ X  bin=20               0          80     0.004683389203                0          80 <          0.00      1.8%
+               ------------------------
+Total active:            0          80
+
+
+Sync-Point 247, Time: 0.936536, Redshift: 0.0677648, Systemstep: 0.00437591, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64629       31788     0.018733556811            65536       32768            0.06     82.3%
+ X  bin=21             907         900     0.009366778405              907         980 < *        0.01     17.7%
+ X  bin=20               0          80     0.004683389203                0          80            0.00      0.1%
+               ------------------------
+Total active:          907         980
+
+
+Sync-Point 248, Time: 0.940932, Redshift: 0.0627757, Systemstep: 0.00439645, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64629       31788     0.018733556811            65536       32768            0.06     82.6%
+    bin=21             907         916     0.009366778405              907         980            0.01     17.4%
+ X  bin=20               0          64     0.004683389203                0          64 <          0.00      0.1%
+               ------------------------
+Total active:            0          64
+
+
+Sync-Point 249, Time: 0.945349, Redshift: 0.0578099, Systemstep: 0.00441709, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64629       31788     0.018733556811            65536       32768 < *        0.06     82.6%
+ X  bin=21             907         916     0.009366778405              907         980            0.01     17.4%
+ X  bin=20               0          64     0.004683389203                0          64            0.00      0.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 250, Time: 0.949787, Redshift: 0.0528674, Systemstep: 0.00443782, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64740       31807     0.018733556811            65536       32768            0.06     82.5%
+    bin=21             796         916     0.009366778405              796         961            0.01     17.5%
+ X  bin=20               0          45     0.004683389203                0          45 <          0.00      1.8%
+               ------------------------
+Total active:            0          45
+
+
+Sync-Point 251, Time: 0.954246, Redshift: 0.0479479, Systemstep: 0.00445866, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64740       31807     0.018733556811            65536       32768            0.06     82.5%
+ X  bin=21             796         916     0.009366778405              796         961 < *        0.01     17.5%
+ X  bin=20               0          45     0.004683389203                0          45            0.00      0.0%
+               ------------------------
+Total active:          796         961
+
+
+Sync-Point 252, Time: 0.958725, Redshift: 0.0430514, Systemstep: 0.00447959, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64740       31807     0.018733556811            65536       32768            0.06     82.7%
+    bin=21             796         925     0.009366778405              796         961            0.01     17.3%
+ X  bin=20               0          36     0.004683389203                0          36 <          0.00      0.1%
+               ------------------------
+Total active:            0          36
+
+
+Sync-Point 253, Time: 0.963226, Redshift: 0.0381779, Systemstep: 0.00450062, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64740       31807     0.018733556811            65536       32768 < *        0.06     82.7%
+ X  bin=21             796         925     0.009366778405              796         961            0.01     17.3%
+ X  bin=20               0          36     0.004683389203                0          36            0.00      0.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 254, Time: 0.967748, Redshift: 0.033327, Systemstep: 0.00452174, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64908       31844     0.018733556811            65536       32768            0.06     82.6%
+    bin=21             628         901     0.009366778405              628         924            0.01     17.4%
+ X  bin=20               0          23     0.004683389203                0          23 <          0.00      1.7%
+               ------------------------
+Total active:            0          23
+
+
+Sync-Point 255, Time: 0.972291, Redshift: 0.0284989, Systemstep: 0.00454297, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64908       31844     0.018733556811            65536       32768            0.06     82.6%
+ X  bin=21             628         901     0.009366778405              628         924 < *        0.01     17.4%
+ X  bin=20               0          23     0.004683389203                0          23            0.00      0.0%
+               ------------------------
+Total active:          628         924
+
+
+Sync-Point 256, Time: 0.976855, Redshift: 0.0236933, Systemstep: 0.0045643, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           64908       31844     0.018733556811            65536       32768            0.06     82.9%
+    bin=21             628         906     0.009366778405              628         924            0.01     17.1%
+ X  bin=20               0          18     0.004683389203                0          18 <          0.00      0.1%
+               ------------------------
+Total active:            0          18
+
+
+Sync-Point 257, Time: 0.981441, Redshift: 0.0189101, Systemstep: 0.00458572, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           64908       31844     0.018733556811            65536       32768 < *        0.06     82.9%
+ X  bin=21             628         906     0.009366778405              628         924            0.01     17.1%
+ X  bin=20               0          18     0.004683389203                0          18            0.00      0.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
+
+Sync-Point 258, Time: 0.986048, Redshift: 0.0141493, Systemstep: 0.00460725, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65037       31876     0.018733556811            65536       32768            0.06     82.9%
+    bin=21             499         881     0.009366778405              499         892            0.01     17.1%
+ X  bin=20               0          11     0.004683389203                0          11 <          0.00      1.8%
+               ------------------------
+Total active:            0          11
+
+
+Sync-Point 259, Time: 0.990677, Redshift: 0.00941078, Systemstep: 0.00462888, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65037       31876     0.018733556811            65536       32768            0.06     82.9%
+ X  bin=21             499         881     0.009366778405              499         892 < *        0.01     17.1%
+ X  bin=20               0          11     0.004683389203                0          11            0.00      0.0%
+               ------------------------
+Total active:          499         892
+
+
+Sync-Point 260, Time: 0.995328, Redshift: 0.00469437, Systemstep: 0.00465061, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+    bin=22           65037       31876     0.018733556811            65536       32768            0.06     83.2%
+    bin=21             499         882     0.009366778405              499         892            0.01     16.8%
+ X  bin=20               0          10     0.004683389203                0          10 <          0.00      0.1%
+               ------------------------
+Total active:            0          10
+
+
+Sync-Point 261, Time: 1, Redshift: 0, Systemstep: 0.00467244, Dloga: 0.00468339
+Occupied timebins: gravity         sph          dt              cumul-grav   cumul-sph A D    avg-time  cpu-frac
+ X  bin=22           65037       31876     0.018733556811            65536       32768 < *        0.06     83.2%
+ X  bin=21             499         882     0.009366778405              499         892            0.01     16.8%
+ X  bin=20               0          10     0.004683389203                0          10            0.00      0.0%
+               ------------------------
+PM-Step. Total:      65536       32768
+
